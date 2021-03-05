@@ -49,8 +49,10 @@ Eager to make your first pull request or make out connections with lot of people
  
  ## Simple Guide to Making a PR or Contribution.
  ### 1. Fork/ Edit
- What is a fork? This is cloning a repository to have a personal version of that same/main repository.
-It is advisable to first fork the repository you want to contribute to and then move to check for it in your personal GitHub repositories, there you would find the forked 
+ What is a fork? 
+ 
+This is cloning a repository to have a personal version of that same/main repository.
+So, tt is advisable to first fork the repository you want to contribute to and then move to check for it in your personal GitHub repositories, there you would find the forked 
 repository. You can also click the edit(pencil) button, and this automatically forks the repo to your version. Make sure you are in the right repository before forking or editing it, can you see the name of the repository used as a sample!
 <img align="center" src="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/pr-tut-pics/fork1.jpg" />
 
