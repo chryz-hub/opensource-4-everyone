@@ -35,5 +35,5 @@ ________________________________________________________________________________
   <p>Bio: I'm an aspiring back-end engineer
 
 - [Udeagbala Anthony](https://github.com/izudada)
-  <p>Bio: A growing python developer, more interested in building web applications with python.
+  <p>Bio: A growing python developer, more interested in building web applications with python. </p>
    
