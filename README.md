@@ -50,22 +50,22 @@ Eager to make your first pull request or make out connections with lot of people
  ## Simple Guide to Making a PR or Contribution.
 - ### Fork/ Edit
 It is advisable to first fork the repo you want to contribute to and then move to check the available repositories in your GiHub account, there you would find the forked repo. The word 'fork' been stated here, gives you a version of that exact repository or instead of forking better still You can click on the edit(pencil) button, and this automatically forks the repo to your version. Make sure you are in the right repository before forking or editing it, can you see the name of the repo, check it!
-<img align="center" src="https://github.com/chryzcodez/opensource-4-everyone/blob/main/pull-request-tutorial-pics/fork-edit.png" />
+<img align="center" src="https://github.com/chryz-hub/opensource-4-everyone/blob/master/pull-request-tutorial-pics/fork-edit.png" />
 
 
 - ### Start Making contribution/ changes
 There is a difference in the naming of the repo, I already got my personal version of the repo because I forked it or edited it. So, you can start making the changes and adding anything you feel like and after this, commit the changes and put a precise/ short commit message. This is where the contribution starts, add the features intended!
-<img align="center" src="https://github.com/chryzcodez/opensource-4-everyone/blob/main/pull-request-tutorial-pics/working.png" />
+<img align="center" src="https://github.com/chryz-hub/opensource-4-everyone/blob/master/pull-request-tutorial-pics/working.png" />
 
 - ### Create Pull Request
 Then, click the pull request tab and make new pull request
-<img align="center" src="https://github.com/chryzcodez/opensource-4-everyone/blob/main/pull-request-tutorial-pics/create-PR.png" />
+<img align="center" src="https://github.com/chryz-hub/opensource-4-everyone/blob/master/pull-request-tutorial-pics/create-PR.png" />
 After that, GitHub would make a comparism between your own verison(forked) of the repo and the real repository to check if there was a change and if the change is mergeable. If it is not mergeable, you can still make the pull request and resolve it(reoslve conflicts), GitHub would point out the issue which makes it easier. Once it is mergable, you can click create your pull request
-<img align="center" src="https://github.com/chryzcodez/opensource-4-everyone/blob/main/pull-request-tutorial-pics/pr%20in%20progress.png" />
+<img align="center" src="https://github.com/chryz-hub/opensource-4-everyone/blob/master/pull-request-tutorial-pics/pr%20in%20progress.png" />
 Now, you need to **open the pull request**, this entails
  - Typing down a short/ precise commit message
  - Our community has a pull request template which makes it easier to fill in important and apprioprate details concerning the pull request. I only typed down the work of the PR, because I saw the rest as unimportant pertaining to what PR I was making!
-<img align="center" src=" https://github.com/chryzcodez/opensource-4-everyone/blob/main/pull-request-tutorial-pics/pr%20in%20progress.png" />
+<img align="center" src="https://github.com/chryz-hub/opensource-4-everyone/blob/master/pull-request-tutorial-pics/pr%20in%20progress%202.png" />
 
 ### Congratulations🎉 You've made your first contribution
 After your PR has been reviewed by the Team of the community and everything there is appropriate. Then, your PR would be merged and this makes your PR a contribution!
