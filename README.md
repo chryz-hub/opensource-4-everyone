@@ -48,30 +48,37 @@ Eager to make your first pull request or make out connections with lot of people
 * To be a member; Raise an [invitation issue here!](https://github.com/chryz-hub/chryz-hub.github.io/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)
  
  ## Simple Guide to Making a PR or Contribution.
-- ### Fork/ Edit
-It is advisable to first fork the repo you want to contribute to and then move to check the available repositories in your GiHub account, there you would find the forked repo. The word 'fork' been stated here, gives you a version of that exact repository or instead of forking better still You can click on the edit(pencil) button, and this automatically forks the repo to your version. Make sure you are in the right repository before forking or editing it, can you see the name of the repo, check it!
-<img align="center" src="https://github.com/chryzcodez/opensource-4-everyone/blob/main/pull-request-tutorial-pics/fork-edit.png" />
+ ### 1. Fork/ Edit
+ What is a fork? This is cloning a repository to have a personal version of that same/main repository.
+It is advisable to first fork the repository you want to contribute to and then move to check for it in your personal GitHub repositories, there you would find the forked 
+repository. You can also click the edit(pencil) button, and this automatically forks the repo to your version. Make sure you are in the right repository before forking or editing it, can you see the name of the repository used as a sample!
+<img align="center" src="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/pr-tut-pics/fork1.jpg" />
 
 
-- ### Start Making contribution/ changes
-There is a difference in the naming of the repo, I already got my personal version of the repo because I forked it or edited it. So, you can start making the changes and adding anything you feel like and after this, commit the changes and put a precise/ short commit message. This is where the contribution starts, add the features intended!
-<img align="center" src="https://github.com/chryzcodez/opensource-4-everyone/blob/main/pull-request-tutorial-pics/working.png" />
+### 2. Start Making contribution/ changes
+Do you notice any change ~~ the naming of the repository, the first name there is your forked version while the other is that of the real repository. So, I already got my personal version of the repository because I forked or edited it. Then, you can start making your changes and add anything you feel neccesary/right.
+<img align="center" src="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/pr-tut-pics/work2.jpg" />
 
-- ### Create Pull Request
-Then, click the pull request tab and make new pull request
-<img align="center" src="https://github.com/chryzcodez/opensource-4-everyone/blob/main/pull-request-tutorial-pics/create-PR.png" />
-After that, GitHub would make a comparism between your own verison(forked) of the repo and the real repository to check if there was a change and if the change is mergeable. If it is not mergeable, you can still make the pull request and resolve it(reoslve conflicts), GitHub would point out the issue which makes it easier. Once it is mergable, you can click create your pull request
-<img align="center" src="https://github.com/chryzcodez/opensource-4-everyone/blob/main/pull-request-tutorial-pics/pr%20in%20progress.png" />
-Now, you need to **open the pull request**, this entails
- - Typing down a short/ precise commit message
- - Our community has a pull request template which makes it easier to fill in important and apprioprate details concerning the pull request. I only typed down the work of the PR, because I saw the rest as unimportant pertaining to what PR I was making!
-<img align="center" src=" https://github.com/chryzcodez/opensource-4-everyone/blob/main/pull-request-tutorial-pics/pr%20in%20progress.png" />
+### 3. Commit Changes
+Just like using git, you have to put down a commit message, without putting down any message GitHub defaultly give you a commit message exactly as what I used as my commit message. There is a secound space for more description, you can fill this up if you see it as dimmed fit or necessary and be precise. So, I would be committing this on the master(default) of my forked GitHub repository. There would be no much sense in commiting this in a new branch because I run this, there are no other contributors and you are sure on what you want but if it is a GitHub community it is advisable to create a new branch. Then commit changes!
+<img align="center" src="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/pr-tut-pics/worksave3jpg.jpg" />
+
+### 4. Create Pull Request
+After the commit, then click the pull request tab and make new pull request
+<img align="center" src="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/pr-tut-pics/pr-1-4.jpg" />
+
+### 5. Comparing Changes
+This is all about the comparism between your own (forked)verison and the real repository to check if there was a change and if the change is mergeable. You can see the word `comparing across forks` and a transitional line with an arrow in the middle. You must set this well to avoid issue, now we are sending from mine to the main/real repository using the direction of the arrow, then you can make your pull request. If it is not mergeable, you can still make the pull request and resolve it `resolve conflicts`, GitHub would point out the issue which makes it easier for you to resolve.
+<img align="center" src="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/pr-tut-pics/pr-2-5.jpg" />
+
+### 6. Create Pull Request Message
+Just same process as a commit message. Some community have a pull request template which makes it easier to fill in important and apprioprate details concerning a pull request,
+which is shown on the image. I didn't add any description because I didn't really make a change, my change here was omly a space but yours would be way far than this. So fill 
+it up with neccessary details concerning the pull request and do not forget be precise. You can see a check button there, this means that can the pull request be edited by the contributors of the community you making a PR to. I really advise you to always check this, although it's authomatically checked by github defaulty, so the choice is left to you. Then click the  `create pull request`button.
+<img align="center" src="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/pr-tut-pics/pr-3-6.jpg" />
 
 ### Congratulations🎉 You've made your first contribution
 After your PR has been reviewed by the Team of the community and everything there is appropriate. Then, your PR would be merged and this makes your PR a contribution!
-
-You can can see some contributions below👇!
-<img align="center" src="https://github.com/chryz-hub/opensource-4-everyone/blob/master/pull-request-tutorial-pics/contributed.png" />
 
 ## Chryz-hub Resources
 - [How To Make Your GitHub Profile Readme:)](https://chryzcodez.hashnode.dev/how-to-make-your-github-profile-readme)
