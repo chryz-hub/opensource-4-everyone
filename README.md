@@ -145,6 +145,15 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 
 <details>
 <summary>
+<strong> YouTube Videos </strong>
+</summary>
+    <ul>
+       <li> <a href ="  "> <!-- The name of the video--></a></li>
+   </ul>
+</details> 
+
+<details>
+<summary>
 <strong> Open-Source Docs/ Blogs </strong>
 </summary>
     <ul>
