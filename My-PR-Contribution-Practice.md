@@ -6,7 +6,7 @@
 - To add to your pull request count
 - To add to your contributions count
 - To make connections, how?
- In this PR/contribution practice, these can be included:
+ In this Pull Request/ contribution practice, these can be included:
   - Your name
   - Your GitHUb profile link
   - What you do
@@ -27,13 +27,16 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________
 
 - [Alaba Olanrewaju](https://github.com/chryzcodez)
-  <p>Bio: A developer, technical writer/ blogger, an open-source personnel and an aspiring data scientist</p>
+  <p>Bio: A developer, technical writer/ blogger, an open-source personnel and an aspiring data scientist. </p>
+
+- [Amjad Noor](https://github.com/AmjadNoor)
+  <p>Bio: I'm a front-end developer. </p>
   
 - [Naman Gupta](https://github.com/namangupta1399)
-  <p>Bio: Computer Science Undergraduate, Aspiring Web Developer</p>
+  <p>Bio: Computer Science Undergraduate, Aspiring Web Developer. </p>
   
 - [Tanimowo Emmanuel](https://github.com/mannuel25)
-  <p>Bio: I'm an aspiring back-end engineer
+  <p>Bio: I'm an aspiring back-end engineer. </p>
 
 - [Udeagbala Anthony](https://github.com/izudada)
   <p>Bio: A growing python developer, more interested in building web applications with python. </p>
