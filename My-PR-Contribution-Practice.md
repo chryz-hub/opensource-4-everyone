@@ -31,6 +31,9 @@ ________________________________________________________________________________
 
 - [Amjad Noor](https://github.com/AmjadNoor)
   <p>Bio: I'm a front-end developer. </p>
+  
+- [Anshul Mehta](https://github.com/Anshul7sp1)
+  <p>Bio: CS undergrad. Interested in contributing to opensource</p>
 
 - [Franklin Ohaegbulam](https://github.com/frankiefab100)
   <p>Bio: A visual designer and Frontend/UI Developer. </p>
