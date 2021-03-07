@@ -40,4 +40,6 @@ ________________________________________________________________________________
 
 - [Udeagbala Anthony](https://github.com/izudada)
   <p>Bio: A growing python developer, more interested in building web applications with python. </p>
-   
+     
+- [Franklin Ohaegbulam](https://github.com/frankiefab100)
+  <p>Bio: A Visual designer and Frontend/UI Developer. </p>
