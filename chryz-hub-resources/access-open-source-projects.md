@@ -6,8 +6,8 @@ We know this can be a difficult process, especially if it's your first time cont
 
 ## Tips
 - Look at our projects in the [chryz-hub](https://github.com/chryz-hub) GitHub organization.
-- Have a look at your friends and community projects
-- A good place to find projects is Twitter. People share projects on what they are working on, or simply repositories they found interesting
+- Have a look at your friends and community projects.
+- A good place to find projects is Twitter. People share projects on what they are working on, or simply repositories they found interesting.
 - Look at the projects/libraries/frameworks you already use, are there improvements you can make, or look at their issues list.
 - Search issues on GitHub and filter by labels like `hacktoberfest` or [good-first-issue](https://github.com/search?q=label%3Agood-first-issue+state%3Aopen&type=Issues&ref=advsearch&l=&l=)
 - Take a look at the [Explore](https://github.com/explore) feature on GitHub. You can see the trending repositories or choose by topic (e.g. python)

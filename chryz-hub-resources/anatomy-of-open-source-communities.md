@@ -18,7 +18,7 @@ A typical open source project has the following types of people:
 
 **Community Members**: People who use the project. They might be active in conversations or express their opinion on the project’s direction.
 
-Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project’s website for a “team” page, or in the repository for governance documentation, to find this information. **Note:_ You can checkout our [community team](/https://github.com/chryz-hub/chryz-hub.github.io/blob/develop/chryz-hub-team.md)**
+Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project’s website for a “team” page, or in the repository for governance documentation, to find this information. **Note: You can checkout our [community team](https://github.com/orgs/chryz-hub/teams)**
 
 
 A project also has documentation. These files are usually listed in the top level of a repository.
@@ -29,7 +29,7 @@ A project also has documentation. These files are usually listed in the top leve
 
 **CONTRIBUTING**: Whereas READMEs help people use the project, contributing docs help people contribute to the project. It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to.
 
-**CODE_OF_CONDUCT**: The code of conduct sets ground rules for participants’ behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to. **Do well to check our [code of conduct](https://github.com/chryz-hub/chryz-hub.github.io/blob/develop/CODE_OF_CONDUCT.md)**
+**CODE_OF_CONDUCT**: The code of conduct sets ground rules for participant’s behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to. **Do well to check our [code of conduct](https://github.com/chryz-hub/opensource-4-everyone/blob/master/CODE_OF_CONDUCT.md)**
 
 **Other documentation**: There might be additional documentation, such as tutorials, walkthroughs, or governance policies, especially on bigger projects.
 
@@ -43,6 +43,6 @@ Finally, open source projects use the following tools to organize discussion. Re
 
 **Synchronous chat channel**: Some projects use chat channels (such as Discord or IRC) for casual conversation, collaboration, and quick exchanges.
 
-### Connect with us on;
+### Connect with us on:
   * [Discord](https://discord.gg/c6RhGwcP5b)
   * chryzhub@gmail.com

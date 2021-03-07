@@ -22,7 +22,7 @@ You have to be on the community page, where you are a member and click the `peop
 
 - <b> Search and find out your name</b>
 
-Then you would find a list of the community members, then search out and find your name and we can all see from the picture below,  that there is a difference,
+Then you would find a list of the community members, then search out and find your name and we can all see from the picture below, that there is a difference,
 only an account is made public and the others private. So you would have to click the `private` button to toggle it `public`
 ![](https://github.com/chryz-hub/opensource-4-everyone/blob/master/memb-visibility-pics/memb-2.png)
 
