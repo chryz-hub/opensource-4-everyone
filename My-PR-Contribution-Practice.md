@@ -40,6 +40,9 @@ ________________________________________________________________________________
   
 - [Tanimowo Emmanuel](https://github.com/mannuel25)
   <p>Bio: I'm an aspiring back-end engineer. </p>
+  
+- [Tonatiuh Morales](https://github.com/blackc0mb)
+  <p>Bio: Developer in my free time and interested in collaborate in a project. </p>
 
 - [Udeagbala Anthony](https://github.com/izudada)
   <p>Bio: A growing python developer, more interested in building web applications with python. </p>
