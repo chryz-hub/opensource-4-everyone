@@ -35,6 +35,9 @@ ________________________________________________________________________________
 - [Anshul Mehta](https://github.com/Anshul7sp1)
   <p>Bio: CS undergrad. Interested in contributing to opensource</p>
 
+- [Eke Victor](https://github.com/Evavic44)
+  <p>Bio: A self-taught Frontend web developer proficient in HTML & CSS. With a passion to build solutions using JavaScript</p>
+
 - [Franklin Ohaegbulam](https://github.com/frankiefab100)
   <p>Bio: A visual designer and Frontend/UI Developer. </p>
   
