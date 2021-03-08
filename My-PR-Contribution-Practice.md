@@ -31,6 +31,9 @@ ________________________________________________________________________________
 
 - [Amjad Noor](https://github.com/AmjadNoor)
   <p>Bio: I'm a front-end developer. </p>
+  
+- [Anshul Mehta](https://github.com/Anshul7sp1)
+  <p>Bio: CS undergrad. Interested in contributing to opensource</p>
 
 - [Franklin Ohaegbulam](https://github.com/frankiefab100)
   <p>Bio: A visual designer and Frontend/UI Developer. </p>
@@ -40,6 +43,9 @@ ________________________________________________________________________________
   
 - [Tanimowo Emmanuel](https://github.com/mannuel25)
   <p>Bio: I'm an aspiring back-end engineer. </p>
+  
+- [Tonatiuh Morales](https://github.com/blackc0mb)
+  <p>Bio: Developer in my free time and interested in collaborating in a project. </p>
 
 - [Udeagbala Anthony](https://github.com/izudada)
   <p>Bio: A growing python developer, more interested in building web applications with python. </p>

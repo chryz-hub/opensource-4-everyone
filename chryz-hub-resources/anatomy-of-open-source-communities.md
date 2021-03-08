@@ -18,7 +18,7 @@ A typical open source project has the following types of people:
 
 **Community Members**: People who use the project. They might be active in conversations or express their opinion on the project’s direction.
 
-Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project’s website for a “team” page, or in the repository for governance documentation, to find this information. **Note: You can checkout our [community team](https://github.com/orgs/chryz-hub/teams)**
+Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project’s website for a “team” page, or in the repository for governance documentation, to find this information. **Note: You can checkout our [community team](https://github.com/chryz-hub/chryz-hub.github.io#meet-the-team)**
 
 
 A project also has documentation. These files are usually listed in the top level of a repository.
