@@ -34,6 +34,9 @@ ________________________________________________________________________________
   
 - [Anshul Mehta](https://github.com/Anshul7sp1)
   <p>Bio: CS undergrad. Interested in contributing to opensource</p>
+  
+- [Damilare Oyedeji](https://github.com/fuglydami)
+  <p>Bio: I'm a frontend developer who's also passionate about backend technologies </p>
 
 - [Eke Victor](https://github.com/Evavic44)
   <p>Bio: A self-taught Frontend web developer proficient in HTML & CSS. With a passion to build solutions using JavaScript</p>
@@ -53,6 +56,4 @@ ________________________________________________________________________________
 - [Udeagbala Anthony](https://github.com/izudada)
   <p>Bio: A growing python developer, more interested in building web applications with python. </p>
 
-- [Damilare Oyedeji](https://github.com/fuglydami)
-  <p>Bio: I'm a frontend developer who's also passionate about backend technologies </p>
 
