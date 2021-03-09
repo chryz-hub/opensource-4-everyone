@@ -59,7 +59,7 @@ ________________________________________________________________________________
 - [Udeagbala Anthony](https://github.com/izudada)
   <p>Bio: A growing python developer, more interested in building web applications with python. </p>
 
-- [Rita Uzoma](https://github.com/i-am-rita)
+- [Uzoma Rita](https://github.com/i-am-rita)
   <p>Bio: Frontend Developer</p>
 
 
