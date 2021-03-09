@@ -45,7 +45,6 @@ ________________________________________________________________________________
   <p>Bio: A visual designer and Frontend/UI Developer. </p>
 
 - [Mohammed Kabir Hussaini](https://github.com/lekandev)
-
 <p>I am a 17 y.o frontend Developer with skills on JavaScript, React and Nextjs. I tend to have major original ideas to create the next big thing</p>
   
 - [Naman Gupta](https://github.com/namangupta1399)
