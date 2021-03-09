@@ -59,4 +59,7 @@ ________________________________________________________________________________
 - [Udeagbala Anthony](https://github.com/izudada)
   <p>Bio: A growing python developer, more interested in building web applications with python. </p>
 
+- [Shivam Chandra](https://github.com/magicBeans23)
+  <p>Bio: I am a backend develepor. </p>
+
 
