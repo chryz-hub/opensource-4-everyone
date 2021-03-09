@@ -52,3 +52,7 @@ ________________________________________________________________________________
 
 - [Udeagbala Anthony](https://github.com/izudada)
   <p>Bio: A growing python developer, more interested in building web applications with python. </p>
+
+- [Damilare Oyedeji](https://github.com/fuglydami)
+  <p>Bio: I'm a frontend developer who's also passionate about backend technologies </p>
+
