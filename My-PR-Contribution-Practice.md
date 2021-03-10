@@ -50,6 +50,9 @@ ________________________________________________________________________________
 - [Naman Gupta](https://github.com/namangupta1399)
   <p>Bio: Computer Science Undergraduate, Aspiring Web Developer.</p>
   
+- [Shivam Chandra](https://github.com/magicBeans23)
+  <p>Bio: I am a backend develepor. </p>
+  
 - [Tanimowo Emmanuel](https://github.com/mannuel25)
   <p>Bio: I'm an aspiring back-end engineer. </p>
   
@@ -58,9 +61,7 @@ ________________________________________________________________________________
 
 - [Udeagbala Anthony](https://github.com/izudada)
   <p>Bio: A growing python developer, more interested in building web applications with python. </p>
-
+  
 - [Uzoma Rita](https://github.com/i-am-rita)
   <p>Bio: Frontend Developer</p>
-
-
 
