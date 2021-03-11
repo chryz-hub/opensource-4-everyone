@@ -64,4 +64,5 @@ ________________________________________________________________________________
   
 - [Uzoma Rita](https://github.com/i-am-rita)
   <p>Bio: Frontend Developer</p>
-
+- [Ontiveros Nereo](https://github.com/NereoOntiveros)
+  <p>Bio: Graduate Software Developer.  Open to frontend and backend, and interested in contributing</p>
