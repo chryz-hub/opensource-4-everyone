@@ -97,6 +97,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 - [is:issue is:open label:first-timers-only](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
 - [is:issue is:open label:good-first-bug](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3Agood-first-bug)
 - [is:issue is:open label:"good first issue"](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- [is:issue is:open label:good-first-issue](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Agood-first-issue&type=Issues)
 - [is:issue is:open label:starter](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3Astarter)
 - [is:issue is:open label:up-for-grabs](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
 
