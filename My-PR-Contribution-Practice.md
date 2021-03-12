@@ -43,6 +43,8 @@ ________________________________________________________________________________
 
 - [Franklin Ohaegbulam](https://github.com/frankiefab100)
   <p>Bio: A visual designer and Frontend/UI Developer. </p>
+- [Ibrahim ayodeji] (https://github.com/hackEibrahim)
+- <p>Bio: aspiring full stack developer | practicing HTML and CSS | learning JavaScript | open source contributor
   
 - [Mohammed Kabir Hussaini](https://github.com/lekandev)
   <p>Bio: I am a 17 y.o frontend Developer with skills on JavaScript, React and Nextjs. I tend to have major original ideas to create the next big thing</p>
@@ -64,4 +66,6 @@ ________________________________________________________________________________
   
 - [Uzoma Rita](https://github.com/i-am-rita)
   <p>Bio: Frontend Developer</p>
+
+ 
 
