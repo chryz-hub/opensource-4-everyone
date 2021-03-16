@@ -51,6 +51,9 @@ ________________________________________________________________________________
   
 - [Naman Gupta](https://github.com/namangupta1399)
   <p>Bio: Computer Science Undergraduate, Aspiring Web Developer.</p>
+
+- [Poonam Rajput](https://github.com/Poonam-raj)
+  <p>Bio: Frontend Developer-in-training primarily working on Javascript </p>
   
 - [Shivam Chandra](https://github.com/magicBeans23)
   <p>Bio: I am a backend develepor. </p>
