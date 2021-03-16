@@ -33,3 +33,4 @@ public or private.
 ![](https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/membvispics/membvs4.jpg)
 
 <br><b> I feel this has helped out in making your membership visiblilty either public or private!<b><br>
+ https://github.com/chryz-hub/opensource-4-everyone/tree/master/chryz-hub-resources/membvispics
