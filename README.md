@@ -139,11 +139,6 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 <strong> Repositories</strong>
 </summary>
     <ul>
-       <li> <a href ="https://github.com/chryzcodez/opensource-4-everyone/blob/main/git.md"> Learn both basic and advanced git commands</a></li>
-       <li> <a href ="https://github.com/chryzcodez/opensource-4-everyone/blob/main/starting-open-source.md"> Getting started with open source</a></li>
-       <li> <a href ="https://github.com/chryzcodez/opensource-4-everyone/blob/main/access-open-source-projects.md"> How to get open source projects</a></li>
-       <li> <a href ="https://github.com/chryzcodez/opensource-4-everyone/blob/main/anatomy-of-open-source-communities.md"> Anatomy of open source communities</a></li>
-       <li> <a href ="http://opensource.guide/how-to-contribute/finding-a-project-to-contribute-to"> Finding a project to contribute to</a></li>
        <li> <a href ="https://github.com/MunGell/awesome-for-beginners"> Awesome First PR Opportunities repository</a></li>
    </ul>
 </details>
