@@ -84,7 +84,7 @@ After your pull request has been reviewed by the Team of the community and every
 
 <details>
 <summary>
-<strong> [Docs](https://github.com/chryz-hub/opensource-4-everyone/tree/master/chryz-hub-resources/chryz-hub-%20docs)</strong>
+<strong> <a href="https://github.com/chryz-hub/opensource-4-everyone/tree/master/chryz-hub-resources/chryz-hub-%20docs"> Docs</a></strong>
 </summary>
     <ul>
      <li><a href="https://chryzcodez.hashnode.dev/how-to-make-your-github-profile-readme"> How To Make Your GitHub Profile Readme</a></li>
@@ -98,7 +98,7 @@ After your pull request has been reviewed by the Team of the community and every
 
 <details>
 <summary>
-<strong> [YouTube Videos](https://www.youtube.com/channel/UCxro6LYOp3pmmuWDPMg-p1Q)</strong>
+<strong> <a href="https://www.youtube.com/channel/UCxro6LYOp3pmmuWDPMg-p1Q"> YouTube Videos</a></strong>
 </summary>
  <ul>
    <li><a href="https://www.youtube.com/watch?v=91x7KJ1lMHw"> Introduction to Opensource</a></li>
