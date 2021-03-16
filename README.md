@@ -81,12 +81,29 @@ it up with neccessary details concerning the pull request and do not forget be p
 After your pull request has been reviewed by the Team of the community and everything there is appropriate. Then, your pull request would be merged and this makes your pull request a contribution!
 
 ## Chryz-hub Resources
-- [How To Make Your GitHub Profile Readme](https://chryzcodez.hashnode.dev/how-to-make-your-github-profile-readme)
-- [GitHub Membership Visibility Tutorials](https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/membership-visibility.md)
-- [The Anatomy of Open-Source Projects](https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/anatomy-of-open-source-communities.md)
-- [Git Basic and Advance Commands Tutorial](https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/git.md)
-- [Getting Started With Open-Source](https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/starting-open-source.md)
-- [Getting an Open-Source Project to Start Contributing](https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/access-open-source-projects.md)
+
+<details>
+<summary>
+<strong> [Docs](https://github.com/chryz-hub/opensource-4-everyone/tree/master/chryz-hub-resources/chryz-hub-%20docs)</strong>
+</summary>
+    <ul>
+     <li><a href="https://chryzcodez.hashnode.dev/how-to-make-your-github-profile-readme"> How To Make Your GitHub Profile Readme</a></li>
+     <li><a href="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/membership-visibility.md"> GitHub Membership Visibility Tutorials</a></li>
+     <li><a href="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/anatomy-of-open-source-communities.md"> The Anatomy of Open-Source            Projects</a></li>
+     <li><a href="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/git.md"> Git Basic and Advance Commands Tutorial</a></li>
+     <li><a href="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/starting-open-source.md"> Getting Started With Open-Source</a></li>
+     <li><a href="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/access-open-source-projects.md"> Getting an Open-Source Project to Start Contributing</a></li>
+    </ul>
+</details>
+
+<details>
+<summary>
+<strong> [YouTube Videos](https://www.youtube.com/channel/UCxro6LYOp3pmmuWDPMg-p1Q)</strong>
+</summary>
+ <ul>
+   <li><a href="https://www.youtube.com/watch?v=91x7KJ1lMHw"> Introduction to Opensource</a></li>
+</ul>
+</details>
 
 #### We hope you found that, useful!
 
