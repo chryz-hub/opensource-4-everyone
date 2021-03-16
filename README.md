@@ -85,6 +85,7 @@ This is all about the comparism between your own forked version and the real rep
 Just same process as a commit message. Some community have a pull request template which makes it easier to fill in important and apprioprate details concerning a pull request,
 which is shown on the image. I didn't add any description because I didn't really make a change, my change here was omly a space but yours would be way far than this. So fill
 it up with neccessary details concerning the pull request and do not forget be precise. You can see a check button there, this means that the pull request be edited by the contributors of the community you making a Pull Request to. I really advise you to always check this, although it's automatically checked by github defaulty, so the choice is left to you. Then click the `create pull request` button.
+
 <img align="center" src="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/chryz-hub-tut-pics/pr-tut-pics/pr-3-6.jpg" />
 
 ### Congratulations🎉 You've made your first contribution
