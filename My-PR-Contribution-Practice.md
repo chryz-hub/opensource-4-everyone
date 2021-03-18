@@ -26,6 +26,10 @@ ________________________________________________________________________________
 ### START CONTRIBUTING BY ADDING YOUR DATA
 ____________________________________________________________________________________________________________________
 
+
+- [Ademosu Adeola](https://github.com/Adecodess)
+  <p>Bio: Frontend Developer,proficient in javascript, reactjs, html, css  </p>
+
 - [Alaba Olanrewaju](https://github.com/chryzcodez)
   <p>Bio: A developer, technical writer/ blogger, an open-source personnel and an aspiring data scientist. </p>
 
@@ -70,8 +74,7 @@ ________________________________________________________________________________
 - [Uzoma Rita](https://github.com/i-am-rita)
   <p>Bio: Frontend Developer</p>
 
-- [Ademosu Adeola](https://github.com/Adecodess)
-  <p>Bio: Frontend Developer  </p>
+
 
  
 
