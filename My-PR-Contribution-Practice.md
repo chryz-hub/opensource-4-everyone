@@ -70,5 +70,8 @@ ________________________________________________________________________________
 - [Uzoma Rita](https://github.com/i-am-rita)
   <p>Bio: Frontend Developer</p>
 
+- [Ademosu Adeola](https://github.com/Adecodess)
+  <p>Bio: Frontend Developer  </p>
+
  
 
