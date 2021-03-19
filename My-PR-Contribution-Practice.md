@@ -48,7 +48,7 @@ ________________________________________________________________________________
 - [Franklin Ohaegbulam](https://github.com/frankiefab100)
   <p>Bio: A visual designer and Frontend/UI Developer. </p>
 
-- [Ibrahim ayodeji](https://github.com/hackEibrahim)
+- [Ibrahim Ayodeji](https://github.com/hackEibrahim)
   <p>Bio: aspiring full stack developer | practicing HTML and CSS | learning JavaScript | open source contributor </p>
   
 - [Mohammed Kabir Hussaini](https://github.com/lekandev)
