@@ -26,6 +26,10 @@ ________________________________________________________________________________
 ### START CONTRIBUTING BY ADDING YOUR DATA
 ____________________________________________________________________________________________________________________
 
+
+- [Ademosu Adeola](https://github.com/Adecodess)
+  <p>Bio: Frontend Developer,proficient in javascript, reactjs, html, css  </p>
+
 - [Alaba Olanrewaju](https://github.com/chryzcodez)
   <p>Bio: A developer, technical writer/ blogger, an open-source personnel and an aspiring data scientist. </p>
 
@@ -51,6 +55,9 @@ ________________________________________________________________________________
   
 - [Naman Gupta](https://github.com/namangupta1399)
   <p>Bio: Computer Science Undergraduate, Aspiring Web Developer.</p>
+
+- [Poonam Rajput](https://github.com/Poonam-raj)
+  <p>Bio: Frontend Developer-in-training primarily working on Javascript </p>
   
 - [Shivam Chandra](https://github.com/magicBeans23)
   <p>Bio: I am a backend develepor. </p>
@@ -66,6 +73,8 @@ ________________________________________________________________________________
   
 - [Uzoma Rita](https://github.com/i-am-rita)
   <p>Bio: Frontend Developer</p>
+
+
 
  
 
