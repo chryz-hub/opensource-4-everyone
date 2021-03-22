@@ -152,7 +152,8 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 <strong> Repositories</strong>
 </summary>
     <ul>
-       <li> <a href ="https://github.com/MunGell/awesome-for-beginners"> Awesome First PR Opportunities repository</a></li>
+       <li><a href="https://github.com/MunGell/awesome-for-beginners"> Awesome First PR Opportunities repository</a></li>
+       <li><a href="https://github.com/bradtraversy/design-resources-for-developers"> Design Resource Repo For Developers</a></li>
    </ul>
 </details>
 
