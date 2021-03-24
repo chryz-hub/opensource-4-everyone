@@ -58,9 +58,9 @@ By these data provided, connections can be made!
 - [Shivam Chandra](https://github.com/magicBeans23)
   <p>Bio: I am a backend develepor. </p>
 
-  `- [Sakhil](https://github.com/Sakhil2014)`
+- [Sakhil](https://github.com/Sakhil2014)
 
-  `<p>Bio:A free time Web Dev. Trying hard to become a fullstack</p>`
+  <p>Bio:A free time Web Dev. Trying hard to become a fullstack</p>
 
 - [Tanimowo Emmanuel](https://github.com/mannuel25)
   <p>Bio: I'm an aspiring back-end engineer. </p>
