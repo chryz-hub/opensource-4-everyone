@@ -2,8 +2,8 @@
 
 #### This repo is for everything open source!
 
-**Feel free to create an [issue](https://github.com/chryz-hub/py-tutorials/issues) or make a Pull Request. Please see our [Contributing file](https://github.com/chryz-hub/py-tutorials/blob/master/CONTRIBUTING.md)
-first and our [Code of Conduct](https://github.com/chryz-hub/py-tutorials/blob/master/CODE_OF_CONDUCT.md), before making new commits or opening a pull request, we appreciate it!
+**Feel free to create an [issue](https://github.com/chryz-hub/opensource-4-everyone/issues) or make a Pull Request. Please see our [Contributing file](https://github.com/chryz-hub/opensource-4-everyone/blob/master/CONTRIBUTING.md)
+first and our [Code of Conduct](https://github.com/chryz-hub/opensource-4-everyone/blob/master/CODE_OF_CONDUCT.md), before making new commits or opening a pull request, we appreciate it!
 In order for us not to ignore your effort, please check well not to make a duplicate of a Pull Request (contribution)/ issue!**
 
 # Contributing
