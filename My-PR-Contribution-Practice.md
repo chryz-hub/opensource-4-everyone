@@ -72,3 +72,5 @@ By these data provided, connections can be made!
   <p>Bio: A growing python developer, more interested in building web applications with python. </p>
 - [Uzoma Rita](https://github.com/i-am-rita)
   <p>Bio: Frontend Developer</p>
+- [Saiprasad Kale](https://github.com/Saiprasad16)
+  <p>Bio: Full Stack Developer and now I am learning about data Science</p>
