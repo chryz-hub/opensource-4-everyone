@@ -102,9 +102,10 @@ After your pull request has been reviewed by the Team of the community and every
      <li><a href="https://chryzcodez.hashnode.dev/how-to-make-your-github-profile-readme"> How To Make Your GitHub Profile Readme</a></li>
      <li><a href="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/chryz-hub-docs/membership-visibility.md"> GitHub Membership Visibility Tutorials</a></li>
      <li><a href="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/chryz-hub-docs/anatomy-of-open-source-communities.md"> The Anatomy of Open-Source Projects</a></li>
-     <li><a href="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/chryz-hub-docs/git.md"> Git Basic and Advance Commands Tutorial</a></li>
+     <li><a href="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/chryz-hub-docs/git.md"> Basic and Advance Git Tips</a></li>
      <li><a href="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/chryz-hub-docs/starting-open-source.md"> Getting Started With Open-Source</a></li>
      <li><a href="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/chryz-hub-docs/access-open-source-projects.md"> Getting an Open-Source Project to Start Contributing</a></li>
+     <li><a href="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/chryz-hub-docs/git-cmd.md"> Git Commands</a></li>
     </ul>
 </details>
 
