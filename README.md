@@ -114,6 +114,7 @@ After your pull request has been reviewed by the Team of the community and every
 </summary>
  <ul>
    <li><a href="https://www.youtube.com/watch?v=91x7KJ1lMHw"> Introduction to Opensource</a></li>
+   <li><a href="https://www.youtube.com/watch?v=epPsQ3prWRw&t=6s"> Git and GitHub</a></li>
 </ul>
 </details>
 
