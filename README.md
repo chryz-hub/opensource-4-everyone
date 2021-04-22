@@ -24,7 +24,7 @@ Look for a project's contribution instructions. If you find any, then let's foll
 - If the project has tests run them!
 - Write or adapt tests as needed.
 - Add or change the documentation as needed.
-- Squash your commits into a single commit with the community [git tips](https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/git.md). Create a new branch if necessary.
+- Squash your commits into a single commit with the community [git tips](https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/chryz-hub-docs/git.md). Create a new branch if necessary.
 - Push your branch to your fork on Github, the remote `origin`.
 - From your fork open a pull request in the correct branch. Target the project's `develop` branch if there is one, else go for `master`!
 - If the maintainer requests further changes just push them to your branch. The pull request will be updated automatically.
