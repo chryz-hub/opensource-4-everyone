@@ -8,9 +8,9 @@ In order for us not to ignore your effort, please check well not to make a dupli
 
 # Contributing
 
-If you want to contribute to a project and make it better, your help is very welcome. Contributing is also a great way to learn more about social coding on Github, new technologies and their ecosystems and how to make constructive, helpful bug reports, feature requests and the noblest of all contributions: a good, clean pull request.
+If you want to contribute to a project and make it better, your help is very welcome. Contributing is also a great way to learn more about social coding on Github, new technologies and their ecosystems and how to make constructive, helpful bug reports, feature requests and the noblest of all contributions: a good, clean Pull Request.
 
-### How to make a clean pull request
+### How to make a clean Pull Request
 
 Look for a project's contribution instructions. If you find any, then let's follow these steps.
 
@@ -26,9 +26,9 @@ Look for a project's contribution instructions. If you find any, then let's foll
 - Add or change the documentation as needed.
 - Squash your commits into a single commit with the community [git tips](https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/chryz-hub-docs/git.md). Create a new branch if necessary.
 - Push your branch to your fork on Github, the remote `origin`.
-- From your fork open a pull request in the correct branch. Target the project's `develop` branch if there is one, else go for `master`!
-- If the maintainer requests further changes just push them to your branch. The pull request will be updated automatically.
-- Once the pull request is approved and merged you can pull the changes from `upstream` to your local repo and delete
+- From your fork open a Pull Request in the correct branch. Target the project's `develop` branch if there is one, else go for `master`!
+- If the maintainer requests further changes just push them to your branch. The Pull Request will be updated automatically.
+- Once the Pull Request is approved and merged you can pull the changes from `upstream` to your local repo and delete
   your extra branch(es).
 
 And last but not least: Always write your commit messages in the present tense. Your commit message should describe what the commit, when applied, does to the code – not what you did to the code.
@@ -43,13 +43,13 @@ And last but not least: Always write your commit messages in the present tense. 
 
 ## The Pull Request Practice!
 
-Eager to make your first pull request or make out connections with lot of people or fishing out your choice[stack]-anyone, we've got you covered. Make a [Pull Request](https://github.com/chryz-hub/opensource-4-everyone/blob/master/My-PR-Contribution-Practice.md) but before that, check out our short tutorial on how to easily make a contribution 👇
+Eager to make your first Pull Request or make out connections with lot of people or fishing out your choice[stack]-anyone, we've got you covered. Make a [Pull Request](https://github.com/chryz-hub/opensource-4-everyone/blob/master/My-PR-Contribution-Practice.md) but before that, check out our short tutorial on how to easily make a contribution 👇
 
 **Note:**
 
 - To be a member; Raise an [invitation issue here](https://github.com/chryz-hub/chryz-hub.github.io/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)!
 
-## Simple Guide to Making a Pull Request or Contribution.
+## Simple Guide to Making a Pull Request or Contribution
 
 ### 1. Fork/ Edit
 
@@ -72,25 +72,25 @@ Just like using git, you have to put down a commit message, without putting down
 
 ### 4. Create Pull Request
 
-After the commit, then click the pull request tab and make new pull request
+After the commit, then click the Pull Request tab and make new Pull Request
 <img align="center" src="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/chryz-hub-tut-pics/pr-tut-pics/pr-1-4.jpg" />
 
 ### 5. Comparing Changes
 
-This is all about the comparism between your own forked version and the real repository to check if there was a change and if the change is mergeable. You can see the word `comparing across forks` and a transitional line with an arrow in the middle. You must set this well to avoid issue, now we are sending from mine to the main/real repository using the direction of the arrow, then you can make your pull request. If it is not mergeable, you can still make the pull request and resolve it `resolve conflicts`, GitHub would point out the issue which makes it easier for you to resolve.
+This is all about the comparism between your own forked version and the real repository to check if there was a change and if the change is mergeable. You can see the word `comparing across forks` and a transitional line with an arrow in the middle. You must set this well to avoid issue, now we are sending from mine to the main/real repository using the direction of the arrow, then you can make your Pull request. If it is not mergeable, you can still make the Pull Request and resolve it `resolve conflicts`, GitHub would point out the issue which makes it easier for you to resolve.
 <img align="center" src="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/chryz-hub-tut-pics/pr-tut-pics/pr-2-5.jpg" />
 
 ### 6. Create Pull Request Message
 
-Just same process as a commit message. Some community have a pull request template which makes it easier to fill in important and apprioprate details concerning a pull request,
+Just same process as a commit message. Some community have a pull Request template which makes it easier to fill in important and apprioprate details concerning a Pull Request,
 which is shown on the image. I didn't add any description because I didn't really make a change, my change here was omly a space but yours would be way far than this. So fill
-it up with neccessary details concerning the pull request and do not forget be precise. You can see a check button there, this means that the pull request be edited by the contributors of the community you making a Pull Request to. I really advise you to always check this, although it's automatically checked by github defaulty, so the choice is left to you. Then click the `create pull request` button.
+it up with neccessary details concerning the Pull Request and do not forget be precise. You can see a check button there, this means that the Pull Request be edited by the contributors of the community you making a Pull Request to. I really advise you to always check this, although it's automatically checked by github defaulty, so the choice is left to you. Then click the `create Pull Request` button.
 
 <img align="center" src="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/chryz-hub-tut-pics/pr-tut-pics/pr-3-6.jpg" />
 
 ### Congratulations🎉 You've made your first contribution
 
-After your pull request has been reviewed by the Team of the community and everything there is appropriate. Then, your pull request would be merged and this makes your pull request a contribution!
+After your Pull Request has been reviewed by the Team of the community and everything there is appropriate. Then, your Pull Request would be merged and this makes your Pull Request a contribution!
 
 ## Chryz-hub Resources
 
