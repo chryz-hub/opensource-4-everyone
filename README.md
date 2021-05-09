@@ -3,8 +3,8 @@
 #### This repo is for everything open source!
 
 **Feel free to create an [issue](https://github.com/chryz-hub/opensource-4-everyone/issues) or make a Pull Request. Please see our [Contributing file](https://github.com/chryz-hub/opensource-4-everyone/blob/master/CONTRIBUTING.md)
-first and our [Code of Conduct](https://github.com/chryz-hub/opensource-4-everyone/blob/master/CODE_OF_CONDUCT.md), before making new commits or opening a pull request, we appreciate it!
-In order for us not to ignore your effort, please check well not to make a duplicate of a Pull Request (contribution)/ issue!**
+first and our [Code of Conduct](https://github.com/chryz-hub/opensource-4-everyone/blob/master/CODE_OF_CONDUCT.md), before making new commits or opening a Pull Request, we appreciate it!
+In order for us not to ignore your effort, please check well not to make a duplicate of a Pull Request (contribution)/issue!**
 
 # Contributing
 
@@ -45,7 +45,7 @@ And last but not least: Always write your commit messages in the present tense. 
 
 Eager to make your first pull request or make out connections with lot of people or fishing out your choice[stack]-anyone, we've got you covered. Make a [Pull Request](https://github.com/chryz-hub/opensource-4-everyone/blob/master/My-PR-Contribution-Practice.md) but before that, check out our short tutorial on how to easily make a contribution 👇
 
-**Note\_**
+**Note:**
 
 - To be a member; Raise an [invitation issue here](https://github.com/chryz-hub/chryz-hub.github.io/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)!
 
