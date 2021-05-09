@@ -8,14 +8,14 @@ In order for us not to ignore your effort, please check well not to make a dupli
 
 # Contributing
 
-If you want to contribute to a project and make it better, your help is very welcome. Contributing is also a great way to learn more about social coding on Github, new technologies and their ecosystems and how to make constructive, helpful bug reports, feature requests and the noblest of all contributions: a good, clean Pull Request.
+If you want to contribute to a project and make it better, your help is very welcome. Contributing is also a great way to learn more about social coding on GitHub, new technologies and their ecosystems and how to make constructive, helpful bug reports, feature requests and the noblest of all contributions: a good, clean Pull Request.
 
 ### How to make a clean Pull Request
 
 Look for a project's contribution instructions. If you find any, then let's follow these steps.
 
-- Create a personal fork of the project on Github.
-- Clone the fork on your local machine. Your remote repo on Github is called `origin`.
+- Create a personal fork of the project on GitHub.
+- Clone the fork on your local machine. Your remote repo on GitHub is called `origin`.
 - Add the original repository as a remote called `upstream`.
 - If you created your fork a while ago be sure to pull upstream changes into your local repository.
 - Create a new branch to work on! Branch from `develop` if it exists, else from `master`.
@@ -25,7 +25,7 @@ Look for a project's contribution instructions. If you find any, then let's foll
 - Write or adapt tests as needed.
 - Add or change the documentation as needed.
 - Squash your commits into a single commit with the community [git tips](https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/chryz-hub-docs/git.md). Create a new branch if necessary.
-- Push your branch to your fork on Github, the remote `origin`.
+- Push your branch to your fork on GitHub, the remote `origin`.
 - From your fork open a Pull Request in the correct branch. Target the project's `develop` branch if there is one, else go for `master`!
 - If the maintainer requests further changes just push them to your branch. The Pull Request will be updated automatically.
 - Once the Pull Request is approved and merged you can pull the changes from `upstream` to your local repo and delete
