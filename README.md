@@ -175,7 +175,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 <strong> YouTube Videos </strong>
 </summary>
     <ul>
-       <li> <a href ="  "> <!-- The name of the video--></a></li>
+       <li> <a href ="https://youtube.com/c/eddiejaoude">Eddie Jaoude's YouTube Channel</a></li>
    </ul>
 </details>
 
