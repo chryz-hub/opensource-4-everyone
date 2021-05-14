@@ -1,4 +1,5 @@
 # My-PR-Contribution-Practice
+[__➡️Short and Concise Pull Request Tutorial🟩__](https://github.com/chryz-hub/opensource-4-everyone#simple-guide-to-making-a-pull-request-or-contribution)
 
 ### This space is created for you to make your first pull request/ contribution as a firstimer in open source, also this might not be your first time but involve yourself in this, why?
 
