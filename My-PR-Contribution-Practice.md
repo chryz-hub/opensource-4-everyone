@@ -36,8 +36,10 @@ By these data provided, connections can be made!
 
 - [Amjad Noor](https://github.com/AmjadNoor)
   <p>Bio: I'm a front-end developer. </p>
+
 - [Anshul Mehta](https://github.com/Anshul7sp1)
   <p>Bio: CS undergrad. Interested in contributing to opensource</p>
+
 - [Damilare Oyedeji](https://github.com/fuglydami)
   <p>Bio: I'm a frontend developer who's also passionate about backend technologies </p>
 
@@ -49,8 +51,10 @@ By these data provided, connections can be made!
 
 - [Ibrahim Ayodeji](https://github.com/hackEibrahim)
   <p>Bio: aspiring full stack developer | practicing HTML and CSS | learning JavaScript | open source contributor </p>
+
 - [Mohammed Kabir Hussaini](https://github.com/lekandev)
   <p>Bio: I am a 17 y.o frontend Developer with skills on JavaScript, React and Nextjs. I tend to have major original ideas to create the next big thing</p>
+
 - [Naman Gupta](https://github.com/namangupta1399)
   <p>Bio: Computer Science Undergraduate, Aspiring Web Developer.</p>
 
@@ -58,21 +62,23 @@ By these data provided, connections can be made!
   <p>Bio: Frontend Developer-in-training primarily working on Javascript </p>
 
 - [Sakhil](https://github.com/Sakhil2014)
-
   <p>Bio:A free time Web Dev. Trying hard to become a fullstack</p>
 
 - [Shivam Chandra](https://github.com/magicBeans23)
   <p>Bio: I am a backend develepor. </p>
   
--[Syed Zawwar Ahmed](https://github.com/SyedZawwarAhmed)
+- [Syed Zawwar Ahmed](https://github.com/SyedZawwarAhmed)
   <p>Bio: I am a frontend developer.</p>
   
 - [Tanimowo Emmanuel](https://github.com/mannuel25)
   <p>Bio: I'm an aspiring back-end engineer. </p>
+
 - [Tonatiuh Morales](https://github.com/blackc0mb)
   <p>Bio: Developer in my free time and interested in collaborating in a project. </p>
 
+
 - [Udeagbala Anthony](https://github.com/izudada)
   <p>Bio: A growing python developer, more interested in building web applications with python. </p>
+
 - [Uzoma Rita](https://github.com/i-am-rita)
   <p>Bio: Frontend Developer</p>
