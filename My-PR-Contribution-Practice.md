@@ -63,7 +63,10 @@ By these data provided, connections can be made!
 
 - [Shivam Chandra](https://github.com/magicBeans23)
   <p>Bio: I am a backend develepor. </p>
-
+  
+-[Syed Zawwar Ahmed](https://github.com/SyedZawwarAhmed)
+  <p>Bio: I am a frontend developer.</p>
+  
 - [Tanimowo Emmanuel](https://github.com/mannuel25)
   <p>Bio: I'm an aspiring back-end engineer. </p>
 - [Tonatiuh Morales](https://github.com/blackc0mb)
