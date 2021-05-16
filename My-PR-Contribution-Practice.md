@@ -61,6 +61,9 @@ By these data provided, connections can be made!
 - [Poonam Rajput](https://github.com/Poonam-raj)
   <p>Bio: Frontend Developer-in-training primarily working on Javascript </p>
 
+- [Sachin Mauyra](https://github.com/slayer321)
+  <p>Bio: Passionate about cybersecurity and Open source </p>
+
 - [Sakhil](https://github.com/Sakhil2014)
   <p>Bio:A free time Web Dev. Trying hard to become a fullstack</p>
 
@@ -69,9 +72,6 @@ By these data provided, connections can be made!
   
 - [Syed Zawwar Ahmed](https://github.com/SyedZawwarAhmed)
   <p>Bio: I am a frontend developer.</p>
-
-- [Sachin Mauyra](https://github.com/slayer321)
-  <p>Bio: Passionate about cybersecurity and Open source </p>
   
 - [Tanimowo Emmanuel](https://github.com/mannuel25)
   <p>Bio: I'm an aspiring back-end engineer. </p>
