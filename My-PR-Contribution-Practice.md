@@ -16,9 +16,9 @@ By these data provided, connections can be made!
 
 - For example ,
 
-  - [Your Name](https://github.com/Username)
-
-  <p>Bio: IT undergrad, Aspiring Full Stack Developer and an Open Source Enthusiast</p>
+  - [Full Name](https://github.com/your-username)
+  
+  <p>Bio:_________________________________________</p>
 
   On a new line in alphabetical order, add your name, bio and the link to your Github profile
 
