@@ -16,7 +16,7 @@ By these data provided, connections can be made!
 
 - For example ,
 
-  - [Shivam Dubey](https://github.com/WebShivam)
+  - [Your Name](https://github.com/Username)
 
   <p>Bio: IT undergrad, Aspiring Full Stack Developer and an Open Source Enthusiast</p>
 
@@ -69,6 +69,10 @@ By these data provided, connections can be made!
 
 - [Shivam Chandra](https://github.com/magicBeans23)
   <p>Bio: I am a backend develepor. </p>
+  
+- [Shivam Dubey](https://github.com/WebShivam)
+
+  <p>Bio: IT undergrad, Aspiring Full Stack Developer and an Open Source Enthusiast</p>
   
 - [Syed Zawwar Ahmed](https://github.com/SyedZawwarAhmed)
   <p>Bio: I am a frontend developer.</p>
