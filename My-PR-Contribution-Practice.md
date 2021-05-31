@@ -46,7 +46,7 @@ By these data provided, connections can be made!
 - [Eke Victor](https://github.com/Evavic44)
   <p>Bio: A self-taught Frontend web developer proficient in HTML & CSS. With a passion to build solutions using JavaScript</p>
   
-  -[Festus Michael](https://github.com/MichaelFestus)
+- [Festus Michael](https://github.com/MichaelFestus)
   <p>Bio: Self taught Fron-End developer, Aspiring reactjs developer</p>
 
 - [Franklin Ohaegbulam](https://github.com/frankiefab100)
