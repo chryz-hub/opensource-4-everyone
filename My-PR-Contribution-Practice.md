@@ -55,6 +55,9 @@ By these data provided, connections can be made!
 - [Ibrahim Ayodeji](https://github.com/hackEibrahim)
   <p>Bio: aspiring full stack developer | practicing HTML and CSS | learning JavaScript | open source contributor </p>
 
+- [JayantGoel001](https://github.com/JayantGoel001)
+  <p>Bio: Android, Data Science and Web Development</p>
+  
 - [Mohammed Kabir Hussaini](https://github.com/lekandev)
   <p>Bio: I am a 17 y.o frontend Developer with skills on JavaScript, React and Nextjs. I tend to have major original ideas to create the next big thing</p>
 
@@ -92,5 +95,4 @@ By these data provided, connections can be made!
 
 - [Uzoma Rita](https://github.com/i-am-rita)
   <p>Bio: Frontend Developer</p>
-
 
