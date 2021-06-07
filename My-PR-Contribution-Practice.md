@@ -93,4 +93,6 @@ By these data provided, connections can be made!
 - [Uzoma Rita](https://github.com/i-am-rita)
   <p>Bio: Frontend Developer</p>
 
-
+- [JayantGoel001](https://github.com/JayantGoel001)
+  <p>Bio: Android, Data Science and Web Development</p>
+  
