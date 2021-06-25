@@ -146,6 +146,9 @@ Search links that point directly to suitable issues to contribute to on GitHub.
         <li><a href="https://up-for-grabs.net/"> Up-for-grabs Site</a></li>
         <li><a href="https://www.firsttimersonly.com/"> First timers only Site</a></li>
         <li><a href="https://firstcontributions.github.io/"> First contributions Site</a></li>
+        <li><a href="https://contributor.ninja/"> Contributor-ninja Site</a></li>
+        <li><a href="https://gauger.io/contrib"> Gauger Site</a></li>
+        <li><a href="https://opensauced.pizza/"> Opensauced site</a></li>
     </ul>
 </details>
 
@@ -155,6 +158,8 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 </summary>
     <ul>
        <li><a href="https://github.com/MunGell/awesome-for-beginners"> Awesome First PR Opportunities repository</a></li>
+       <li><a href="https://github.com/shainakrumme/open-source-handbook"> Open Source Handbook repository</a></li>
+       <li><a href="https://github.com/tapaswenipathak/Getting-Started-With-Contributing-to-Open-Sources"> Getting Started With Contributing to Open Sources repository</a></li>
    </ul>
 </details>
 
@@ -176,6 +181,10 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 </summary>
     <ul>
        <li> <a href ="https://youtube.com/c/eddiejaoude">Eddie Jaoude's YouTube Channel</a></li>
+       <li> <a href ="https://youtube.com/c/opensourceway">Opensource.com's YouTube Channel</a></li>
+       <li> <a href ="https://youtube.com/c/GoogleOpenSource">Google Open Source's YouTube Channel</a></li>
+       <li> <a href ="https://youtu.be/yzeVMecydCE">Complete Guide to Open Source - How to Contribute</a></li>
+       <li> <a href ="https://youtu.be/kP-rEaamgHM">Tips for contributing to Open Source with Github</a></li>
    </ul>
 </details>
 
@@ -186,6 +195,11 @@ Search links that point directly to suitable issues to contribute to on GitHub.
     <ul>
        <li> <a href ="https://docs.github.com/en/github/getting-started-with-github/finding-ways-to-contribute-to-open-source-on-github"> GitHub docs for open source</a></li>
        <li> <a href ="https://opensource.guide/how-to-contribute/"> GitHub open souce guide</a></li>
+       <li> <a href ="https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/"> Getting started with contributing to open source</a></li>
+       <li> <a href ="https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git"> How To Contribute To Open Source: Getting Started With Git</a></li>
+       <li> <a href ="https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-software-projects"> How To Maintain Open-Source Software Projects</a></li>
+       <li> <a href ="https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute"> How to Contribute to Open Source</a></li>
+       <li> <a href ="https://yourfirstpr.github.io/"> Your First PR</a></li>
    </ul>
 </details>
 
