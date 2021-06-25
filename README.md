@@ -148,6 +148,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
         <li><a href="https://firstcontributions.github.io/"> First contributions Site</a></li>
         <li><a href="https://contributor.ninja/"> Contributor-ninja Site</a></li>
         <li><a href="https://gauger.io/contrib"> Gauger Site</a></li>
+        <li><a href="https://opensauced.pizza/"> Opensauced site</a></li>
     </ul>
 </details>
 
