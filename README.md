@@ -182,7 +182,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
     <ul>
        <li> <a href ="https://youtube.com/c/eddiejaoude">Eddie Jaoude's YouTube Channel</a></li>
        <li> <a href ="https://youtube.com/c/opensourceway">Opensource.com's YouTube Channel</a></li>
-       <li> <a href ="https://youtube.com/c/GoogleOpenSource">GoogleOpen's YouTube Channel</a></li>
+       <li> <a href ="https://youtube.com/c/GoogleOpenSource">Google Open Source's YouTube Channel</a></li>
        <li> <a href ="https://youtu.be/yzeVMecydCE">Complete Guide to Open Source - How to Contribute</a></li>
        <li> <a href ="https://youtu.be/kP-rEaamgHM">Tips for contributing to Open Source with Github</a></li>
    </ul>
