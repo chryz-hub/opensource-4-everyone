@@ -141,14 +141,18 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 </summary>
     <ul>
         <li><a href="https://www.codetriage.com/"> CodeTriage</a></li>
-        <li><a href="https://goodfirstissue.dev/"> Good First Issue.dev Site</a></li>
-        <li><a href="http://goodfirstissue.com/"> Good First Issue.com Site</a></li>
-        <li><a href="https://up-for-grabs.net/"> Up-for-grabs Site</a></li>
-        <li><a href="https://www.firsttimersonly.com/"> First timers only Site</a></li>
-        <li><a href="https://firstcontributions.github.io/"> First contributions Site</a></li>
-        <li><a href="https://contributor.ninja/"> Contributor-ninja Site</a></li>
+        <li><a href="https://goodfirstissue.dev/"> Good First Issue.dev</a></li>
+        <li><a href="http://goodfirstissue.com/"> Good First Issue.com</a></li>
+        <li><a href="https://up-for-grabs.net/"> Up-for-grabs</a></li>
+        <li><a href="https://www.firsttimersonly.com/"> First timers only</a></li>
+        <li><a href="https://firstcontributions.github.io/"> First contributions</a></li>
+        <li><a href="https://contributor.ninja/"> Contributor-ninja</a></li>
         <li><a href="https://gauger.io/contrib"> Gauger Site</a></li>
-        <li><a href="https://opensauced.pizza/"> Opensauced site</a></li>
+        <li><a href="https://opensauced.pizza/"> Opensauced</a></li>
+        <li><a href="https://opensourcefriday.com/"> Open Source Friday</a></li>
+        <li><a href="https://24pullrequests.com/"> 24pullrequests</a></li>
+        <li><a href="http://issuehub.pro/"> issuehub</a></li>
+        <li><a href="http://www.pullrequestroulette.com/"> pullrequestroulette</a></li>
     </ul>
 </details>
 
@@ -157,9 +161,13 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 <strong> Repositories</strong>
 </summary>
     <ul>
-       <li><a href="https://github.com/MunGell/awesome-for-beginners"> Awesome First PR Opportunities repository</a></li>
-       <li><a href="https://github.com/shainakrumme/open-source-handbook"> Open Source Handbook repository</a></li>
-       <li><a href="https://github.com/tapaswenipathak/Getting-Started-With-Contributing-to-Open-Sources"> Getting Started With Contributing to Open Sources repository</a></li>
+       <li><a href="https://github.com/MunGell/awesome-for-beginners"> Awesome First PR Opportunities</a></li>
+       <li><a href="https://github.com/shainakrumme/open-source-handbook"> Open Source Handbook</a></li>
+       <li><a href="https://github.com/tapaswenipathak/Getting-Started-With-Contributing-to-Open-Sources"> Getting Started With Contributing to Open Sources</a></li>
+       <li><a href="https://github.com/open-sauced/open-sauced"> open-sauced</a></li>
+       <li><a href="https://github.com/explore/"> Explore Github</a></li>
+       <li><a href="https://github.com/larymak/Python-project-Scripts"> Python Projects Script</a></li>
+       <li><a href="https://github.com/pinax"> Pinax Project</a></li>
    </ul>
 </details>
 
@@ -183,8 +191,26 @@ Search links that point directly to suitable issues to contribute to on GitHub.
        <li> <a href ="https://youtube.com/c/eddiejaoude">Eddie Jaoude's YouTube Channel</a></li>
        <li> <a href ="https://youtube.com/c/opensourceway">Opensource.com's YouTube Channel</a></li>
        <li> <a href ="https://youtube.com/c/GoogleOpenSource">Google Open Source's YouTube Channel</a></li>
+       <li> <a href ="https://www.youtube.com/watch?v=Zlu3QvuwruY">All Things Open's YouTube channel</a></li>
        <li> <a href ="https://youtu.be/yzeVMecydCE">Complete Guide to Open Source - How to Contribute</a></li>
        <li> <a href ="https://youtu.be/kP-rEaamgHM">Tips for contributing to Open Source with Github</a></li>
+       <li> <a href ="https://youtu.be/pASY8b8QWcs">Level Up as an Open Source Contributor</a></li>
+       <li> <a href ="https://youtu.be/b_e-Uzag31w">Getting Into Open Source for Fun & Profit</a></li>
+       <li> <a href ="https://www.youtube.com/watch?v=6mtPPkKchcQ">How open source has made me and the stuff I make better</a></li>
+       <li> <a href ="https://www.youtube.com/watch?v=OGeoH-sqePE">Building The Open Source Community We Want</a></li>
+       <li> <a href ="https://www.youtube.com/watch?v=zCJyiBu12Jw">Managing an Open Source Project</a></li>
+       <li> <a href ="https://www.youtube.com/watch?v=jKI1Kj5VXqE">Managing an Open Source Project - UtahJS</a></li>
+       <li> <a href ="https://www.youtube.com/watch?v=Zlu3QvuwruY">Open Sourcing Your Stuff</a></li>
+       <li> <a href ="https://www.youtube.com/watch?v=k6KcaMffxac">Contributing to Open Source on GitHub for beginners</a></li>
+       <li> <a href ="https://youtu.be/uzxcILudFWM">Pieter Hintjens - Building Open Source Communities</a></li>
+       <li> <a href ="https://youtu.be/c6b6B9oN4Vg">Contributing to Open Source for the first time</a></li>
+       <li> <a href ="https://youtu.be/3HqN-YS8eso">Getting started with Open Source & GitHub</a></li>
+       <li> <a href ="https://www.youtube.com/watch?v=MT6M_sqAuZo">How to Open Source Like a Pro</a></li>
+       <li> <a href ="https://www.youtube.com/watch?v=GbqSvJs-6W4">How To Get Started With Open Source</a></li>
+       <li> <a href ="https://www.youtube.com/watch?v=DnvhWAx2I7A">How to Contribute to Open Source Projects</a></li>
+       <li> <a href ="https://www.youtube.com/watch?v=Tq4RZ-JH6aM">How to start with Open Source software contributions</a></li>
+       <li> <a href ="https://www.youtube.com/watch?v=RHETubkhjY8&list=PLR0CKdeR_FyscaxEksDVXc4UQvlOFLYS6&t=0s">Complete Guide to Open Source Contributions</a></li>
+       <li> <a href ="https://www.youtube.com/watch?v=Y5HIJeR9hk0">Get started with Open Source</a></li>
    </ul>
 </details>
 
@@ -200,6 +226,50 @@ Search links that point directly to suitable issues to contribute to on GitHub.
        <li> <a href ="https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-software-projects"> How To Maintain Open-Source Software Projects</a></li>
        <li> <a href ="https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute"> How to Contribute to Open Source</a></li>
        <li> <a href ="https://yourfirstpr.github.io/"> Your First PR</a></li>
+       <li> <a href ="https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/"> How To Get Started In Open Source</a></li>
+       <li> <a href ="https://producingoss.com/en/evaluating-oss-projects.html"> Evaluating Open Source Projects</a></li>
+       <li> <a href ="https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/"> A Beginner’s Very Bumpy Journey Through The World of Open Source</a></li>
+       <li> <a href ="https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/"> How to Contribute to Open Source Projects – A Beginner's Guide</a></li>
+       <li> <a href ="https://www.freecodecamp.org/news/ultimate-owners-guide-to-open-source/"> How to Be a Good Open Source Project Owner – The Ultimate Guide</a></li>
+       <li> <a href ="https://www.freecodecamp.org/news/the-ultimate-guide-to-open-source/"> The Ultimate Guide to Open Source</a></li>
+       <li> <a href ="https://www.freecodecamp.org/news/why-you-should-start-contributing-to-open-source-software-right-now/"> Why You Should Start Contributing to Open Source Software Right Now</a></li>
+       <li> <a href ="https://www.freecodecamp.org/news/how-to-choose-and-care-for-a-secure-open-source-project/"> How to Choose and Care for a Secure Open Source Project</a></li>
+       <li> <a href ="https://www.freecodecamp.org/news/what-is-great-about-developing-open-source-and-what-is-not/"> The Pros and Cons of Open Source Software Development</a></li>
+       <li> <a href ="https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/"> The Definitive Guide to Contributing to Open Source</a></li>
+       <li> <a href ="https://opensource.guide/starting-a-project/"> Starting an Open Source Project</a></li>
+       <li> <a href ="https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me"> How getting into Open Source has been awesome for me</a></li>
+       <li> <a href ="https://kentcdodds.com/blog/open-source-stamina"> Open Source Stamina</a></li>
+       <li> <a href ="https://kentcdodds.com/blog/building-the-open-source-community-we-want"> Building the Open Source Community We Want</a></li>
+       <li> <a href ="https://kentcdodds.com/blog/how-i-learn-an-open-source-codebase"> How I learn an Open Source Codebase</a></li>
+       <li> <a href ="https://kentcdodds.com/blog/introducing-how-to-contribute-to-open-source"> Introducing: How to Contribute to Open Source</a></li>
+       <li> <a href ="https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to"> What open source project should I contribute to?</a></li>
+       <li> <a href ="https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github"> How to Contribute to an Open Source Project on GitHub</a></li>
+       <li> <a href ="https://kentcdodds.com/blog/first-timers-only"> First Timers Only</a></li>
+       <li> <a href ="https://ben.balter.com/2015/11/23/why-open-source/"> Why open source?</a></li>
+       <li> <a href ="https://ben.balter.com/2017/11/10/twelve-tips-for-growing-communities-around-your-open-source-project/"> Twelve tips for growing communities around your open source project</a></li>
+       <li> <a href ="https://ben.balter.com/2015/03/08/open-source-best-practices-internal-collaboration/"> Five best practices in open source: internal collaboration</a></li>
+       <li> <a href ="https://ben.balter.com/2015/03/17/open-source-best-practices-external-engagement/"> Five best practices in open source: external engagement</a></li>
+       <li> <a href ="https://ben.balter.com/2017/11/28/everything-an-open-source-maintainer-might-need-to-know-about-open-source-licensing/"> Everything an open source maintainer might need to know about open source licensing</a></li>
+       <li> <a href ="https://ben.balter.com/2016/08/01/why-you-shouldnt-write-your-own-open-source-license/"> Why you shouldn’t write your own open source license</a></li>
+       <li> <a href ="https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576"> Self-taught Software Developers: Why Open Source is important to us</a></li>
+       <li> <a href ="https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779"> So you wanna open source a project, eh?</a></li>
+       <li> <a href ="https://www.saluki.tech/2021/06/16/making-a-game-with-open-source-tools/"> Making a game with Open-Source tools</a></li>
+       <li> <a href ="https://www.errietta.me/blog/open-source/"> Why I love contributing to open source software</a></li>
+       <li> <a href ="https://opensource.guide/best-practices/"> Best Practices for Maintainers
+       </a></li>
+       <li> <a href ="https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39"> What Does “Open Source” Even Mean?</a></li>
+       <li> <a href ="https://lord.io/oss-tips/"> TIPS FOR NEW OPEN SOURCE MAINTAINERS</a></li>
+       <li> <a href ="https://krausefx.com/blog/scaling-open-source-communities"> Scaling Open Source Communities</a></li>
+       <li> <a href ="https://github.blog/2016-03-15-kindly-closing-pull-requests/"> Kindly Closing Pull Requests</a></li>
+       <li> <a href ="https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes"> Why I close PRs (OSS project maintainer notes)</a></li>
+       <li> <a href ="https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/"> My condolences, you’re now the maintainer of a popular open source project</a></li>
+       <li> <a href ="https://medium.com/@nayafia/what-success-really-looks-like-in-open-source-2dd1facaf91c#.pbieg7stv"> What success really looks like in open source</a></li>
+       <li> <a href ="https://taskwarrior.org/docs/advice.html"> Advice To Open Source Project Contributors</a></li>
+       <li> <a href ="https://taskwarrior.org/docs/first_time.html"> How to become an Open Source Contributor</a></li>
+       <li> <a href ="https://opensource.guide/getting-paid/"> Getting Paid for Open Source Work</a></li>
+       <li> <a href ="https://rubygarage.org/blog/how-contribute-to-open-source-projects"> How to Contribute to Open Source Project</a></li>
+       <li> <a href ="https://www.upgrad.com/blog/tag/open-source-projects/"> Open Source Projects</a></li>
+       <li> <a href ="https://www.upgrad.com/blog/tag/open-source-project-ideas/"> Open Source Project Ideas</a></li>
    </ul>
 </details>
 
