@@ -273,6 +273,25 @@ Search links that point directly to suitable issues to contribute to on GitHub.
    </ul>
 </details>
 
+<details>
+<summary>
+<strong> Podcasts</strong>
+</summary>
+    <ul>
+        <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9jaGFuZ2Vsb2cuY29tL3BvZGNhc3QvZmVlZA?ep=14"> The Changelog: Software Development, Open Source</a></li>
+        <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9vcGVuc291cmNldW5kZXJkb2dzLmNvbS9mZWVkLw?ep=14"> Open Source Underdogs</a></li>
+        <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0Lm9wZW5zYXAuaW5mby9vcGVuLXNvdXJjZS13YXkvZmVlZC9tcDMv?ep=14"> The Open Source Way</a></li>
+        <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9zb2Z0d2FyZWVuZ2luZWVyaW5nZGFpbHkuY29tL2NhdGVnb3J5L29wZW4tc291cmNlL2ZlZWQv?ep=14"> Open Source – Software Engineering Daily</a></li>
+        <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xZjQ0NTg4MC9wb2RjYXN0L3Jzcw?ep=14"> FINOS Open Source in Finance Podcast</a></li>
+        <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5wb2RldGl6ZS5jb20vcnNzLy1tUmxFdmJ6dQ?ep=14"> The Craft Of Open Source</a></li>
+        <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL3BlcmNvbmEvZmVlZC54bWw?ep=14"> Percona's HOSS Talks FOSS: The Open Source Database Podcast</a></li>
+        <li><a href="https://podcasts.google.com/feed/aHR0cDovL29wZW5zb3VyY2VzeXN0ZW1wb2RjYXN0LnZmLmlvL2ZlZWQv?sa=X&ved=0CCIQ27cFahcKEwjIjrfEqbjxAhUAAAAAHQAAAAAQAg"> Open Source System Podcast</a></li>
+        <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5maXJlc2lkZS5mbS9zdXN0YWluL3Jzcw?sa=X&ved=0CDIQ27cFahcKEwjIjrfEqbjxAhUAAAAAHQAAAAAQAg"> Sustain</a></li>
+        <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDQyMTMyNC9lcGlzb2Rlcy9mZWVk?sa=X&ved=0CDMQ27cFahcKEwjIjrfEqbjxAhUAAAAAHQAAAAAQAg"> Scotland Open Source</a></li>
+        <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZjU1MzQ0MC9wb2RjYXN0L3Jzcw?sa=X&ved=0CD4Q27cFahcKEwjIjrfEqbjxAhUAAAAAHQAAAAAQAg"> Creators and Consumers of Open Source</a></li>
+    </ul>
+</details>
+
 ## Find us on
 
 <a href="https://discord.gg/c6RhGwcP5b"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><br>
