@@ -292,9 +292,6 @@ Search links that point directly to suitable issues to contribute to on GitHub.
     </ul>
 </details>
 
-<details>
-<summary>
-
 ## Find us on
 
 <a href="https://discord.gg/c6RhGwcP5b"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><br>
