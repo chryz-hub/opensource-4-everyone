@@ -270,6 +270,10 @@ Search links that point directly to suitable issues to contribute to on GitHub.
        <li> <a href ="https://rubygarage.org/blog/how-contribute-to-open-source-projects"> How to Contribute to Open Source Project</a></li>
        <li> <a href ="https://www.upgrad.com/blog/tag/open-source-projects/"> Open Source Projects</a></li>
        <li> <a href ="https://www.upgrad.com/blog/tag/open-source-project-ideas/"> Open Source Project Ideas</a></li>
+       <li> <a href ="https://daily.dev/blog/how-to-contribute-to-open-source-projects-as-a-beginner"> How To Contribute To Open-Source Projects As A Beginner</a></li>
+       <li> <a href ="https://www.upgrad.com/blog/open-source-projects-for-beginners/">Top 8 Open Source Projects for Beginners To Try in 2021</a></li>
+       <li> <a href ="https://www.upgrad.com/blog/open-source-repositories-github/">Top 12 Most Popular Open Source Repositories on GitHub[2021]</a></li>
+       <li> <a href ="https://meghapathak.tech/5-steps-for-making-your-first-open-source-contribution">5 Steps For Making Your First Open Source Contribution</a></li>
    </ul>
 </details>
 
