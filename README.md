@@ -167,7 +167,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
        <li><a href="https://github.com/open-sauced/open-sauced"> open-sauced</a></li>
        <li><a href="https://github.com/explore/"> Explore Github</a></li>
        <li><a href="https://github.com/larymak/Python-project-Scripts"> Python Projects Script</a></li>
-       <li><a href="https://github.com/mazipan/hello-open-source">Hello Open Source raised_hand_with_fingers_splayed</a></li>
+       <li><a href="https://github.com/mazipan/hello-open-source">Hello Open Source</a></li>
        <li><a href="https://github.com/pinax"> Pinax Project</a></li>
    </ul>
 </details>
