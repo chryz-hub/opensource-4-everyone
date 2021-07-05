@@ -58,6 +58,9 @@ By these data provided, connections can be made!
 - [JayantGoel001](https://github.com/JayantGoel001)
   <p>Bio: Android, Data Science and Web Development</p>
   
+- [ManuSquall](https://github.com/ManuSquall)
+  <p>Bio: Web / Software / SharePoint Junior Developer 🙂 </p>
+  
 - [Mohammed Kabir Hussaini](https://github.com/lekandev)
   <p>Bio: I am a 17 y.o frontend Developer with skills on JavaScript, React and Nextjs. I tend to have major original ideas to create the next big thing</p>
 
