@@ -163,6 +163,9 @@ Search links that point directly to suitable issues to contribute to on GitHub.
     <ul>
        <li><a href="https://github.com/MunGell/awesome-for-beginners"> Awesome First PR Opportunities</a></li>
        <li><a href="https://github.com/github/opensource.guide">Open Source Guides</a></li>
+       <li><a href="https://github.com/18F/open-source-guide">18F Open Source Style Guide</a></li>
+       <li><a href="https://github.com/discord/discord-open-source">Open Source Communities on Discord</a></li>
+       <li><a href="https://github.com/open-source-ideas/open-source-ideas">Open Source Ideas</a></li>
        <li><a href="https://github.com/mvillaloboz/open-source-cs-degree">The Open-Source Computer Science Degree</a></li>
        <li><a href="https://github.com/shainakrumme/open-source-handbook"> Open Source Handbook</a></li>
        <li><a href="https://github.com/tapaswenipathak/Getting-Started-With-Contributing-to-Open-Sources"> Getting Started With Contributing to Open Sources</a></li>
