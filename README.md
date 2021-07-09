@@ -162,9 +162,11 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 </summary>
     <ul>
        <li><a href="https://github.com/MunGell/awesome-for-beginners"> Awesome First PR Opportunities</a></li>
+       <li><a href="https://github.com/eddiejaoude/book-open-source-tips">Open Source Tips</a></li>
        <li><a href="https://github.com/github/opensource.guide">Open Source Guides</a></li>
        <li><a href="https://github.com/18F/open-source-guide">18F Open Source Style Guide</a></li>
        <li><a href="https://github.com/discord/discord-open-source">Open Source Communities on Discord</a></li>
+       <li><a href="https://github.com/github/opensourcefriday">Open Source Friday</a></li>
        <li><a href="https://github.com/open-source-ideas/open-source-ideas">Open Source Ideas</a></li>
        <li><a href="https://github.com/mvillaloboz/open-source-cs-degree">The Open-Source Computer Science Degree</a></li>
        <li><a href="https://github.com/shainakrumme/open-source-handbook"> Open Source Handbook</a></li>
@@ -236,11 +238,13 @@ Search links that point directly to suitable issues to contribute to on GitHub.
        <li> <a href ="https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-software-projects"> How To Maintain Open-Source Software Projects</a></li>
        <li> <a href ="https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute"> How to Contribute to Open Source</a></li>
        <li> <a href ="https://yourfirstpr.github.io/"> Your First PR</a></li>
+       <li> <a href ="https://ololade.hashnode.dev/series/beginners-guide-to-open-source-contribution"> Beginner's Guide to Open Source Contribution</a></li>
        <li> <a href ="https://dev.to/denicmarko/make-your-first-open-source-contribution-4b0n">Make your first open-source contribution</a></li>
        <li> <a href ="https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/"> How To Get Started In Open Source</a></li>
        <li> <a href ="https://producingoss.com/en/evaluating-oss-projects.html"> Evaluating Open Source Projects</a></li>
        <li> <a href ="https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/"> A Beginner’s Very Bumpy Journey Through The World of Open Source</a></li>
        <li> <a href ="https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/"> How to Contribute to Open Source Projects – A Beginner's Guide</a></li>
+       <li> <a href ="https://dev.to/sigje/contribute-beyond-code-open-source-for-everyone-593j"> Contribute Beyond Code: Open Source for Everyone</a></li>
        <li> <a href ="https://www.freecodecamp.org/news/ultimate-owners-guide-to-open-source/"> How to Be a Good Open Source Project Owner – The Ultimate Guide</a></li>
        <li> <a href ="https://www.freecodecamp.org/news/the-ultimate-guide-to-open-source/"> The Ultimate Guide to Open Source</a></li>
        <li> <a href ="https://www.freecodecamp.org/news/why-you-should-start-contributing-to-open-source-software-right-now/"> Why You Should Start Contributing to Open Source Software Right Now</a></li>
