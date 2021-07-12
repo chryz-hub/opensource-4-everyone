@@ -231,7 +231,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 <strong> Open-Source Docs/ Blogs </strong>
 </summary>
     <ul>
-       <li> <a href ="https://docs.github.com/en/github/getting-started-with-github/finding-ways-to-contribute-to-open-source-on-github"> GitHub docs for open source</a></li>
+       <li> <a href ="https://docs.github.com/en/github/getting-started-with-github/finding-ways-to-contribute-to-open-source-on-github" rel="noopener noreferrer" target="_blank"> GitHub docs for open source</a></li>
        <li> <a href ="https://opensource.guide/how-to-contribute/"> GitHub open souce guide</a></li>
        <li> <a href ="https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/"> Getting started with contributing to open source</a></li>
        <li> <a href ="https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git"> How To Contribute To Open Source: Getting Started With Git</a></li>
