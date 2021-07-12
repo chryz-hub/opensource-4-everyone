@@ -235,9 +235,14 @@ Search links that point directly to suitable issues to contribute to on GitHub.
        <li> <a href ="https://opensource.guide/how-to-contribute/"> GitHub open souce guide</a></li>
        <li> <a href ="https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/"> Getting started with contributing to open source</a></li>
        <li> <a href ="https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git"> How To Contribute To Open Source: Getting Started With Git</a></li>
+       <li> <a href ="https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/"> The beginner's guide to contributing to a GitHub project</a></li>
        <li> <a href ="https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-software-projects"> How To Maintain Open-Source Software Projects</a></li>
        <li> <a href ="https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute"> How to Contribute to Open Source</a></li>
+       <li> <a href ="https://www.hackerearth.com/getstarted-opensource/"> How to get started with Open Source</a></li>
        <li> <a href ="https://yourfirstpr.github.io/"> Your First PR</a></li>
+       <li> <a href ="https://www.dataschool.io/how-to-contribute-on-github/"> Step-by-step guide to contributing on GitHub</a></li>
+       <li> <a href ="https://www.codemotion.com/magazine/dev-hub/backend-dev/contributing-to-open-source-projects/"> Contributing To Open-Source Projects</a></li>
+       <li> <a href ="https://rubygarage.org/blog/how-contribute-to-open-source-projects"> How to Contribute to Open-Source Projects</a></li>
        <li> <a href ="https://ololade.hashnode.dev/series/beginners-guide-to-open-source-contribution"> Beginner's Guide to Open Source Contribution</a></li>
        <li> <a href ="https://dev.to/denicmarko/make-your-first-open-source-contribution-4b0n">Make your first open-source contribution</a></li>
        <li> <a href ="https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/"> How To Get Started In Open Source</a></li>
