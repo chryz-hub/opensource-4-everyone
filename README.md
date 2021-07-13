@@ -240,6 +240,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
        <li> <a href ="https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute"> How to Contribute to Open Source</a></li>
        <li> <a href ="https://www.hackerearth.com/getstarted-opensource/"> How to get started with Open Source</a></li>
        <li> <a href ="https://yourfirstpr.github.io/"> Your First PR</a></li>
+       <li> <a href ="https://edidiongasikpo.com/the-technical-writers-guide-to-contributing-to-open-source-projects">The Technical Writers Guide to Contributing to Open Source Projects</a></li>
        <li> <a href ="https://www.dataschool.io/how-to-contribute-on-github/"> Step-by-step guide to contributing on GitHub</a></li>
        <li> <a href ="https://www.codemotion.com/magazine/dev-hub/backend-dev/contributing-to-open-source-projects/"> Contributing To Open-Source Projects</a></li>
        <li> <a href ="https://rubygarage.org/blog/how-contribute-to-open-source-projects"> How to Contribute to Open-Source Projects</a></li>
@@ -267,8 +268,8 @@ Search links that point directly to suitable issues to contribute to on GitHub.
        <li> <a href ="https://kentcdodds.com/blog/first-timers-only"> First Timers Only</a></li>
        <li> <a href ="https://ben.balter.com/2015/11/23/why-open-source/"> Why open source?</a></li>
        <li> <a href ="https://ben.balter.com/2017/11/10/twelve-tips-for-growing-communities-around-your-open-source-project/"> Twelve tips for growing communities around your open source project</a></li>
-       <li> <a href ="https://ben.balter.com/2015/03/08/open-source-best-practices-internal-collaboration/"> Five best practices in open source: internal collaboration</a></li>
-       <li> <a href ="https://ben.balter.com/2015/03/17/open-source-best-practices-external-engagement/"> Five best practices in open source: external engagement</a></li>
+       <li> <a href ="https://ben.balter.com/2015/03/08/open-source-best-practices-internal-collaboration/"> Best practices in Open Source: internal collaboration</a></li>
+       <li> <a href ="https://ben.balter.com/2015/03/17/open-source-best-practices-external-engagement/"> Best practices in Open Source: external engagement</a></li>
        <li> <a href ="https://ben.balter.com/2017/11/28/everything-an-open-source-maintainer-might-need-to-know-about-open-source-licensing/"> Everything an open source maintainer might need to know about open source licensing</a></li>
        <li> <a href ="https://ben.balter.com/2016/08/01/why-you-shouldnt-write-your-own-open-source-license/"> Why you shouldn’t write your own open source license</a></li>
        <li> <a href ="https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576"> Self-taught Software Developers: Why Open Source is important to us</a></li>
@@ -285,6 +286,11 @@ Search links that point directly to suitable issues to contribute to on GitHub.
        <li> <a href ="https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/"> My condolences, you’re now the maintainer of a popular open source project</a></li>
        <li> <a href ="https://medium.com/@nayafia/what-success-really-looks-like-in-open-source-2dd1facaf91c#.pbieg7stv"> What success really looks like in open source</a></li>
        <li> <a href ="https://taskwarrior.org/docs/advice.html"> Advice To Open Source Project Contributors</a></li>
+       <li> <a href ="https://meghapathak.com/5-steps-for-making-your-first-open-source-contribution">Making Your First Open Source Contribution</a></li>
+       <li> <a href ="https://ayush-raj-blogs.hashnode.dev/making-clean-pr-for-open-source-contributors-pep-8-style">Making clean PR for Open Source Contributors ( PEP 8 Style )</a></li>
+       <li> <a href ="https://catalins.tech/getting-started-with-open-source-how-to-contribute">Getting Started With Open-Source: How To Contribute</a></li>
+       <li> <a href ="https://movi.hashnode.dev/10-ways-you-can-contribute-to-open-source-ckfljitve00cspds1d0cmbzv2">Ways you can contribute to Open-source</a></li>
+       <li> <a href ="https://movi.hashnode.dev/10-ways-you-can-contribute-to-open-source-ckfljitve00cspds1d0cmbzv2">Ways you can contribute to Open-source</a></li>
        <li> <a href ="https://taskwarrior.org/docs/first_time.html"> How to become an Open Source Contributor</a></li>
        <li> <a href ="https://opensource.guide/getting-paid/"> Getting Paid for Open Source Work</a></li>
        <li> <a href ="https://rubygarage.org/blog/how-contribute-to-open-source-projects"> How to Contribute to Open Source Project</a></li>
@@ -293,7 +299,6 @@ Search links that point directly to suitable issues to contribute to on GitHub.
        <li> <a href ="https://daily.dev/blog/how-to-contribute-to-open-source-projects-as-a-beginner"> How To Contribute To Open-Source Projects As A Beginner</a></li>
        <li> <a href ="https://www.upgrad.com/blog/open-source-projects-for-beginners/">Top 8 Open Source Projects for Beginners To Try in 2021</a></li>
        <li> <a href ="https://www.upgrad.com/blog/open-source-repositories-github/">Top 12 Most Popular Open Source Repositories on GitHub[2021]</a></li>
-       <li> <a href ="https://meghapathak.tech/5-steps-for-making-your-first-open-source-contribution">5 Steps For Making Your First Open Source Contribution</a></li>
    </ul>
 </details>
 
