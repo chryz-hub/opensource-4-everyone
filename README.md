@@ -84,7 +84,7 @@ This is all about the comparism between your own forked version and the real rep
 
 Just same process as a commit message. Some community have a pull Request template which makes it easier to fill in important and appropriate details concerning a Pull Request,
 which is shown on the image. I didn't add any description because there wasn't really a change,the change here was only a space, but yours could be way far than this. So fill
-it up with neccessary details and concerning the Pull Request title, do not forget to make it precise. You can see a check button there, this means that the Pull Request be edited by the contributors of the community you making a Pull Request to. I really advise you to always check this, although it's automatically checked by github defaulty, so the choice is left to you. Then click the `create Pull Request` button.
+it up with neccessary details and concerning the Pull Request title, do not forget to make it precise. You can see a check button there, clicking it simply means that the Pull Request can be edited by the mainteners of the repository. I really advise you to always check this, although it's automatically checked by github by default, so the choice is left to you. Then click the `create Pull Request` button.
 
 <img align="center" src="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/chryz-hub-tut-pics/pr-tut-pics/pr-3-6.jpg" />
 
