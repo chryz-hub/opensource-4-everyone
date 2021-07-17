@@ -1,4 +1,15 @@
-# opensource-4-everyone
+# Open-Source-4-Everyone
+
+<a href="https://github.com/chryz-hub/opensource-4-everyone"><img src="https://img.shields.io/badge/PRs-welcome-green"></a> 
+<a href="https://github.com/chryz-hub/opensource-4-everyone"><img src="https://img.shields.io/badge/Contributions-welcome-green"></a> 
+<a href="https://github.com/chryz-hub/opensource-4-everyone/graphs/contributors"><img src="https://img.shields.io/github/contributors/chryz-Hub/opensource-4-everyone?style=plastic"></a>
+<a href="https://github.com/chryz-hub/opensource-4-everyone/stargazers"><img src="https://img.shields.io/github/stars/chryz-Hub/opensource-4-everyone?style=plastic"></a>
+<a href="https://github.com/chryz-hub/opensource-4-everyone/network/members"><img src="https://img.shields.io/github/forks/chryz-Hub/opensource-4-everyone?style=plastic"></a>
+<a href="https://github.com/chryz-hub/opensource-4-everyone/issues?q=is%3Aopen+is%3Aissue"><img src="https://img.shields.io/github/issues/chryz-Hub/opensource-4-everyone?color=yellow&style=plastic"></a>
+<a href="https://github.com/chryz-hub/opensource-4-everyone/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed/chryz-Hub/opensource-4-everyone?style=plastic"></a>
+<a href="https://github.com/chryz-hub/opensource-4-everyone/pulls?q=is%3Aopen+is%3Apr"><img src="https://img.shields.io/github/issues-pr/chryz-Hub/opensource-4-everyone?color=blue&style=plastic"></a>
+<a href="https://github.com/chryz-hub/opensource-4-everyone/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed/chryz-Hub/opensource-4-everyone?color=blue&style=plastic"></a>
+
 
 #### This repo is for everything open source!
 
@@ -82,9 +93,9 @@ This is all about the comparism between your own forked version and the real rep
 
 ### 6. Create Pull Request Message
 
-Just same process as a commit message. Some community have a pull Request template which makes it easier to fill in important and apprioprate details concerning a Pull Request,
-which is shown on the image. I didn't add any description because I didn't really make a change, my change here was omly a space but yours would be way far than this. So fill
-it up with neccessary details concerning the Pull Request and do not forget be precise. You can see a check button there, this means that the Pull Request be edited by the contributors of the community you making a Pull Request to. I really advise you to always check this, although it's automatically checked by github defaulty, so the choice is left to you. Then click the `create Pull Request` button.
+Just same process as a commit message. Some community have a pull Request template which makes it easier to fill in important and appropriate details concerning a Pull Request,
+which is shown on the image. I didn't add any description because there wasn't really a change,the change here was only a space, but yours could be way far than this. So fill
+it up with neccessary details and concerning the Pull Request title, do not forget to make it precise. You can see a check button there, clicking it simply means that the Pull Request can be edited by the mainteners of the repository. I really advise you to always check this, although it's automatically checked by github by default, so the choice is left to you. Then click the `create Pull Request` button.
 
 <img align="center" src="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/chryz-hub-tut-pics/pr-tut-pics/pr-3-6.jpg" />
 
