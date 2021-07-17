@@ -1,7 +1,7 @@
 # Open-Source-4-Everyone
 
 <a href="https://github.com/chryz-hub/opensource-4-everyone"><img src="https://img.shields.io/badge/PRs-welcome-green"></a> 
-<a href="https://github.com/chryz-hub/web-dev-resources"><img src="https://img.shields.io/badge/Contributions-welcome-green"></a> 
+<a href="https://github.com/chryz-hub/opensource-4-everyone"><img src="https://img.shields.io/badge/Contributions-welcome-green"></a> 
 <a href="https://github.com/chryz-hub/opensource-4-everyone/graphs/contributors"><img src="https://img.shields.io/github/contributors/chryz-Hub/opensource-4-everyone?style=plastic"></a>
 <a href="https://github.com/chryz-hub/opensource-4-everyone/stargazers"><img src="https://img.shields.io/github/stars/chryz-Hub/opensource-4-everyone?style=plastic"></a>
 <a href="https://github.com/chryz-hub/opensource-4-everyone/network/members"><img src="https://img.shields.io/github/forks/chryz-Hub/opensource-4-everyone?style=plastic"></a>
