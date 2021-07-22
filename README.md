@@ -151,9 +151,9 @@ Search links that point directly to suitable issues to contribute to on GitHub.
         <li><a href="https://up-for-grabs.net/"> Up-for-grabs</a></li>
         <li><a href="https://www.firsttimersonly.com/"> First timers only</a></li>
         <li><a href="https://firstcontributions.github.io/"> First contributions</a></li>
-        <li><a href="https://contributor.ninja/"> Contributor-ninja</a></li>
+        <li><a href="https://contributor.ninja/"> Contributor Ninja</a></li>
         <li><a href="https://gauger.io/contrib"> Gauger Site</a></li>
-        <li><a href="https://opensauced.pizza/"> Opensauced</a></li>
+        <li><a href="https://opensauced.pizza/"> OpenSauced</a></li>
         <li><a href="https://opensourcefriday.com/"> Open Source Friday</a></li>
         <li><a href="https://24pullrequests.com/"> 24pullrequests</a></li>
         <li><a href="http://issuehub.pro/"> issuehub</a></li>
@@ -176,13 +176,13 @@ Search links that point directly to suitable issues to contribute to on GitHub.
        <li><a href="https://github.com/mvillaloboz/open-source-cs-degree">The Open-Source Computer Science Degree</a></li>
        <li><a href="https://github.com/shainakrumme/open-source-handbook"> Open Source Handbook</a></li>
        <li><a href="https://github.com/tapaswenipathak/Getting-Started-With-Contributing-to-Open-Sources"> Getting Started With Contributing to Open Sources</a></li>
-       <li><a href="https://github.com/open-sauced/open-sauced"> open-sauced</a></li>
-       <li><a href="https://github.com/firstcontributions/first-contributions"> first-contributions</a></li>
+       <li><a href="https://github.com/open-sauced/open-sauced"> Open Sauced</a></li>
+       <li><a href="https://github.com/firstcontributions/first-contributions"> First Contributions</a></li>
        <li><a href="https://github.com/explore/"> Explore Github</a></li>
        <li><a href="https://github.com/larymak/Python-project-Scripts"> Python Projects Script</a></li>
        <li><a href="https://github.com/mazipan/hello-open-source">Hello Open Source</a></li>
        <li><a href="https://github.com/pinax"> Pinax Project</a></li>
-       <li> <a href ="https://github.com/ForrestKnight/open-source-cs">The Open Source Computer Science Degree</a></li>
+       <li><a href="https://github.com/open-source-ideas/open-source-ideas"> Open Source Ideas</a></li>
        <li> <a href ="https://github.com/freeCodeCamp/how-to-contribute-to-open-source">How to contribute to open source</a></li>
        <li> <a href ="https://github.com/danthareja/contribute-to-open-source">Contribute to Open Source</a></li>
    </ul>
@@ -269,6 +269,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
        <li> <a href ="https://kentcdodds.com/blog/open-source-stamina"> Open Source Stamina</a></li>
        <li> <a href ="https://kentcdodds.com/blog/building-the-open-source-community-we-want"> Building the Open Source Community We Want</a></li>
        <li> <a href ="https://kentcdodds.com/blog/how-i-learn-an-open-source-codebase"> How I learn an Open Source Codebase</a></li>
+       <li> <a href ="https://livecodestream.dev/post/how-to-make-your-first-contribution-to-open-source/"> How to Make your First Contribution to Open Source</a></li>
        <li> <a href ="https://kentcdodds.com/blog/introducing-how-to-contribute-to-open-source"> Introducing: How to Contribute to Open Source</a></li>
        <li> <a href ="https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to"> What open source project should I contribute to?</a></li>
        <li> <a href ="https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github"> How to Contribute to an Open Source Project on GitHub</a></li>
