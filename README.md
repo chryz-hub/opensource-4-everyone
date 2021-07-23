@@ -142,7 +142,6 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 
 <details><summary><strong> Websites </summary><blockquote></strong>
 
-<br />
 <ul>
     <li><a href="https://www.codetriage.com/"> CodeTriage</a></li>
     <li><a href="https://goodfirstissue.dev/"> Good First Issue.dev</a></li>
