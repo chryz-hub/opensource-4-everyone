@@ -193,15 +193,16 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 </ul>
 </blockquote></details>
 </details>
+
 <details><summary><strong> YouTube Channels/Videos </summary><blockquote></strong>
-<br />
+
 <details><summary>Channels </summary><blockquote>
 <ul>
     <li> <a href ="https://www.youtube.com/c/github">GitHub</a></li>
     <li> <a href ="https://youtube.com/c/eddiejaoude">Eddie Jaoude</a></li>
     <li> <a href ="https://youtube.com/c/opensourceway">Opensource.com</a></li>
     <li> <a href ="https://youtube.com/c/GoogleOpenSource">Google Open Source</a></li>
-    <li> <a href ="https://www.youtube.com/watch?v=Zlu3QvuwruY">All Things Open</a></li>
+    <li> <a href ="https://www.youtube.com/c/AllThingsOpen">All Things Open</a></li>
 </ul>
 </blockquote></details>
 
