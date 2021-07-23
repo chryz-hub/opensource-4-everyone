@@ -231,102 +231,98 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 </blockquote></details>
 </details>
 
-<details>
-<summary>
-<strong> Open-Source Docs/ Blogs </strong>
-</summary>
-    <ul>
-       <li> <a href ="https://docs.github.com/en/github/getting-started-with-github/finding-ways-to-contribute-to-open-source-on-github"> GitHub docs for open source</a></li>
-       <li> <a href ="https://opensource.guide/how-to-contribute/"> GitHub open souce guide</a></li>
-       <li> <a href ="https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/"> Getting started with contributing to open source</a></li>
-       <li> <a href ="https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git"> How To Contribute To Open Source: Getting Started With Git</a></li>
-       <li> <a href ="https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/"> The beginner's guide to contributing to a GitHub project</a></li>
-       <li> <a href ="https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-software-projects"> How To Maintain Open-Source Software Projects</a></li>
-       <li> <a href ="https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute"> How to Contribute to Open Source</a></li>
-       <li> <a href ="https://www.hackerearth.com/getstarted-opensource/"> How to get started with Open Source</a></li>
-       <li> <a href ="https://yourfirstpr.github.io/"> Your First PR</a></li>
-       <li> <a href ="https://edidiongasikpo.com/the-technical-writers-guide-to-contributing-to-open-source-projects">The Technical Writers Guide to Contributing to Open Source Projects</a></li>
-       <li> <a href ="https://www.dataschool.io/how-to-contribute-on-github/"> Step-by-step guide to contributing on GitHub</a></li>
-       <li> <a href ="https://www.codemotion.com/magazine/dev-hub/backend-dev/contributing-to-open-source-projects/"> Contributing To Open-Source Projects</a></li>
-       <li> <a href ="https://edidiongasikpo.com/open-source-contributions-a-catalyst-for-growth">Open Source contributions: A catalyst for growth</a></li>
-       <li> <a href ="https://pulkitsinghdev.hashnode.dev/how-to-contribute-to-open-source"> A guide to making open source contributions</a></li>
-       <li> <a href ="https://rubygarage.org/blog/how-contribute-to-open-source-projects"> How to Contribute to Open-Source Projects</a></li>
-       <li> <a href ="https://ololade.hashnode.dev/series/beginners-guide-to-open-source-contribution"> Beginner's Guide to Open Source Contribution</a></li>
-       <li> <a href ="https://dev.to/denicmarko/make-your-first-open-source-contribution-4b0n">Make your first open-source contribution</a></li>
-       <li> <a href ="https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/"> How To Get Started In Open Source</a></li>
-       <li> <a href ="https://producingoss.com/en/evaluating-oss-projects.html"> Evaluating Open Source Projects</a></li>
-       <li> <a href ="https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/"> A Beginner’s Very Bumpy Journey Through The World of Open Source</a></li>
-       <li> <a href ="https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/"> How to Contribute to Open Source Projects – A Beginner's Guide</a></li>
-       <li> <a href ="https://dev.to/sigje/contribute-beyond-code-open-source-for-everyone-593j"> Contribute Beyond Code: Open Source for Everyone</a></li>
-       <li> <a href ="https://www.freecodecamp.org/news/ultimate-owners-guide-to-open-source/"> How to Be a Good Open Source Project Owner – The Ultimate Guide</a></li>
-       <li> <a href ="https://www.freecodecamp.org/news/the-ultimate-guide-to-open-source/"> The Ultimate Guide to Open Source</a></li>
-       <li> <a href ="https://www.freecodecamp.org/news/why-you-should-start-contributing-to-open-source-software-right-now/"> Why You Should Start Contributing to Open Source Software Right Now</a></li>
-       <li> <a href ="https://www.freecodecamp.org/news/how-to-choose-and-care-for-a-secure-open-source-project/"> How to Choose and Care for a Secure Open Source Project</a></li>
-       <li> <a href ="https://www.freecodecamp.org/news/what-is-great-about-developing-open-source-and-what-is-not/"> The Pros and Cons of Open Source Software Development</a></li>
-       <li> <a href ="https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/"> The Definitive Guide to Contributing to Open Source</a></li>
-       <li> <a href ="https://opensource.guide/starting-a-project/"> Starting an Open Source Project</a></li>
-       <li> <a href ="https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me"> How getting into Open Source has been awesome for me</a></li>
-       <li> <a href ="https://kentcdodds.com/blog/open-source-stamina"> Open Source Stamina</a></li>
-       <li> <a href ="https://kentcdodds.com/blog/building-the-open-source-community-we-want"> Building the Open Source Community We Want</a></li>
-       <li> <a href ="https://kentcdodds.com/blog/how-i-learn-an-open-source-codebase"> How I learn an Open Source Codebase</a></li>
-       <li> <a href ="https://livecodestream.dev/post/how-to-make-your-first-contribution-to-open-source/"> How to Make your First Contribution to Open Source</a></li>
-       <li> <a href ="https://kentcdodds.com/blog/introducing-how-to-contribute-to-open-source"> Introducing: How to Contribute to Open Source</a></li>
-       <li> <a href ="https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to"> What open source project should I contribute to?</a></li>
-       <li> <a href ="https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github"> How to Contribute to an Open Source Project on GitHub</a></li>
-       <li> <a href ="https://kentcdodds.com/blog/first-timers-only"> First Timers Only</a></li>
-       <li> <a href ="https://ben.balter.com/2015/11/23/why-open-source/"> Why open source?</a></li>
-       <li> <a href ="https://ben.balter.com/2017/11/10/twelve-tips-for-growing-communities-around-your-open-source-project/"> Twelve tips for growing communities around your open source project</a></li>
-       <li> <a href ="https://ben.balter.com/2015/03/08/open-source-best-practices-internal-collaboration/"> Best practices in Open Source: internal collaboration</a></li>
-       <li> <a href ="https://ben.balter.com/2015/03/17/open-source-best-practices-external-engagement/"> Best practices in Open Source: external engagement</a></li>
-       <li> <a href ="https://ben.balter.com/2017/11/28/everything-an-open-source-maintainer-might-need-to-know-about-open-source-licensing/"> Everything an open source maintainer might need to know about open source licensing</a></li>
-       <li> <a href ="https://ben.balter.com/2016/08/01/why-you-shouldnt-write-your-own-open-source-license/"> Why you shouldn’t write your own open source license</a></li>
-       <li> <a href ="https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576"> Self-taught Software Developers: Why Open Source is important to us</a></li>
-       <li> <a href ="https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779"> So you wanna open source a project, eh?</a></li>
-       <li> <a href ="https://www.saluki.tech/2021/06/16/making-a-game-with-open-source-tools/"> Making a game with Open-Source tools</a></li>
-       <li> <a href ="https://www.errietta.me/blog/open-source/"> Why I love contributing to open source software</a></li>
-       <li> <a href ="https://opensource.guide/best-practices/"> Best Practices for Maintainers
-       </a></li>
-       <li> <a href ="https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39"> What Does “Open Source” Even Mean?</a></li>
-       <li> <a href ="https://lord.io/oss-tips/"> TIPS FOR NEW OPEN SOURCE MAINTAINERS</a></li>
-       <li> <a href ="https://krausefx.com/blog/scaling-open-source-communities"> Scaling Open Source Communities</a></li>
-       <li> <a href ="https://github.blog/2016-03-15-kindly-closing-pull-requests/"> Kindly Closing Pull Requests</a></li>
-       <li> <a href ="https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes"> Why I close PRs (OSS project maintainer notes)</a></li>
-       <li> <a href ="https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/"> My condolences, you’re now the maintainer of a popular open source project</a></li>
-       <li> <a href ="https://medium.com/@nayafia/what-success-really-looks-like-in-open-source-2dd1facaf91c#.pbieg7stv"> What success really looks like in open source</a></li>
-       <li> <a href ="https://taskwarrior.org/docs/advice.html"> Advice To Open Source Project Contributors</a></li>
-       <li> <a href ="https://meghapathak.com/5-steps-for-making-your-first-open-source-contribution">Making Your First Open Source Contribution</a></li>
-       <li> <a href ="https://ayush-raj-blogs.hashnode.dev/making-clean-pr-for-open-source-contributors-pep-8-style">Making clean PR for Open Source Contributors ( PEP 8 Style )</a></li>
-       <li> <a href ="https://catalins.tech/getting-started-with-open-source-how-to-contribute">Getting Started With Open-Source: How To Contribute</a></li>
-       <li> <a href ="https://movi.hashnode.dev/10-ways-you-can-contribute-to-open-source-ckfljitve00cspds1d0cmbzv2">Ways you can contribute to Open-source</a></li>
-       <li> <a href ="https://taskwarrior.org/docs/first_time.html"> How to become an Open Source Contributor</a></li>
-       <li> <a href ="https://opensource.guide/getting-paid/"> Getting Paid for Open Source Work</a></li>
-       <li> <a href ="https://rubygarage.org/blog/how-contribute-to-open-source-projects"> How to Contribute to Open Source Project</a></li>
-       <li> <a href ="https://www.upgrad.com/blog/tag/open-source-projects/"> Open Source Projects</a></li>
-       <li> <a href ="https://www.upgrad.com/blog/tag/open-source-project-ideas/"> Open Source Project Ideas</a></li>
-       <li> <a href ="https://daily.dev/blog/how-to-contribute-to-open-source-projects-as-a-beginner"> How To Contribute To Open-Source Projects As A Beginner</a></li>
-       <li> <a href ="https://www.upgrad.com/blog/open-source-projects-for-beginners/">Top 8 Open Source Projects for Beginners To Try in 2021</a></li>
-       <li> <a href ="https://www.upgrad.com/blog/open-source-repositories-github/">Top 12 Most Popular Open Source Repositories on GitHub[2021]</a></li>
-   </ul>
+<details><summary><strong> Open-Source Docs/Blogs </summary><blockquote></strong>
+<ul>
+    <li> <a href ="https://docs.github.com/en/github/getting-started-with-github/finding-ways-to-contribute-to-open-source-on-github"> GitHub docs for open source</a></li>
+    <li> <a href ="https://opensource.guide/how-to-contribute/"> GitHub open souce guide</a></li>
+    <li> <a href ="https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/"> Getting started with contributing to open source</a></li>
+    <li> <a href ="https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git"> How To Contribute To Open Source: Getting Started With Git</a></li>
+    <li> <a href ="https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/"> The beginner's guide to contributing to a GitHub project</a></li>
+    <li> <a href ="https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-software-projects"> How To Maintain Open-Source Software Projects</a></li>
+    <li> <a href ="https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute"> How to Contribute to Open Source</a></li>
+    <li> <a href ="https://www.hackerearth.com/getstarted-opensource/"> How to get started with Open Source</a></li>
+    <li> <a href ="https://yourfirstpr.github.io/"> Your First PR</a></li>
+    <li> <a href ="https://edidiongasikpo.com/the-technical-writers-guide-to-contributing-to-open-source-projects">The Technical Writers Guide to Contributing to Open Source Projects</a></li>
+    <li> <a href ="https://www.dataschool.io/how-to-contribute-on-github/"> Step-by-step guide to contributing on GitHub</a></li>
+    <li> <a href ="https://www.codemotion.com/magazine/dev-hub/backend-dev/contributing-to-open-source-projects/"> Contributing To Open-Source Projects</a></li>
+    <li> <a href ="https://edidiongasikpo.com/open-source-contributions-a-catalyst-for-growth">Open Source contributions: A catalyst for growth</a></li>
+    <li> <a href ="https://pulkitsinghdev.hashnode.dev/how-to-contribute-to-open-source"> A guide to making open source contributions</a></li>
+    <li> <a href ="https://rubygarage.org/blog/how-contribute-to-open-source-projects"> How to Contribute to Open-Source Projects</a></li>
+    <li> <a href ="https://ololade.hashnode.dev/series/beginners-guide-to-open-source-contribution"> Beginner's Guide to Open Source Contribution</a></li>
+    <li> <a href ="https://dev.to/denicmarko/make-your-first-open-source-contribution-4b0n">Make your first open-source contribution</a></li>
+    <li> <a href ="https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/"> How To Get Started In Open Source</a></li>
+    <li> <a href ="https://producingoss.com/en/evaluating-oss-projects.html"> Evaluating Open Source Projects</a></li>
+    <li> <a href ="https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/"> A Beginner’s Very Bumpy Journey Through The World of Open Source</a></li>
+    <li> <a href ="https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/"> How to Contribute to Open Source Projects – A Beginner's Guide</a></li>
+    <li> <a href ="https://dev.to/sigje/contribute-beyond-code-open-source-for-everyone-593j"> Contribute Beyond Code: Open Source for Everyone</a></li>
+    <li> <a href ="https://www.freecodecamp.org/news/ultimate-owners-guide-to-open-source/"> How to Be a Good Open Source Project Owner – The Ultimate Guide</a></li>
+    <li> <a href ="https://www.freecodecamp.org/news/the-ultimate-guide-to-open-source/"> The Ultimate Guide to Open Source</a></li>
+    <li> <a href ="https://www.freecodecamp.org/news/why-you-should-start-contributing-to-open-source-software-right-now/"> Why You Should Start Contributing to Open Source Software Right Now</a></li>
+    <li> <a href ="https://www.freecodecamp.org/news/how-to-choose-and-care-for-a-secure-open-source-project/"> How to Choose and Care for a Secure Open Source Project</a></li>
+    <li> <a href ="https://www.freecodecamp.org/news/what-is-great-about-developing-open-source-and-what-is-not/"> The Pros and Cons of Open Source Software Development</a></li>
+    <li> <a href ="https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/"> The Definitive Guide to Contributing to Open Source</a></li>
+    <li> <a href ="https://opensource.guide/starting-a-project/"> Starting an Open Source Project</a></li>
+    <li> <a href ="https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me"> How getting into Open Source has been awesome for me</a></li>
+    <li> <a href ="https://kentcdodds.com/blog/open-source-stamina"> Open Source Stamina</a></li>
+    <li> <a href ="https://kentcdodds.com/blog/building-the-open-source-community-we-want"> Building the Open Source Community We Want</a></li>
+    <li> <a href ="https://kentcdodds.com/blog/how-i-learn-an-open-source-codebase"> How I learn an Open Source Codebase</a></li>
+    <li> <a href ="https://livecodestream.dev/post/how-to-make-your-first-contribution-to-open-source/"> How to Make your First Contribution to Open Source</a></li>
+    <li> <a href ="https://kentcdodds.com/blog/introducing-how-to-contribute-to-open-source"> Introducing: How to Contribute to Open Source</a></li>
+    <li> <a href ="https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to"> What open source project should I contribute to?</a></li>
+    <li> <a href ="https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github"> How to Contribute to an Open Source Project on GitHub</a></li>
+    <li> <a href ="https://kentcdodds.com/blog/first-timers-only"> First Timers Only</a></li>
+    <li> <a href ="https://ben.balter.com/2015/11/23/why-open-source/"> Why open source?</a></li>
+    <li> <a href ="https://ben.balter.com/2017/11/10/twelve-tips-for-growing-communities-around-your-open-source-project/"> Twelve tips for growing communities around your open source project</a></li>
+    <li> <a href ="https://ben.balter.com/2015/03/08/open-source-best-practices-internal-collaboration/"> Best practices in Open Source: internal collaboration</a></li>
+    <li> <a href ="https://ben.balter.com/2015/03/17/open-source-best-practices-external-engagement/"> Best practices in Open Source: external engagement</a></li>
+    <li> <a href ="https://ben.balter.com/2017/11/28/everything-an-open-source-maintainer-might-need-to-know-about-open-source-licensing/"> Everything an open source maintainer might need to know about open source licensing</a></li>
+    <li> <a href ="https://ben.balter.com/2016/08/01/why-you-shouldnt-write-your-own-open-source-license/"> Why you shouldn’t write your own open source license</a></li>
+    <li> <a href ="https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576"> Self-taught Software Developers: Why Open Source is important to us</a></li>
+    <li> <a href ="https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779"> So you wanna open source a project, eh?</a></li>
+    <li> <a href ="https://www.saluki.tech/2021/06/16/making-a-game-with-open-source-tools/"> Making a game with Open-Source tools</a></li>
+    <li> <a href ="https://www.errietta.me/blog/open-source/"> Why I love contributing to open source software</a></li>
+    <li> <a href ="https://opensource.guide/best-practices/"> Best Practices for Maintainers
+    </a></li>
+    <li> <a href ="https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39"> What Does “Open Source” Even Mean?</a></li>
+    <li> <a href ="https://lord.io/oss-tips/"> TIPS FOR NEW OPEN SOURCE MAINTAINERS</a></li>
+    <li> <a href ="https://krausefx.com/blog/scaling-open-source-communities"> Scaling Open Source Communities</a></li>
+    <li> <a href ="https://github.blog/2016-03-15-kindly-closing-pull-requests/"> Kindly Closing Pull Requests</a></li>
+    <li> <a href ="https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes"> Why I close PRs (OSS project maintainer notes)</a></li>
+    <li> <a href ="https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/"> My condolences, you’re now the maintainer of a popular open source project</a></li>
+    <li> <a href ="https://medium.com/@nayafia/what-success-really-looks-like-in-open-source-2dd1facaf91c#.pbieg7stv"> What success really looks like in open source</a></li>
+    <li> <a href ="https://taskwarrior.org/docs/advice.html"> Advice To Open Source Project Contributors</a></li>
+    <li> <a href ="https://meghapathak.com/5-steps-for-making-your-first-open-source-contribution">Making Your First Open Source Contribution</a></li>
+    <li> <a href ="https://ayush-raj-blogs.hashnode.dev/making-clean-pr-for-open-source-contributors-pep-8-style">Making clean PR for Open Source Contributors ( PEP 8 Style )</a></li>
+    <li> <a href ="https://catalins.tech/getting-started-with-open-source-how-to-contribute">Getting Started With Open-Source: How To Contribute</a></li>
+    <li> <a href ="https://movi.hashnode.dev/10-ways-you-can-contribute-to-open-source-ckfljitve00cspds1d0cmbzv2">Ways you can contribute to Open-source</a></li>
+    <li> <a href ="https://taskwarrior.org/docs/first_time.html"> How to become an Open Source Contributor</a></li>
+    <li> <a href ="https://opensource.guide/getting-paid/"> Getting Paid for Open Source Work</a></li>
+    <li> <a href ="https://rubygarage.org/blog/how-contribute-to-open-source-projects"> How to Contribute to Open Source Project</a></li>
+    <li> <a href ="https://www.upgrad.com/blog/tag/open-source-projects/"> Open Source Projects</a></li>
+    <li> <a href ="https://www.upgrad.com/blog/tag/open-source-project-ideas/"> Open Source Project Ideas</a></li>
+    <li> <a href ="https://daily.dev/blog/how-to-contribute-to-open-source-projects-as-a-beginner"> How To Contribute To Open-Source Projects As A Beginner</a></li>
+    <li> <a href ="https://www.upgrad.com/blog/open-source-projects-for-beginners/">Top 8 Open Source Projects for Beginners To Try in 2021</a></li>
+    <li> <a href ="https://www.upgrad.com/blog/open-source-repositories-github/">Top 12 Most Popular Open Source Repositories on GitHub[2021]</a></li>
+</ul>
+</blockquote></details>
 </details>
 
-<details>
-<summary>
-<strong> Podcasts</strong>
-</summary>
-    <ul>
-        <li><a href="https://github.com/readme/podcast"> The ReadME Podcast</a></li>
-        <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9jaGFuZ2Vsb2cuY29tL3BvZGNhc3QvZmVlZA?ep=14"> The Changelog: Software Development, Open Source</a></li>
-        <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9vcGVuc291cmNldW5kZXJkb2dzLmNvbS9mZWVkLw?ep=14"> Open Source Underdogs</a></li>
-        <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0Lm9wZW5zYXAuaW5mby9vcGVuLXNvdXJjZS13YXkvZmVlZC9tcDMv?ep=14"> The Open Source Way</a></li>
-        <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9zb2Z0d2FyZWVuZ2luZWVyaW5nZGFpbHkuY29tL2NhdGVnb3J5L29wZW4tc291cmNlL2ZlZWQv?ep=14"> Open Source – Software Engineering Daily</a></li>
-        <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xZjQ0NTg4MC9wb2RjYXN0L3Jzcw?ep=14"> FINOS Open Source in Finance Podcast</a></li>
-        <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5wb2RldGl6ZS5jb20vcnNzLy1tUmxFdmJ6dQ?ep=14"> The Craft Of Open Source</a></li>
-        <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL3BlcmNvbmEvZmVlZC54bWw?ep=14"> Percona's HOSS Talks FOSS: The Open Source Database Podcast</a></li>
-        <li><a href="https://podcasts.google.com/feed/aHR0cDovL29wZW5zb3VyY2VzeXN0ZW1wb2RjYXN0LnZmLmlvL2ZlZWQv?sa=X&ved=0CCIQ27cFahcKEwjIjrfEqbjxAhUAAAAAHQAAAAAQAg"> Open Source System Podcast</a></li>
-        <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5maXJlc2lkZS5mbS9zdXN0YWluL3Jzcw?sa=X&ved=0CDIQ27cFahcKEwjIjrfEqbjxAhUAAAAAHQAAAAAQAg"> Sustain</a></li>
-        <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDQyMTMyNC9lcGlzb2Rlcy9mZWVk?sa=X&ved=0CDMQ27cFahcKEwjIjrfEqbjxAhUAAAAAHQAAAAAQAg"> Scotland Open Source</a></li>
-        <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZjU1MzQ0MC9wb2RjYXN0L3Jzcw?sa=X&ved=0CD4Q27cFahcKEwjIjrfEqbjxAhUAAAAAHQAAAAAQAg"> Creators and Consumers of Open Source</a></li>
-    </ul>
+<details><summary><strong>Podcasts </summary><blockquote></strong>
+<ul>
+    <li><a href="https://github.com/readme/podcast"> The ReadME Podcast</a></li>
+    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9jaGFuZ2Vsb2cuY29tL3BvZGNhc3QvZmVlZA?ep=14"> The Changelog: Software Development, Open Source</a></li>
+    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9vcGVuc291cmNldW5kZXJkb2dzLmNvbS9mZWVkLw?ep=14"> Open Source Underdogs</a></li>
+    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0Lm9wZW5zYXAuaW5mby9vcGVuLXNvdXJjZS13YXkvZmVlZC9tcDMv?ep=14"> The Open Source Way</a></li>
+    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9zb2Z0d2FyZWVuZ2luZWVyaW5nZGFpbHkuY29tL2NhdGVnb3J5L29wZW4tc291cmNlL2ZlZWQv?ep=14"> Open Source – Software Engineering Daily</a></li>
+    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xZjQ0NTg4MC9wb2RjYXN0L3Jzcw?ep=14"> FINOS Open Source in Finance Podcast</a></li>
+    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5wb2RldGl6ZS5jb20vcnNzLy1tUmxFdmJ6dQ?ep=14"> The Craft Of Open Source</a></li>
+    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL3BlcmNvbmEvZmVlZC54bWw?ep=14"> Percona's HOSS Talks FOSS: The Open Source Database Podcast</a></li>
+    <li><a href="https://podcasts.google.com/feed/aHR0cDovL29wZW5zb3VyY2VzeXN0ZW1wb2RjYXN0LnZmLmlvL2ZlZWQv?sa=X&ved=0CCIQ27cFahcKEwjIjrfEqbjxAhUAAAAAHQAAAAAQAg"> Open Source System Podcast</a></li>
+    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5maXJlc2lkZS5mbS9zdXN0YWluL3Jzcw?sa=X&ved=0CDIQ27cFahcKEwjIjrfEqbjxAhUAAAAAHQAAAAAQAg"> Sustain</a></li>
+    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDQyMTMyNC9lcGlzb2Rlcy9mZWVk?sa=X&ved=0CDMQ27cFahcKEwjIjrfEqbjxAhUAAAAAHQAAAAAQAg"> Scotland Open Source</a></li>
+    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZjU1MzQ0MC9wb2RjYXN0L3Jzcw?sa=X&ved=0CD4Q27cFahcKEwjIjrfEqbjxAhUAAAAAHQAAAAAQAg"> Creators and Consumers of Open Source</a></li>
+</ul>
+</blockquote></details>
 </details>
 
 ## Find us on
