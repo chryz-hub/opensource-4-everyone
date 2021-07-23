@@ -193,7 +193,6 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 </ul>
 </blockquote></details>
 </details>
-
 <details><summary><strong> YouTube Channels/Videos </summary><blockquote></strong>
 <br />
 <details><summary>Channels </summary><blockquote>
@@ -206,7 +205,6 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 </ul>
 </blockquote></details>
 
-<br />
 <details><summary>Videos </summary><blockquote>
 <ul>
     <li> <a href ="https://youtu.be/yzeVMecydCE">Complete Guide to Open Source - How to Contribute</a></li>
