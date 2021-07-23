@@ -141,7 +141,6 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 ## Resources
 
 <details><summary><strong> Websites </summary><blockquote></strong>
-
 <ul>
     <li><a href="https://www.codetriage.com/"> CodeTriage</a></li>
     <li><a href="https://goodfirstissue.dev/"> Good First Issue.dev</a></li>
@@ -160,74 +159,77 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 </blockquote></details>
 </details>
 
-<details>
-<summary>
-<strong> Repositories</strong>
-</summary>
-    <ul>
-       <li><a href="https://github.com/MunGell/awesome-for-beginners"> Awesome First PR Opportunities</a></li>
-       <li><a href="https://github.com/eddiejaoude/book-open-source-tips">Open Source Tips</a></li>
-       <li><a href="https://github.com/github/opensource.guide">Open Source Guides</a></li>
-       <li><a href="https://github.com/18F/open-source-guide">18F Open Source Style Guide</a></li>
-       <li><a href="https://github.com/discord/discord-open-source">Open Source Communities on Discord</a></li>
-       <li><a href="https://github.com/github/opensourcefriday">Open Source Friday</a></li>
-       <li><a href="https://github.com/open-source-ideas/open-source-ideas">Open Source Ideas</a></li>
-       <li><a href="https://github.com/mvillaloboz/open-source-cs-degree">The Open-Source Computer Science Degree</a></li>
-       <li><a href="https://github.com/shainakrumme/open-source-handbook"> Open Source Handbook</a></li>
-       <li><a href="https://github.com/tapaswenipathak/Getting-Started-With-Contributing-to-Open-Sources"> Getting Started With Contributing to Open Sources</a></li>
-       <li><a href="https://github.com/open-sauced/open-sauced"> Open Sauced</a></li>
-       <li><a href="https://github.com/firstcontributions/first-contributions"> First Contributions</a></li>
-       <li><a href="https://github.com/explore/"> Explore Github</a></li>
-       <li><a href="https://github.com/larymak/Python-project-Scripts"> Python Projects Script</a></li>
-       <li><a href="https://github.com/mazipan/hello-open-source">Hello Open Source</a></li>
-       <li><a href="https://github.com/pinax"> Pinax Project</a></li>
-       <li><a href="https://github.com/open-source-ideas/open-source-ideas"> Open Source Ideas</a></li>
-       <li> <a href ="https://github.com/freeCodeCamp/how-to-contribute-to-open-source">How to contribute to open source</a></li>
-       <li> <a href ="https://github.com/danthareja/contribute-to-open-source">Contribute to Open Source</a></li>
-   </ul>
+<details><summary><strong> Repositories </summary><blockquote></strong>
+<ul>
+    <li><a href="https://github.com/MunGell/awesome-for-beginners"> Awesome First PR Opportunities</a></li>
+    <li><a href="https://github.com/eddiejaoude/book-open-source-tips">Open Source Tips</a></li>
+    <li><a href="https://github.com/github/opensource.guide">Open Source Guides</a></li>
+    <li><a href="https://github.com/18F/open-source-guide">18F Open Source Style Guide</a></li>
+    <li><a href="https://github.com/discord/discord-open-source">Open Source Communities on Discord</a></li>
+    <li><a href="https://github.com/github/opensourcefriday">Open Source Friday</a></li>
+    <li><a href="https://github.com/open-source-ideas/open-source-ideas">Open Source Ideas</a></li>
+    <li><a href="https://github.com/mvillaloboz/open-source-cs-degree">The Open-Source Computer Science Degree</a></li>
+    <li><a href="https://github.com/shainakrumme/open-source-handbook"> Open Source Handbook</a></li>
+    <li><a href="https://github.com/tapaswenipathak/Getting-Started-With-Contributing-to-Open-Sources"> Getting Started With Contributing to Open Sources</a></li>
+    <li><a href="https://github.com/open-sauced/open-sauced"> Open Sauced</a></li>
+    <li><a href="https://github.com/firstcontributions/first-contributions"> First Contributions</a></li>
+    <li><a href="https://github.com/explore/"> Explore Github</a></li>
+    <li><a href="https://github.com/larymak/Python-project-Scripts"> Python Projects Script</a></li>
+    <li><a href="https://github.com/mazipan/hello-open-source">Hello Open Source</a></li>
+    <li><a href="https://github.com/pinax"> Pinax Project</a></li>
+    <li><a href="https://github.com/open-source-ideas/open-source-ideas"> Open Source Ideas</a></li>
+    <li> <a href ="https://github.com/freeCodeCamp/how-to-contribute-to-open-source">How to contribute to open source</a></li>
+    <li> <a href ="https://github.com/danthareja/contribute-to-open-source">Contribute to Open Source</a></li>
+</ul>
+</blockquote></details>
 </details>
 
-<details>
-<summary>
-<strong> Paid Open-Source Internship </strong>
-</summary>
-    <ul>
-       <li> <a href ="https://summerofcode.withgoogle.com/"> Google Summer of Codes</a></li>
-       <li> <a href ="https://www.outreachy.org/"> Outreachy</a></li>
-       <li> <a href ="https://developers.google.com/season-of-docs"> Google Season of Docs</a></li>
-       <li> <a href ="https://wikimediafoundation.org/news/tag/internship/"> Wikimedia Internship</a></li>
-   </ul>
+<details><summary><strong> Paid Open-Source Internship </summary><blockquote></strong>
+<ul>
+    <li> <a href ="https://summerofcode.withgoogle.com/"> Google Summer of Codes</a></li>
+    <li> <a href ="https://www.outreachy.org/"> Outreachy</a></li>
+    <li> <a href ="https://developers.google.com/season-of-docs"> Google Season of Docs</a></li>
+    <li> <a href ="https://wikimediafoundation.org/news/tag/internship/"> Wikimedia Internship</a></li>
+</ul>
+</blockquote></details>
 </details>
 
-<details>
-<summary>
-<strong> YouTube Channels/Videos </strong>
-</summary>
-    <ul>
-       <li> <a href ="https://youtube.com/c/eddiejaoude">Eddie Jaoude's YouTube Channel</a></li>
-       <li> <a href ="https://youtube.com/c/opensourceway">Opensource.com's YouTube Channel</a></li>
-       <li> <a href ="https://youtube.com/c/GoogleOpenSource">Google Open Source's YouTube Channel</a></li>
-       <li> <a href ="https://www.youtube.com/watch?v=Zlu3QvuwruY">All Things Open's YouTube channel</a></li>
-       <li> <a href ="https://youtu.be/yzeVMecydCE">Complete Guide to Open Source - How to Contribute</a></li>
-       <li> <a href ="https://youtu.be/kP-rEaamgHM">Tips for contributing to Open Source with Github</a></li>
-       <li> <a href ="https://youtu.be/pASY8b8QWcs">Level Up as an Open Source Contributor</a></li>
-       <li> <a href ="https://youtu.be/b_e-Uzag31w">Getting Into Open Source for Fun & Profit</a></li>
-       <li> <a href ="https://www.youtube.com/watch?v=6mtPPkKchcQ">How open source has made me and the stuff I make better</a></li>
-       <li> <a href ="https://www.youtube.com/watch?v=OGeoH-sqePE">Building The Open Source Community We Want</a></li>
-       <li> <a href ="https://www.youtube.com/watch?v=zCJyiBu12Jw">Managing an Open Source Project</a></li>
-       <li> <a href ="https://www.youtube.com/watch?v=jKI1Kj5VXqE">Managing an Open Source Project - UtahJS</a></li>
-       <li> <a href ="https://www.youtube.com/watch?v=Zlu3QvuwruY">Open Sourcing Your Stuff</a></li>
-       <li> <a href ="https://www.youtube.com/watch?v=k6KcaMffxac">Contributing to Open Source on GitHub for beginners</a></li>
-       <li> <a href ="https://youtu.be/uzxcILudFWM">Pieter Hintjens - Building Open Source Communities</a></li>
-       <li> <a href ="https://youtu.be/c6b6B9oN4Vg">Contributing to Open Source for the first time</a></li>
-       <li> <a href ="https://youtu.be/3HqN-YS8eso">Getting started with Open Source & GitHub</a></li>
-       <li> <a href ="https://www.youtube.com/watch?v=MT6M_sqAuZo">How to Open Source Like a Pro</a></li>
-       <li> <a href ="https://www.youtube.com/watch?v=GbqSvJs-6W4">How To Get Started With Open Source</a></li>
-       <li> <a href ="https://www.youtube.com/watch?v=DnvhWAx2I7A">How to Contribute to Open Source Projects</a></li>
-       <li> <a href ="https://www.youtube.com/watch?v=Tq4RZ-JH6aM">How to start with Open Source software contributions</a></li>
-       <li> <a href ="https://www.youtube.com/watch?v=RHETubkhjY8&list=PLR0CKdeR_FyscaxEksDVXc4UQvlOFLYS6&t=0s">Complete Guide to Open Source Contributions</a></li>
-       <li> <a href ="https://www.youtube.com/watch?v=Y5HIJeR9hk0">Get started with Open Source</a></li>
-   </ul>
+<details><summary><strong> YouTube Channels/Videos </summary><blockquote></strong>
+<br />
+<details><summary>Channels </summary><blockquote>
+<ul>
+    <li> <a href ="https://www.youtube.com/c/github">GitHub</a></li>
+    <li> <a href ="https://youtube.com/c/eddiejaoude">Eddie Jaoude</a></li>
+    <li> <a href ="https://youtube.com/c/opensourceway">Opensource.com</a></li>
+    <li> <a href ="https://youtube.com/c/GoogleOpenSource">Google Open Source</a></li>
+    <li> <a href ="https://www.youtube.com/watch?v=Zlu3QvuwruY">All Things Open</a></li>
+</ul>
+</blockquote></details>
+
+<br />
+<details><summary>Videos </summary><blockquote>
+<ul>
+    <li> <a href ="https://youtu.be/yzeVMecydCE">Complete Guide to Open Source - How to Contribute</a></li>
+    <li> <a href ="https://youtu.be/kP-rEaamgHM">Tips for contributing to Open Source with Github</a></li>
+    <li> <a href ="https://youtu.be/pASY8b8QWcs">Level Up as an Open Source Contributor</a></li>
+    <li> <a href ="https://youtu.be/b_e-Uzag31w">Getting Into Open Source for Fun & Profit</a></li>
+    <li> <a href ="https://www.youtube.com/watch?v=6mtPPkKchcQ">How open source has made me and the stuff I make better</a></li>
+    <li> <a href ="https://www.youtube.com/watch?v=OGeoH-sqePE">Building The Open Source Community We Want</a></li>
+    <li> <a href ="https://www.youtube.com/watch?v=zCJyiBu12Jw">Managing an Open Source Project</a></li>
+    <li> <a href ="https://www.youtube.com/watch?v=jKI1Kj5VXqE">Managing an Open Source Project - UtahJS</a></li>
+    <li> <a href ="https://www.youtube.com/watch?v=Zlu3QvuwruY">Open Sourcing Your Stuff</a></li>
+    <li> <a href ="https://www.youtube.com/watch?v=k6KcaMffxac">Contributing to Open Source on GitHub for beginners</a></li>
+    <li> <a href ="https://youtu.be/uzxcILudFWM">Pieter Hintjens - Building Open Source Communities</a></li>
+    <li> <a href ="https://youtu.be/c6b6B9oN4Vg">Contributing to Open Source for the first time</a></li>
+    <li> <a href ="https://youtu.be/3HqN-YS8eso">Getting started with Open Source & GitHub</a></li>
+    <li> <a href ="https://www.youtube.com/watch?v=MT6M_sqAuZo">How to Open Source Like a Pro</a></li>
+    <li> <a href ="https://www.youtube.com/watch?v=GbqSvJs-6W4">How To Get Started With Open Source</a></li>
+    <li> <a href ="https://www.youtube.com/watch?v=DnvhWAx2I7A">How to Contribute to Open Source Projects</a></li>
+    <li> <a href ="https://www.youtube.com/watch?v=Tq4RZ-JH6aM">How to start with Open Source software contributions</a></li>
+    <li> <a href ="https://www.youtube.com/watch?v=RHETubkhjY8&list=PLR0CKdeR_FyscaxEksDVXc4UQvlOFLYS6&t=0s">Complete Guide to Open Source Contributions</a></li>
+    <li> <a href ="https://www.youtube.com/watch?v=Y5HIJeR9hk0">Get started with Open Source</a></li>
+</ul>
+</blockquote></details>
 </details>
 
 <details>
