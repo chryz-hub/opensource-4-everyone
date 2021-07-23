@@ -140,25 +140,25 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 
 ## Resources
 
-<details>
-<summary>
-<strong> Websites</strong>
-</summary>
-    <ul>
-        <li><a href="https://www.codetriage.com/"> CodeTriage</a></li>
-        <li><a href="https://goodfirstissue.dev/"> Good First Issue.dev</a></li>
-        <li><a href="http://goodfirstissue.com/"> Good First Issue.com</a></li>
-        <li><a href="https://up-for-grabs.net/"> Up-for-grabs</a></li>
-        <li><a href="https://www.firsttimersonly.com/"> First timers only</a></li>
-        <li><a href="https://firstcontributions.github.io/"> First contributions</a></li>
-        <li><a href="https://contributor.ninja/"> Contributor Ninja</a></li>
-        <li><a href="https://gauger.io/contrib"> Gauger Site</a></li>
-        <li><a href="https://opensauced.pizza/"> OpenSauced</a></li>
-        <li><a href="https://opensourcefriday.com/"> Open Source Friday</a></li>
-        <li><a href="https://24pullrequests.com/"> 24pullrequests</a></li>
-        <li><a href="http://issuehub.pro/"> issuehub</a></li>
-        <li><a href="http://www.pullrequestroulette.com/"> pullrequestroulette</a></li>
-    </ul>
+<details><summary><strong> Websites </summary><blockquote></strong>
+
+<br />
+<ul>
+    <li><a href="https://www.codetriage.com/"> CodeTriage</a></li>
+    <li><a href="https://goodfirstissue.dev/"> Good First Issue.dev</a></li>
+    <li><a href="http://goodfirstissue.com/"> Good First Issue.com</a></li>
+    <li><a href="https://up-for-grabs.net/"> Up-for-grabs</a></li>
+    <li><a href="https://www.firsttimersonly.com/"> First timers only</a></li>
+    <li><a href="https://firstcontributions.github.io/"> First contributions</a></li>
+    <li><a href="https://contributor.ninja/"> Contributor Ninja</a></li>
+    <li><a href="https://gauger.io/contrib"> Gauger Site</a></li>
+    <li><a href="https://opensauced.pizza/"> OpenSauced</a></li>
+    <li><a href="https://opensourcefriday.com/"> Open Source Friday</a></li>
+    <li><a href="https://24pullrequests.com/"> 24pullrequests</a></li>
+    <li><a href="http://issuehub.pro/"> issuehub</a></li>
+    <li><a href="http://www.pullrequestroulette.com/"> pullrequestroulette</a></li>
+</ul>
+</blockquote></details>
 </details>
 
 <details>
@@ -202,7 +202,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 
 <details>
 <summary>
-<strong> YouTube Channel/Videos </strong>
+<strong> YouTube Channels/Videos </strong>
 </summary>
     <ul>
        <li> <a href ="https://youtube.com/c/eddiejaoude">Eddie Jaoude's YouTube Channel</a></li>
