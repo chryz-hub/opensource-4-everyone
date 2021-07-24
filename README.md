@@ -332,7 +332,6 @@ Search links that point directly to suitable issues to contribute to on GitHub.
     <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MDU1MjRjOC9wb2RjYXN0L3Jzcw">Humans of Open Source</a></li>
     <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly90aGViaW5hcnl0aW1lcy5uZXQvcnNzLW9nZy54bWw">The Binary Times Audiocast - ogg</a></li>
     <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9icmVha2luZ29zLmxpYnN5bi5jb20vcnNz">Breaking Into Open Source</a></li>
-    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85NTNiMjAwL3BvZGNhc3QvcnNz">The Diff: A Podcast from Facebook Open Source</a></li>
     <li><a href="https://podcasts.google.com/feed/aHR0cDovL29wZW5zb3VyY2VzeXN0ZW1wb2RjYXN0LnZmLmlvL2ZlZWQv?sa=X&ved=0CCIQ27cFahcKEwjIjrfEqbjxAhUAAAAAHQAAAAAQAg"> Open Source System Podcast</a></li>
     <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5maXJlc2lkZS5mbS9zdXN0YWluL3Jzcw?sa=X&ved=0CDIQ27cFahcKEwjIjrfEqbjxAhUAAAAAHQAAAAAQAg"> Sustain</a></li>
     <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDQyMTMyNC9lcGlzb2Rlcy9mZWVk?sa=X&ved=0CDMQ27cFahcKEwjIjrfEqbjxAhUAAAAAHQAAAAAQAg"> Scotland Open Source</a></li>
