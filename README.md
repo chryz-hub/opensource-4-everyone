@@ -184,6 +184,18 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 </blockquote></details>
 </details>
 
+<details><summary><strong> Books </summary><blockquote></strong>
+<ul>
+    <li><a href="https://www.amazon.com/dp/B086G6XDM1?tag=uuid10-20"> Open (Source) for Business: A Practical Guide to Open Source Software Licensing - Third Edition</a></li>
+    <li><a href="https://www.amazon.com/Source-Static-Analysis-Complete-Guide/dp/0655942386?tag=uuid10-20"> Open Source Static Code Analysis Tool A Complete Guide</a></li>
+    <li><a href="https://www.amazon.com/Producing-Open-Source-Software-Successful/dp/0596007590">Producing Open Source Software: How To Run A Successful Free Software Project</a></li>
+    <li><a href="https://www.amazon.com/Forge-Your-Future-Open-Source/dp/1680503014"> Forge Your Future with Open Source: Build Your Skills. Build Your Network. Build the Future of Technology</a></li>
+    <li><a href="https://www.amazon.com/Open-Source-Governance-Complete-Guide/dp/0655943102?tag=uuid10-20"> Open Source Governance A Complete Guide</a></li>
+    <li><a href="https://www.amazon.com/Open-Source-Notebook-Sourcerer-Inches/dp/1700126016?tag=uuid10-20">Open Source Notebook: Open Sourcerer</a></li>
+</ul>
+</blockquote></details>
+</details>
+
 <details><summary><strong> Paid Open-Source Internship </summary><blockquote></strong>
 <ul>
     <li> <a href ="https://summerofcode.withgoogle.com/"> Google Summer of Codes</a></li>
