@@ -310,13 +310,28 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 <details><summary><strong>Podcasts </summary><blockquote></strong>
 <ul>
     <li><a href="https://github.com/readme/podcast"> The ReadME Podcast</a></li>
-    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9jaGFuZ2Vsb2cuY29tL3BvZGNhc3QvZmVlZA?ep=14"> The Changelog: Software Development, Open Source</a></li>
     <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9vcGVuc291cmNldW5kZXJkb2dzLmNvbS9mZWVkLw?ep=14"> Open Source Underdogs</a></li>
     <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0Lm9wZW5zYXAuaW5mby9vcGVuLXNvdXJjZS13YXkvZmVlZC9tcDMv?ep=14"> The Open Source Way</a></li>
-    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9zb2Z0d2FyZWVuZ2luZWVyaW5nZGFpbHkuY29tL2NhdGVnb3J5L29wZW4tc291cmNlL2ZlZWQv?ep=14"> Open Source – Software Engineering Daily</a></li>
     <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xZjQ0NTg4MC9wb2RjYXN0L3Jzcw?ep=14"> FINOS Open Source in Finance Podcast</a></li>
     <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5wb2RldGl6ZS5jb20vcnNzLy1tUmxFdmJ6dQ?ep=14"> The Craft Of Open Source</a></li>
     <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL3BlcmNvbmEvZmVlZC54bWw?ep=14"> Percona's HOSS Talks FOSS: The Open Source Database Podcast</a></li>
+    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50d2l0LnR2L2Zsb3NzLnhtbA"> FLOSS Weekly</a></li>
+    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9jaGFuZ2Vsb2cuY29tL3BvZGNhc3QvZmVlZA"> The Changelog: Software Development, Open Source</a></li>
+    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9saW51eHVucGx1Z2dlZC5jb20vcnNz">LINUX Unplugged</a></li>
+    <li><a href="https://podcasts.google.com/feed/aHR0cDovL29wZW5zb3VyY2VzZWN1cml0eXBvZGNhc3QubGlic3luLmNvbS9yc3M">Open Source Security Podcast</a></li>
+    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9saW51eGdhbWVjYXN0LmNvbS9mZWVkL2x3ZHdtcDMv">Linux Weekly Daily Wednesday</a></li>
+    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9zb2Z0d2FyZWVuZ2luZWVyaW5nZGFpbHkuY29tL2NhdGVnb3J5L29wZW4tc291cmNlL2ZlZWQv?sa=X&ved=0CAMQ4aUDahcKEwig76j7qfzxAhUAAAAAHQAAAAAQDg">Open Source – Software Engineering Daily</a></li>
+    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly93d3cucmVhbGl0eTJjYXN0LmNvbS9yc3M">Reality 2.0</a></li>
+    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly93d3cub3BlbnNvdXJjZXZvaWNlcy5vcmcvcnNz">Open Source Voices</a></li>
+    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5wb2RldGl6ZS5jb20vcnNzLy1tUmxFdmJ6dQ"> The Craft Of Open Source</a></li>
+    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yZWI0ZTczMC9wb2RjYXN0L3Jzcw?sa=X&ved=0CBYQ27cFahcKEwjgis64qvzxAhUAAAAAHQAAAAAQFw"> Open source for business</a></li>
+    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5maXJlc2lkZS5mbS9pbXBhY3RmdWxvcGVuc291cmNlL3Jzcw">Impactful Open Source</a></li>
+    <li><a href="https://podcasts.google.com/feed/aHR0cDovL2ZhaWYudXMvZmVlZHMvY2FzdC1tcDMv">Free as in Freedom</a></li>
+    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly93d3cub3BlbnNvdXJjZWNyZWF0aXZlLm9yZy9lcGlzb2RlL2luZGV4LnhtbA">Open Source Creative</a></li>
+    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mbG9zc2ZvcnNjaWVuY2UuZ2l0aHViLmlvL2ZlZWQueG1s">FLOSS for Science</a></li>
+    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MDU1MjRjOC9wb2RjYXN0L3Jzcw">Humans of Open Source</a></li>
+    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly90aGViaW5hcnl0aW1lcy5uZXQvcnNzLW9nZy54bWw">The Binary Times Audiocast - ogg</a></li>
+    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9icmVha2luZ29zLmxpYnN5bi5jb20vcnNz">Breaking Into Open Source</a></li>
     <li><a href="https://podcasts.google.com/feed/aHR0cDovL29wZW5zb3VyY2VzeXN0ZW1wb2RjYXN0LnZmLmlvL2ZlZWQv?sa=X&ved=0CCIQ27cFahcKEwjIjrfEqbjxAhUAAAAAHQAAAAAQAg"> Open Source System Podcast</a></li>
     <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5maXJlc2lkZS5mbS9zdXN0YWluL3Jzcw?sa=X&ved=0CDIQ27cFahcKEwjIjrfEqbjxAhUAAAAAHQAAAAAQAg"> Sustain</a></li>
     <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDQyMTMyNC9lcGlzb2Rlcy9mZWVk?sa=X&ved=0CDMQ27cFahcKEwjIjrfEqbjxAhUAAAAAHQAAAAAQAg"> Scotland Open Source</a></li>
