@@ -192,6 +192,11 @@ Search links that point directly to suitable issues to contribute to on GitHub.
     <li><a href="https://www.amazon.com/Forge-Your-Future-Open-Source/dp/1680503014"> Forge Your Future with Open Source: Build Your Skills. Build Your Network. Build the Future of Technology</a></li>
     <li><a href="https://www.amazon.com/Open-Source-Governance-Complete-Guide/dp/0655943102?tag=uuid10-20"> Open Source Governance A Complete Guide</a></li>
     <li><a href="https://www.amazon.com/Open-Source-Notebook-Sourcerer-Inches/dp/1700126016?tag=uuid10-20">Open Source Notebook: Open Sourcerer</a></li>
+    <li><a href="https://www.amazon.com/dp/1565925823?tag=uuid10-20">Open Sources: Voices from the Open Source Revolution</a></li>
+    <li><a href="https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862/ref=sr_1_2?dchild=1&keywords=open+source&qid=1627244642&s=books&sr=1-2">Working in Public: The Making and Maintenance of Open Source Software</a></li>
+    <li><a href="https://www.amazon.com/Entreprenerd-Building-Multi-Million-Dollar-Business-Software-ebook/dp/B09516H7LY/ref=sr_1_3?dchild=1&keywords=open+source&qid=1627244690&s=books&sr=1-3">Entreprenerd: Building a Multi-Million-Dollar Business with Open Source Software</a></li>
+    <li><a href="https://www.amazon.com/Intellectual-Property-Open-Source-Protecting/dp/0596517963/ref=sr_1_12?dchild=1&keywords=open+source&qid=1627244690&s=books&sr=1-12">Intellectual Property and Open Source: A Practical Guide to Protecting Code</a></li>
+    <li><a href="https://www.amazon.com/Understanding-Open-Source-Software-Licensing/dp/0596005814/ref=pd_bxgy_img_1/142-0255904-0756168?pd_rd_w=2AAiV&pf_rd_p=c64372fa-c41c-422e-990d-9e034f73989b&pf_rd_r=B56H43PW2MBZGSZPDKRA&pd_rd_r=f8e98e8b-1fb6-4dee-a617-64adcc48343d&pd_rd_wg=OkEwO&pd_rd_i=0596005814&psc=1">Understanding Open Source and Free Software Licensing</a></li>
 </ul>
 </blockquote></details>
 </details>
