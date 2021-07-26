@@ -184,6 +184,35 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 </blockquote></details>
 </details>
 
+<details><summary><strong> Books </summary><blockquote></strong>
+<ul>
+    <li><a href="https://www.amazon.com/dp/B086G6XDM1?tag=uuid10-20"> Open (Source) for Business: A Practical Guide to Open Source Software Licensing - Third Edition</a></li>
+    <li><a href="https://www.amazon.com/Source-Static-Analysis-Complete-Guide/dp/0655942386?tag=uuid10-20"> Open Source Static Code Analysis Tool A Complete Guide</a></li>
+    <li><a href="https://www.amazon.com/Open-Source-Licensing-Software-Intellectual/dp/0131487876/ref=pd_sbs_2/142-0255904-0756168?pd_rd_w=O2Jmx&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=WFVCK53MGCMWXHP5TT0F&pd_rd_r=cba59fe4-8139-4165-b7e5-a37b50150f71&pd_rd_wg=Zlc9T&pd_rd_i=0131487876&psc=1">Open Source Licensing: Software Freedom and Intellectual Property Law</a></li>
+    <li><a href="https://www.amazon.com/Producing-Open-Source-Software-Successful/dp/0596007590">Producing Open Source Software: How To Run A Successful Free Software Project</a></li>
+    <li><a href="https://www.amazon.com/Forge-Your-Future-Open-Source/dp/1680503014"> Forge Your Future with Open Source: Build Your Skills. Build Your Network. Build the Future of Technology</a></li>
+    <li><a href="https://www.amazon.com/Open-Source-Governance-Complete-Guide/dp/0655943102?tag=uuid10-20"> Open Source Governance A Complete Guide</a></li>
+    <li><a href="https://www.amazon.com/Open-Source-Notebook-Sourcerer-Inches/dp/1700126016?tag=uuid10-20">Open Source Notebook: Open Sourcerer</a></li>
+    <li><a href="https://www.amazon.com/dp/1565925823?tag=uuid10-20">Open Sources: Voices from the Open Source Revolution</a></li>
+    <li><a href="https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862/ref=sr_1_2?dchild=1&keywords=open+source&qid=1627244642&s=books&sr=1-2">Working in Public: The Making and Maintenance of Open Source Software</a></li>
+    <li><a href="https://www.amazon.com/Entreprenerd-Building-Multi-Million-Dollar-Business-Software-ebook/dp/B09516H7LY/ref=sr_1_3?dchild=1&keywords=open+source&qid=1627244690&s=books&sr=1-3">Entreprenerd: Building a Multi-Million-Dollar Business with Open Source Software</a></li>
+    <li><a href="https://www.amazon.com/Intellectual-Property-Open-Source-Protecting/dp/0596517963/ref=sr_1_12?dchild=1&keywords=open+source&qid=1627244690&s=books&sr=1-12">Intellectual Property and Open Source: A Practical Guide to Protecting Code</a></li>
+    <li><a href="https://www.amazon.com/Understanding-Open-Source-Software-Licensing/dp/0596005814/ref=pd_bxgy_img_1/142-0255904-0756168?pd_rd_w=2AAiV&pf_rd_p=c64372fa-c41c-422e-990d-9e034f73989b&pf_rd_r=B56H43PW2MBZGSZPDKRA&pd_rd_r=f8e98e8b-1fb6-4dee-a617-64adcc48343d&pd_rd_wg=OkEwO&pd_rd_i=0596005814&psc=1">Understanding Open Source and Free Software Licensing</a></li>
+    <li><a href="https://www.amazon.com/Performance-Open-Source-Applications/dp/1304488780">The Performance of Open Source Applications</a></li>
+    <li><a href="https://www.amazon.com/Open-Source-Alternative-Understanding-Opportunities/dp/0470194952/ref=pd_sim_5/142-0255904-0756168?pd_rd_w=NYlLz&pf_rd_p=6caf1c3a-a843-4189-8efc-81b67e85dc96&pf_rd_r=72BSPQAVZSVV5WAF481P&pd_rd_r=30cf2ab6-d784-4e41-a069-c492a0a8d918&pd_rd_wg=dE9El&pd_rd_i=0470194952&psc=1">The Open Source Alternative</a></li>
+    <li><a href="https://www.amazon.com/Rebel-Code-Linux-Source-Revolution-ebook/dp/B005I57NZ2/ref=as_li_ss_tl?keywords=open+source&qid=1579289424&refinements=p_72:2661619011&rnid=2661617011&sr=8-57&linkCode=sl1&tag=solutionsre04-20&linkId=61398f18974ba77ed7bfc6ccf4972330&language=en_US">Rebel Code: Linux and the Open Source Revolution</a></li>
+    <li><a href="https://www.amazon.com/Open-Source-Property-Jeremy-Sheff/dp/B08GG2DN9M/ref=sr_1_14?dchild=1&keywords=open+source&qid=1627244690&s=books&sr=1-14">Open Source Property: Volume 1</a></li>
+    <li><a href="https://www.amazon.com/Open-Source-Property-Jeremy-Sheff/dp/B08GFYF69C/ref=pd_bxgy_img_1/142-0255904-0756168?pd_rd_w=MTuUy&pf_rd_p=c64372fa-c41c-422e-990d-9e034f73989b&pf_rd_r=0SGKXTNNH99N8P6WSB9K&pd_rd_r=b2f3385b-db10-4aec-bde8-24d5b5e3bec2&pd_rd_wg=LoMPm&pd_rd_i=B08GFYF69C&psc=1">Open Source Property: Volume 2</a></li>
+    <li><a href="https://www.amazon.com/Success-Open-Source-Steven-Weber/dp/0674018583">The Success of Open Source</a></li>
+    <li><a href="https://www.amazon.com/Architecture-Open-Source-Applications/dp/1257638017/ref=as_li_ss_tl?keywords=open+source&qid=1579288709&sr=8-12&linkCode=sl1&tag=solutionsre04-20&linkId=41cd4b50c76820c83cb477021a850822&language=en_US">The Architecture Of Open Source Applications</a></li>
+    <li><a href="https://www.amazon.com/Architecture-Open-Source-Applications-Structure-ebook/dp/B008940UYK">The Architecture of Open Source Applications, Volume II: Structure, Scale, and a Few More Fearless Hacks</a></li>
+    <li><a href="https://www.amazon.com/Open-Source-Enterprise-Managing-Reaping/dp/0596101198">Open Source for the Enterprise: Managing Risks, Reaping Rewards</a></li>
+    <li><a href="https://www.amazon.com/Embracing-Insanity-Source-Software-Development/dp/0672319896/ref=sr_1_46?dchild=1&keywords=open+source&qid=1627245304&s=books&sr=1-46">Embracing Insanity: Open Source Software Development</a></li>
+    <li><a href="https://www.amazon.com/Perspectives-Free-Source-Software-Press/dp/0262562278">Perspectives on Free and Open Source Software (The MIT Press)</a></li>
+</ul>
+</blockquote></details>
+</details>
+
 <details><summary><strong> Paid Open-Source Internship </summary><blockquote></strong>
 <ul>
     <li> <a href ="https://summerofcode.withgoogle.com/"> Google Summer of Codes</a></li>
