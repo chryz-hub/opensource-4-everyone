@@ -252,6 +252,9 @@ Search links that point directly to suitable issues to contribute to on GitHub.
     <li> <a href ="https://www.youtube.com/watch?v=FYkBA9epUEk">A new way to contribute to open source</a></li>
     <li> <a href ="https://www.youtube.com/watch?v=nKfl3EQ0twg">Starting an Open Source Project</a></li>
     <li> <a href ="https://www.youtube.com/watch?v=W7AewHnxMig">How to find Github Repos to contribute to</a></li>
+    <li> <a href ="https://www.youtube.com/watch?v=Y6k_pW_7yLI">A Practical Guide to Open Source Contribution</a></li>
+    <li> <a href ="https://www.youtube.com/watch?v=9yx3XZq4JxM">Make Your First Open Source Contribution || Beginners Guide to Open Source</a></li>
+    <li> <a href ="https://www.youtube.com/watch?v=k17GqN9dT3Q">Jessica McKellar: Contribute with me! Getting started with open source development</a></li>
     <li> <a href ="https://www.youtube.com/watch?v=hwdeUG_gySI">I want you to contribute to open source</a></li>
     <li> <a href ="https://www.youtube.com/watch?v=b_aF5zk22cA">How to contribute to OPEN SOURCE projects on Github</a></li>
     <li> <a href ="https://www.youtube.com/watch?v=OsOZpF6LFcw">The Open Source Contributor Funnel: Turning Users Into Maintainers</a></li>
