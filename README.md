@@ -251,10 +251,21 @@ Search links that point directly to suitable issues to contribute to on GitHub.
     <li> <a href ="https://www.youtube.com/watch?v=jTTf4oLkvaM">Contributing to Open-Source Projects as a New Python Developer: How to Do It</a></li>
     <li> <a href ="https://www.youtube.com/watch?v=FYkBA9epUEk">A new way to contribute to open source</a></li>
     <li> <a href ="https://www.youtube.com/watch?v=nKfl3EQ0twg">Starting an Open Source Project</a></li>
+    <li> <a href ="https://www.youtube.com/watch?v=W7AewHnxMig">How to find Github Repos to contribute to</a></li>
+    <li> <a href ="https://www.youtube.com/watch?v=Y6k_pW_7yLI">A Practical Guide to Open Source Contribution</a></li>
+    <li> <a href ="https://www.youtube.com/watch?v=9yx3XZq4JxM">Make Your First Open Source Contribution || Beginners Guide to Open Source</a></li>
+    <li> <a href ="https://www.youtube.com/watch?v=k17GqN9dT3Q">Jessica McKellar: Contribute with me! Getting started with open source development</a></li>
+    <li> <a href ="https://www.youtube.com/watch?v=hwdeUG_gySI">I want you to contribute to open source</a></li>
     <li> <a href ="https://www.youtube.com/watch?v=b_aF5zk22cA">How to contribute to OPEN SOURCE projects on Github</a></li>
     <li> <a href ="https://www.youtube.com/watch?v=OsOZpF6LFcw">The Open Source Contributor Funnel: Turning Users Into Maintainers</a></li>
     <li> <a href ="https://youtu.be/c6b6B9oN4Vg">Contributing to Open Source for the first time</a></li>
+    <li> <a href ="https://www.youtube.com/watch?v=vcLlsnH7r8k">Contributing to Open Source</a></li>
+    <li> <a href ="https://www.youtube.com/watch?v=figcsHHHT0o">Why Open Source Contribution is Essential to your Business </a></li>
+    <li> <a href ="https://www.youtube.com/watch?v=qeuu_aSPlao">A Million Ways To Contribute To Open Source; It’s Not Just About Code</a></li>
+    <li> <a href ="https://www.youtube.com/watch?v=8QaezVWLydM">A Newcomer's Guide to Open Source Contribution</a></li>
     <li> <a href ="https://youtu.be/3HqN-YS8eso">Getting started with Open Source & GitHub</a></li>
+    <li> <a href ="https://www.youtube.com/watch?v=LvkRaIKX1L8">How to contribute to Open Source?</a></li>
+    <li> <a href ="https://www.youtube.com/watch?v=GAqfMNB-YBU">How I Started Contributing to Open Source and Why You Should Too</a></li>
     <li> <a href ="https://www.youtube.com/watch?v=MT6M_sqAuZo">How to Open Source Like a Pro</a></li>
     <li> <a href ="https://www.youtube.com/watch?v=GbqSvJs-6W4">How To Get Started With Open Source</a></li>
     <li> <a href ="https://www.youtube.com/watch?v=DnvhWAx2I7A">How to Contribute to Open Source Projects</a></li>
