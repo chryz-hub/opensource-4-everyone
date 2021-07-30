@@ -35,6 +35,17 @@ This file is allocated towards helping you understand the basics of Git and GitH
 - [Two Git commands you probably missed in your daily routine](https://thelinuxli.ch/two-git-commands-you-probably-missed-in-your-daily-routine)
 - [How to setup GitHub Actions on your Github repository](https://blog.bhanuteja.dev/30-git-commands-that-i-frequently-use)
 - [The most basic and essential GIT commands walkthrough](https://bearcub3.hashnode.dev/the-most-basic-and-essential-git-commands-walkthrough-ckgmw77b3012po9s188vag2ig)
+- [Don't overcomplicate git](https://h.daily-dev-tips.com/dont-overcomplicate-git)
+- [Learn the Basics of Git in Under 10 Minutes](https://nand.blog/git101)
+- [The Ultimate Guide to Git Commands](https://ankits.hashnode.dev/the-ultimate-guide-to-git-commands)
+- [13 Git Commands Every Developer Should Know](https://svikashk.hashnode.dev/13-git-commands-every-developer-should-know-ckftd1wrm03wtv6s1bqmrgul6)
+- [GIT INIT (Part-1)](https://apoorvtyagi.tech/git-init-part-1)
+- [GIT INIT (Part-2)](https://apoorvtyagi.tech/git-init-part-2)
+- [GitHub CLI 1.0: All you need to know](https://ayushirawat.com/github-cli-10-all-you-need-to-know)
+- [Introduction to Git-Adding an SSH Key](https://laasyasettyblog.hashnode.dev/introduction-to-git-adding-an-ssh-key)
+- [Understanding Git Terminologies : The Fun Way](https://hafsah.hashnode.dev/understanding-git-terminologies-the-fun-way-ckdet27bd003c42s13lsm5ry5)
+- [Baby Steps to Git and Version Control - Series 1](https://amarachiazubuike.com/baby-steps-to-git-and-version-control-series-1-ck36ciz5200eib1s1l5rscbdr)
+- [How to Fix Git Always Asking for User Credentials](https://blog.bolajiayodeji.com/how-to-fix-git-always-asking-for-user-credentials)
 
 
 # Git/GitHub Courses/Videos
