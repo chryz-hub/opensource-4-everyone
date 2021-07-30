@@ -80,7 +80,6 @@ By these data provided, connections can be made!
   <p>Bio: I am a backend develepor. </p>
   
 - [Shivam Dubey](https://github.com/WebShivam)
-
   <p>Bio: IT undergrad, Aspiring Full Stack Developer and an Open Source Enthusiast</p>
   
 - [Syed Zawwar Ahmed](https://github.com/SyedZawwarAhmed)
@@ -92,9 +91,11 @@ By these data provided, connections can be made!
 - [Tonatiuh Morales](https://github.com/blackc0mb)
   <p>Bio: Developer in my free time and interested in collaborating in a project. </p>
 
-
 - [Udeagbala Anthony](https://github.com/izudada)
   <p>Bio: A growing python developer, more interested in building web applications with python. </p>
 
 - [Uzoma Rita](https://github.com/i-am-rita)
   <p>Bio: Frontend Developer</p>
+
+- [Slim Coder](https://github.com/MrSlimCoder)
+  <p>Bio: I'm a Software Engineer, YouTube and a Content Writer. </p>
