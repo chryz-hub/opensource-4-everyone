@@ -26,7 +26,16 @@ This file is allocated towards helping you understand the basics of Git and GitH
 - [How to Create GitHub Draft Pull Requests](https://blog.idrisolubisi.com/how-to-create-github-draft-pull-requests)
 - [Start verifying your commits on GitHub in ~5 minutes](https://ozzie.sh/start-verifying-your-commits-on-github-in-5-minutes)
 - [List of all Git Commands](https://blog.vimalverma.in/list-of-all-git-commands)
-- [A Git CLI cheatSheet](https://blog.rishabkumar.com/a-git-cli-cheatsheet)
+- [https://blog.learncodeonline.in/git-all-in-one-cheat-sheet-a-collection-of-the-most-useful-git-commands](https://blog.learncodeonline.in/git-all-in-one-cheat-sheet-a-collection-of-the-most-useful-git-commands)
+- [GitHub - A complete guide](https://devhankering.hashnode.dev/github-a-complete-guide)
+- [A Git Cheatsheet Of Commands Every Developer Should Use](https://ravimengar.hashnode.dev/a-git-cheatsheet-of-commands-every-developer-should-use)
+- [Git and GitHub SSH Configuration](https://chrisdevcode.hashnode.dev/git-and-github-ssh-configuration)
+- [Getting Started with GitHub CLI](https://onyxcode.net/gh-cli-getting-started)
+- [How to use Git and GitHub inside of VS Code Editor](https://blog.thefierycoder.tech/how-to-use-git-and-github-inside-of-vs-code-editor)
+- [Two Git commands you probably missed in your daily routine](https://thelinuxli.ch/two-git-commands-you-probably-missed-in-your-daily-routine)
+- [How to setup GitHub Actions on your Github repository](https://blog.bhanuteja.dev/30-git-commands-that-i-frequently-use)
+- [The most basic and essential GIT commands walkthrough](https://bearcub3.hashnode.dev/the-most-basic-and-essential-git-commands-walkthrough-ckgmw77b3012po9s188vag2ig)
+
 
 # Git/GitHub Courses/Videos
 - [Git In-depth](https://frontendmasters.com/courses/git-in-depth/)
