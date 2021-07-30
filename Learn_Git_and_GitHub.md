@@ -67,6 +67,17 @@ This file is allocated towards helping you understand the basics of Git and GitH
 
 # Git/GitHub Courses/Videos
 - [Git In-depth](https://frontendmasters.com/courses/git-in-depth/)
+- [Introduction to Git and GitHub - Offered By Google](https://www.coursera.org/learn/introduction-git-github?specialization=google-it-automation&utm_source=gg&utm_medium=sem&utm_campaign=11-GoogleITwithPython-ROW&utm_content=11-GoogleITwithPython-ROW&campaignid=9733806670&adgroupid=119184274733&device=c&keyword=&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=507191775308&hide_mobile_promo&gclid=CjwKCAjwxo6IBhBKEiwAXSYBs8cqMR-9WYlilq7CrcFTkE7wQT1K7qv1XDpTa5HtjEJckeoyiU6cpRoCyCgQAvD_BwE)
+- [Version Control with Git](https://www.coursera.org/learn/version-control-with-git)
+- [Git for Developers Using Github](https://www.coursera.org/projects/git-for-developers-using-github)
+- [Manage Your Versions with Git (Part I)](https://www.coursera.org/projects/git-1)
+- [Manage Your Versions with Git (Part II)](https://www.coursera.org/projects/git-2)
+- [Learn Gitpro-logo- Codecademy](https://www.codecademy.com/learn/learn-git)
+- [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+- [Git: Become an Expert in Git & GitHub in 4 Hours](https://www.udemy.com/course/git-expert-4-hours/)
+- [Git Essentials: Mini Course](https://www.udemy.com/course/git-essentials-mini-course/)
+- [How Git Works- Plurasight](https://www.pluralsight.com/courses/how-git-works)
+- [Introduction to GitHub- The GitHub Training Team](https://lab.github.com/githubtraining/introduction-to-github)
 - [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk&t=934s)
 - [How to use GitHub | What is GitHub | Git and GitHub Tutorial | Edureka](https://www.youtube.com/watch?v=PQsJR8ci3J0)
 - [Git & GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
