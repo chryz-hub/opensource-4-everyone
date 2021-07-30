@@ -18,5 +18,15 @@ This file is allocated towards helping you understand the basics of Git and GitH
 - [How to Connect GitHub to your GitBash in 5 simple steps](https://unclebigbay.com/how-to-connect-github-to-your-gitbash-in-5-simple-steps)
 - [Git & Github: All you need to know](https://nehasoni.hashnode.dev/git-and-github-all-you-need-to-know)
 - [A Really Useful Git Command For Quickly Searching Text](https://blog.yogeshchavan.dev/a-really-useful-git-command-for-quickly-searching-text)
+- [How To Delete All Local Git Branches In One Go](https://catalins.tech/how-to-delete-all-local-git-branches-in-one-go)
+- [How To Delete a Git Branch Locally and Remotely](https://hashnode.com/post/how-to-delete-a-git-branch-locally-and-remotely-cknk32nc2004qwes12ck4hn3m)
+- [Renaming Your GitHub Projects](https://blog.benhammond.tech/renaming-your-github-projects)
+- [A Beginner's Guide to Git and Github](https://efeakhigbe.hashnode.dev/a-beginners-guide-to-git-and-github)
+- [Introduction to Git In 16 Minutes](https://vickyikechukwu.hashnode.dev/introduction-to-git-in-16-minutes)
+- [How to Create GitHub Draft Pull Requests](https://blog.idrisolubisi.com/how-to-create-github-draft-pull-requests)
+- [Start verifying your commits on GitHub in ~5 minutes](https://ozzie.sh/start-verifying-your-commits-on-github-in-5-minutes)
+- [List of all Git Commands](https://blog.vimalverma.in/list-of-all-git-commands)
+- [A Git CLI cheatSheet](https://blog.rishabkumar.com/a-git-cli-cheatsheet)
 
-  
+# Git/GitHub Courses/Videos
+- [Git In-depth](https://frontendmasters.com/courses/git-in-depth/)
