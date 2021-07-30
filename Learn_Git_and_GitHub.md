@@ -46,6 +46,10 @@ This file is allocated towards helping you understand the basics of Git and GitH
 - [Understanding Git Terminologies : The Fun Way](https://hafsah.hashnode.dev/understanding-git-terminologies-the-fun-way-ckdet27bd003c42s13lsm5ry5)
 - [Baby Steps to Git and Version Control - Series 1](https://amarachiazubuike.com/baby-steps-to-git-and-version-control-series-1-ck36ciz5200eib1s1l5rscbdr)
 - [How to Fix Git Always Asking for User Credentials](https://blog.bolajiayodeji.com/how-to-fix-git-always-asking-for-user-credentials)
+- [How to Fork a Repo on GitHub using your Mobile Device](https://sudoc.hashnode.dev/series/git-for-beginners)
+- [Git First Time Setup](https://blog.bolajiayodeji.com/git-first-time-setup)
+- [Git Cheat Sheet for Beginners and Intermediates](https://blog.bolajiayodeji.com/git-cheat-sheet-for-beginners-and-intermediates)
+- [Basics of Git](https://adarsh-thakur.hashnode.dev/series/basics-of-git)
 
 
 # Git/GitHub Courses/Videos
