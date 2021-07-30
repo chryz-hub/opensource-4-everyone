@@ -1,3 +1,5 @@
+# Git/GitHub Resources
+
 This file is allocated towards helping you understand the basics of Git and GitHub and how to get started.
 
 # Git/GitHub Blogs 
