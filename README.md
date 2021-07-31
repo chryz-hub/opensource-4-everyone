@@ -13,7 +13,7 @@ In order for us not to ignore your effort, please check well not to make a dupli
 
 # Contributing
 
-If you want to contribute to a project and make it better, your help is very welcome. Contributing is also a great way to learn more about social coding on GitHub, new technologies and their ecosystems and how to make constructive, helpful bug reports, feature requests and the noblest of all contributions: a good, clean Pull Request.
+If you want to contribute to a project and make it better, your help is very welcome. Contributing is also a great way to learn more about social coding on GitHub, new technologies and their ecosystems and how to make constructive, helpful bug reports, feature requests and the noblest of all contributions: a good, clean Pull Request. To learn how to use Git or GitHub here is a [resource](https://github.com/Mannuel25/opensource-4-everyone/blob/master/Learn_Git_and_GitHub.md) allocated for that.
 
 ### How to make a clean Pull Request
 
@@ -280,9 +280,11 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 <ul>
     <li> <a href ="https://docs.github.com/en/github/getting-started-with-github/finding-ways-to-contribute-to-open-source-on-github"> GitHub docs for open source</a></li>
     <li> <a href ="https://opensource.guide/how-to-contribute/"> GitHub open souce guide</a></li>
+    <li> <a href ="https://fasani.hashnode.dev/5-tips-for-getting-involved-in-open-source-projects-on-github-ckdrmibup00unfzs1e56ugo1q"> 5 tips for getting involved in open-source projects on GitHub</a></li>
     <li> <a href ="https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/"> Getting started with contributing to open source</a></li>
     <li> <a href ="https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git"> How To Contribute To Open Source: Getting Started With Git</a></li>
     <li> <a href ="https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/"> The beginner's guide to contributing to a GitHub project</a></li>
+    <li> <a href ="https://www.works-hub.com/learn/the-beginners-guide-to-contributing-to-open-source-4a526"> The Beginner's Guide to Contributing to Open Source</a></li>
     <li> <a href ="https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-software-projects"> How To Maintain Open-Source Software Projects</a></li>
     <li> <a href ="https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute"> How to Contribute to Open Source</a></li>
     <li> <a href ="https://www.hackerearth.com/getstarted-opensource/"> How to get started with Open Source</a></li>
