@@ -294,7 +294,6 @@ Search links that point directly to suitable issues to contribute to on GitHub.
     <li> <a href ="https://www.codemotion.com/magazine/dev-hub/backend-dev/contributing-to-open-source-projects/"> Contributing To Open-Source Projects</a></li>
     <li> <a href ="https://edidiongasikpo.com/open-source-contributions-a-catalyst-for-growth">Open Source contributions: A catalyst for growth</a></li>
     <li> <a href ="https://pulkitsinghdev.hashnode.dev/how-to-contribute-to-open-source"> A guide to making open source contributions</a></li>
-    <li> <a href ="https://rubygarage.org/blog/how-contribute-to-open-source-projects"> How to Contribute to Open-Source Projects</a></li>
     <li> <a href ="https://ololade.hashnode.dev/series/beginners-guide-to-open-source-contribution"> Beginner's Guide to Open Source Contribution</a></li>
     <li> <a href ="https://dev.to/denicmarko/make-your-first-open-source-contribution-4b0n">Make your first open-source contribution</a></li>
     <li> <a href ="https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/"> How To Get Started In Open Source</a></li>
@@ -339,7 +338,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
     <li> <a href ="https://medium.com/@nayafia/what-success-really-looks-like-in-open-source-2dd1facaf91c#.pbieg7stv"> What success really looks like in open source</a></li>
     <li> <a href ="https://taskwarrior.org/docs/advice.html"> Advice To Open Source Project Contributors</a></li>
     <li> <a href ="https://meghapathak.com/5-steps-for-making-your-first-open-source-contribution">Making Your First Open Source Contribution</a></li>
-    <li> <a href ="https://ayush-raj-blogs.hashnode.dev/making-clean-pr-for-open-source-contributors-pep-8-style">Making clean PR for Open Source Contributors ( PEP 8 Style )</a></li>
+    <li> <a href ="https://ayush-raj-blogs.hashnode.dev/making-clean-pr-for-open-source-contributors-pep-8-style">Making clean PR for Open Source Contributors (PEP 8 Style)</a></li>
     <li> <a href ="https://catalins.tech/getting-started-with-open-source-how-to-contribute">Getting Started With Open-Source: How To Contribute</a></li>
     <li> <a href ="https://movi.hashnode.dev/10-ways-you-can-contribute-to-open-source-ckfljitve00cspds1d0cmbzv2">Ways you can contribute to Open-source</a></li>
     <li> <a href ="https://taskwarrior.org/docs/first_time.html"> How to become an Open Source Contributor</a></li>
