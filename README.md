@@ -294,7 +294,6 @@ Search links that point directly to suitable issues to contribute to on GitHub.
     <li> <a href ="https://www.codemotion.com/magazine/dev-hub/backend-dev/contributing-to-open-source-projects/"> Contributing To Open-Source Projects</a></li>
     <li> <a href ="https://edidiongasikpo.com/open-source-contributions-a-catalyst-for-growth">Open Source contributions: A catalyst for growth</a></li>
     <li> <a href ="https://pulkitsinghdev.hashnode.dev/how-to-contribute-to-open-source"> A guide to making open source contributions</a></li>
-    <li> <a href ="https://rubygarage.org/blog/how-contribute-to-open-source-projects"> How to Contribute to Open-Source Projects</a></li>
     <li> <a href ="https://ololade.hashnode.dev/series/beginners-guide-to-open-source-contribution"> Beginner's Guide to Open Source Contribution</a></li>
     <li> <a href ="https://dev.to/denicmarko/make-your-first-open-source-contribution-4b0n">Make your first open-source contribution</a></li>
     <li> <a href ="https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/"> How To Get Started In Open Source</a></li>
