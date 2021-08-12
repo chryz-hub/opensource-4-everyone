@@ -142,19 +142,17 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 
 <details><summary><strong> Websites </summary><blockquote></strong>
 <ul>
-    <li><a href="https://www.codetriage.com/"> CodeTriage</a></li>
-    <li><a href="https://goodfirstissue.dev/"> Good First Issue.dev</a></li>
-    <li><a href="http://goodfirstissue.com/"> Good First Issue.com</a></li>
-    <li><a href="https://up-for-grabs.net/"> Up-for-grabs</a></li>
-    <li><a href="https://www.firsttimersonly.com/"> First timers only</a></li>
-    <li><a href="https://firstcontributions.github.io/"> First contributions</a></li>
-    <li><a href="https://contributor.ninja/"> Contributor Ninja</a></li>
-    <li><a href="https://gauger.io/contrib"> Gauger Site</a></li>
-    <li><a href="https://opensauced.pizza/"> OpenSauced</a></li>
-    <li><a href="https://opensourcefriday.com/"> Open Source Friday</a></li>
-    <li><a href="https://24pullrequests.com/"> 24pullrequests</a></li>
-    <li><a href="http://issuehub.pro/"> issuehub</a></li>
-    <li><a href="http://www.pullrequestroulette.com/"> pullrequestroulette</a></li>
+    <li><a href="https://www.codetriage.com/">CodeTriage</a> - CodeTriage helps by picking a handful of open issues and delivering them directly to your inbox. After you sign up for CodeTriage, you pick the repos you want to help with, and we periodically send you issues.</li> 
+    <li><a href="https://goodfirstissue.dev/"> goodfirstissue.dev</a> - Curates easy pickings from popular open-source projects, and helps you make your first contribution to open-source.</li>
+    <li><a href="http://goodfirstissue.com/"> goodfirstissue.com</a> - A site made for new contributors to find great Open Source projects, discover issues and repositories with good first issue and help wanted labels.</li>
+    <li><a href="https://up-for-grabs.net/"> Up For Grabs</a> - This is a list of projects which have curated tasks specifically for new contributors. These are a great way to get started with a project, or to help share the load of working on open source projects.</li>
+    <li><a href="https://firstcontributions.github.io/"> First contributions</a> - A hands-on tutorial that walks you through contributions workflow on GitHub. It help beginners to contribute to open source projects.</li>
+    <li><a href="https://contributor.ninja/"> Contributor Ninja</a> - A platform to find issues in several languages to fix on GitHub.</li>
+    <li><a href="https://gauger.io/contrib"> Gauger</a> - With this site, you can find beginner friendly open source projects to work on.</li>
+    <li><a href="https://opensauced.pizza/"> Open Sauced</a> - Open Sauced provides guidance for new contributors finding their next contribution. Our approach towards onboarding offers a way to track contributions through a GitHub powered dashboard.</li>
+    <li><a href="https://24pullrequests.com/"> 24 Pull Requests</a> - 24 Pull Requests' goal is to encourage contribution to open source projects during December. The site suggests open projects, highlights tickets that are good for new contributors, provides guides for contributing and promotes good contributions submitted each day.</li>
+    <li><a href="http://issuehub.pro/"> Issue Hub</a> - Contribute to open source by searching issue labels to find the right project for you!</li>
+    <li><a href="http://www.pullrequestroulette.com/"> Pull Request Roulette</a> - On this site, there's a list of pull requests submitted for review, belonging to open source projects hosted on GitHub.</li>
 </ul>
 </blockquote></details>
 </details>
@@ -282,6 +280,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
     <li> <a href ="https://opensource.guide/how-to-contribute/"> GitHub open souce guide</a></li>
     <li> <a href ="https://fasani.hashnode.dev/5-tips-for-getting-involved-in-open-source-projects-on-github-ckdrmibup00unfzs1e56ugo1q"> 5 tips for getting involved in open-source projects on GitHub</a></li>
     <li> <a href ="https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/"> Getting started with contributing to open source</a></li>
+    <li> <a href = "https://www.hanselman.com/blog/GetInvolvedInOpenSourceTodayHowToContributeAPatchToAGitHubHostedOpenSourceProjectLikeCode52.aspx"> Get Involved In Open Source Today</a></li>
     <li> <a href ="https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git"> How To Contribute To Open Source: Getting Started With Git</a></li>
     <li> <a href ="https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/"> The beginner's guide to contributing to a GitHub project</a></li>
     <li> <a href ="https://www.works-hub.com/learn/the-beginners-guide-to-contributing-to-open-source-4a526"> The Beginner's Guide to Contributing to Open Source</a></li>
