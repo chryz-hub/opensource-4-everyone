@@ -142,7 +142,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 
 <details><summary><strong> Websites </summary><blockquote></strong>
 <ul>
-    <li><a href="https://www.codetriage.com/"> CodeTriage</a></li> - CodeTriage helps by picking a handful of open issues and delivering them directly to your inbox. After you sign up for CodeTriage, you pick the repos you want to help with, and we periodically send you issues. 
+    <li><a href="https://www.codetriage.com/">CodeTriage</a> - CodeTriage helps by picking a handful of open issues and delivering them directly to your inbox. After you sign up for CodeTriage, you pick the repos you want to help with, and we periodically send you issues.</li> 
     <li><a href="https://goodfirstissue.dev/"> Good First Issue.dev</a></li>
     <li><a href="http://goodfirstissue.com/"> Good First Issue.com</a></li>
     <li><a href="https://up-for-grabs.net/"> Up-for-grabs</a></li>
