@@ -2,6 +2,12 @@
 
 This file is allocated towards helping you understand the basics of Git and GitHub and how to get started.
 
+## Index
+
+* [Git/GitHub Blogs](#gitgithub-blogs) - Blogs explaining git/github fundamentals and concepts.
+* [Git/GitHub Courses/Videos](#gitgithub-coursesvideos) - Videos explaining how to use git/github.
+* [Git/GitHub Repositories](#gitgithub-repositories) - Repositories to learn git and github
+
 # Git/GitHub Docs/Blogs 
 
 - [GitHub Guides](https://guides.github.com/activities/hello-world/)
