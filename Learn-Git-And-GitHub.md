@@ -110,4 +110,4 @@ This file is allocated towards helping you understand the basics of Git and GitH
 
 # Git/GitHub Repositories
 
-- [GitHub Actions Starter Pack](https://github.com/jasonbarry/github-actions-starter-pack) - Sample code project for automating various tasks via GitHub Actions.)
+- [GitHub Actions Starter Pack](https://github.com/jasonbarry/github-actions-starter-pack) - Sample code project for automating various tasks via GitHub Actions.
