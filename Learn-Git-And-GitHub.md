@@ -2,6 +2,12 @@
 
 This file is allocated towards helping you understand the basics of Git and GitHub and how to get started.
 
+## Index
+
+* [Git/GitHub Blogs](#gitgithub-blogs) - Blogs explaining git/github fundamentals and concepts.
+* [Git/GitHub Courses/Videos](#gitgithub-coursesvideos) - Videos explaining how to use git/github.
+* [Git/GitHub Repositories](#gitgithub-repositories) - Repositories to learn git and github
+
 # Git/GitHub Docs/Blogs 
 
 - [GitHub Guides](https://guides.github.com/activities/hello-world/)
@@ -102,3 +108,6 @@ This file is allocated towards helping you understand the basics of Git and GitH
 - [Git and GitHub Tutorials](https://www.youtube.com/watch?v=r50BKIFGCI0&list=PLB5jA40tNf3v1wdyYfxQXgdjPgQvP7Xzg)
 - [Git & GitHub Tutorials](https://www.youtube.com/watch?v=_bkT85B6n1U&list=PLzS3AYzXBoj8mX3WbzQDghYytnx2JqBrU)
 
+# Git/GitHub Repositories
+
+- [GitHub Actions Starter Pack](https://github.com/jasonbarry/github-actions-starter-pack) - Sample code project for automating various tasks via GitHub Actions.
