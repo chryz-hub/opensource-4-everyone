@@ -353,8 +353,9 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 
 <details><summary><strong>Podcasts </summary><blockquote></strong>
 <ul>
-    <li><a href="https://github.com/readme/podcast"> The ReadME Podcast</a></li>
-    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9vcGVuc291cmNldW5kZXJkb2dzLmNvbS9mZWVkLw?ep=14"> Open Source Underdogs</a></li>
+    <li><a href="https://github.com/readme/podcast"> The ReadME Podcast</a> - On The ReadME Podcast, we take a look behind the scenes of the most impactful open source projects and the developers who make them happen.</li>
+
+    <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9vcGVuc291cmNldW5kZXJkb2dzLmNvbS9mZWVkLw?ep=14"> Open Source Underdogs</a> - A podcast for entrepreneurs about open-source software. In each episode, we chat with a founder or leader to explore how they are building thriving businesses around open-source software. Our goal is to demystify how entrepreneurs can stay true to their open-source objectives while also building sustainable, profitable businesses that fuel innovation and ensure longevity.</li>
     <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0Lm9wZW5zYXAuaW5mby9vcGVuLXNvdXJjZS13YXkvZmVlZC9tcDMv?ep=14"> The Open Source Way</a></li>
     <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xZjQ0NTg4MC9wb2RjYXN0L3Jzcw?ep=14"> FINOS Open Source in Finance Podcast</a></li>
     <li><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5wb2RldGl6ZS5jb20vcnNzLy1tUmxFdmJ6dQ?ep=14"> The Craft Of Open Source</a></li>
