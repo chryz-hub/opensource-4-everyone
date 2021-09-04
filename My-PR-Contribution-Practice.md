@@ -101,3 +101,7 @@ By these data provided, connections can be made!
 
 - [Uzoma Rita](https://github.com/i-am-rita)
   <p>Bio: Frontend Developer</p>
+  
+  
+- [Mubeen Ahmad](https://github.com/MubeenAhmad571)
+  <p>Bio: I'm a frontend developer</p>
