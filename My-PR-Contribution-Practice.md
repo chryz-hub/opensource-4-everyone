@@ -105,5 +105,7 @@ By these data provided, connections can be made!
 - [Uzoma Rita](https://github.com/i-am-rita)
   <p>Bio: Frontend Developer</p>
   
+- [Gautam Jain](https://github.com/Astrogeek77)
+  <p>Bio: MERN Developer with decent competitive skills and and a interest for tech.</p>
   
 
