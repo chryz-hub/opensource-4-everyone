@@ -89,6 +89,10 @@ By these data provided, connections can be made!
 
   <p>Bio: IT undergrad, Aspiring Full Stack Developer and an Open Source Enthusiast</p>
   
+- [Shreyam Sarkar](https://github.com/darkhorse-2000)
+
+  <p>Bio: I am a Frontend Web developer, Python Programmer and an Open Source Enthusiast.</p>
+  
 - [Syed Zawwar Ahmed](https://github.com/SyedZawwarAhmed)
   <p>Bio: I am a frontend developer.</p>
   
