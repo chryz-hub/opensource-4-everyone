@@ -109,5 +109,7 @@ By these data provided, connections can be made!
 - [Uzoma Rita](https://github.com/i-am-rita)
   <p>Bio: Frontend Developer</p>
   
+  - [Jyoti prakash Rout](https://github.com/your-username)
+<p>Bio: Fullstack Web Devloper________________________________________</p>
   
 
