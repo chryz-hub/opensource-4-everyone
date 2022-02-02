@@ -67,6 +67,9 @@ By these data provided, connections can be made!
 - [Mohammed Kabir Hussaini](https://github.com/lekandev)
   <p>Bio: I am a 17 y.o frontend Developer with skills on JavaScript, React and Nextjs. I tend to have major original ideas to create the next big thing</p>
   
+- [Mrinaal Arora](https://github.com/aroramrinaal)
+  <p>Bio: Computer Science Undergrad and Open Source Contributor.</p>
+
 - [Mubeen Ahmad](https://github.com/MubeenAhmad571)
   <p>Bio: I'm a frontend developer</p>
 
