@@ -112,5 +112,7 @@ By these data provided, connections can be made!
 - [Uzoma Rita](https://github.com/i-am-rita)
   <p>Bio: Frontend Developer</p>
   
-  
+ - [Pranoto Budi](https://github.com/pranotobudi)
+  <p>Bio: Backend Developer</p>
+   
 
