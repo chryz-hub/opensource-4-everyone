@@ -46,6 +46,9 @@ By these data provided, connections can be made!
 - [Eke Victor](https://github.com/Evavic44)
   <p>Bio: A self-taught Frontend web developer proficient in HTML & CSS. With a passion to build solutions using JavaScript</p>
   
+- [Fayas Noushad](https://github.com/FayasNoushad)
+  <p>Bio: Indian | Opensource Developer | Tech Enthusiast</p>
+  
 - [Festus Michael](https://github.com/MichaelFestus)
   <p>Bio: Self taught Fron-End developer, Aspiring reactjs developer</p>
 
@@ -63,6 +66,12 @@ By these data provided, connections can be made!
   
 - [Mohammed Kabir Hussaini](https://github.com/lekandev)
   <p>Bio: I am a 17 y.o frontend Developer with skills on JavaScript, React and Nextjs. I tend to have major original ideas to create the next big thing</p>
+  
+- [Mrinaal Arora](https://github.com/aroramrinaal)
+  <p>Bio: Computer Science Undergrad and Open Source Contributor.</p>
+
+- [Mubeen Ahmad](https://github.com/MubeenAhmad571)
+  <p>Bio: I'm a frontend developer</p>
 
 - [Naman Gupta](https://github.com/namangupta1399)
   <p>Bio: Computer Science Undergraduate, Aspiring Web Developer.</p>
@@ -83,6 +92,10 @@ By these data provided, connections can be made!
 
   <p>Bio: IT undergrad, Aspiring Full Stack Developer and an Open Source Enthusiast</p>
   
+- [Shreyam Sarkar](https://github.com/darkhorse-2000)
+
+  <p>Bio: I am a Frontend Web developer, Python Programmer and an Open Source Enthusiast.</p>
+  
 - [Syed Zawwar Ahmed](https://github.com/SyedZawwarAhmed)
   <p>Bio: I am a frontend developer.</p>
   
@@ -98,3 +111,8 @@ By these data provided, connections can be made!
 
 - [Uzoma Rita](https://github.com/i-am-rita)
   <p>Bio: Frontend Developer</p>
+  
+ - [Pranoto Budi](https://github.com/pranotobudi)
+  <p>Bio: Backend Developer</p>
+   
+

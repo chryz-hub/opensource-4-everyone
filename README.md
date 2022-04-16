@@ -347,6 +347,8 @@ Search links that point directly to suitable issues to contribute to on GitHub.
     <li> <a href ="https://daily.dev/blog/how-to-contribute-to-open-source-projects-as-a-beginner"> How To Contribute To Open-Source Projects As A Beginner</a></li>
     <li> <a href ="https://www.upgrad.com/blog/open-source-projects-for-beginners/">Top 8 Open Source Projects for Beginners To Try in 2021</a></li>
     <li> <a href ="https://www.upgrad.com/blog/open-source-repositories-github/">Top 12 Most Popular Open Source Repositories on GitHub[2021]</a></li>
+    <li> <a href ="https://medium.com/@frankiefab100/first-timers-practical-guide-to-open-source-contribution-f1ad553ac79">First timers’ Practical Guide to Open Source Contribution</a></li>
+    <li> <a href ="https://frankiefab.hashnode.dev/ten-10-reasons-you-should-contribute-to-free-and-open-source-projects-ckhj55rzq00ud7ys193oid5ia">Ten (10) Reasons You Should Contribute to Free and Open Source Projects</a></li>
 </ul>
 </blockquote></details>
 </details>
@@ -388,5 +390,5 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 <a href="https://discord.gg/c6RhGwcP5b"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><br>
 <a href="https://github.com/chryz-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="102px"></a><br>
 <a href="https://youtube.com/channel/UCxro6LYOp3pmmuWDPMg-p1Q"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a><br>
-<a href="https://twitter.com/ChryzHub"><img src="https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FChryzHub"></a><br>
+<a href="https://twitter.com/ChryzHub"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"></a><br>
 <a href="https://www.linkedin.com/company/chryzhub/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
