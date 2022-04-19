@@ -79,6 +79,9 @@ By these data provided, connections can be made!
 - [Poonam Rajput](https://github.com/Poonam-raj)
   <p>Bio: Frontend Developer-in-training primarily working on Javascript </p>
 
+- [Rohit Tewari](https://github.com/rtewari056)
+  <p>Bio: MERN Stack Developer and Competitive Coder</p>
+
 - [Sachin Mauyra](https://github.com/slayer321)
   <p>Bio: Passionate about cybersecurity and Open source </p>
 
