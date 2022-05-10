@@ -45,6 +45,9 @@ By these data provided, connections can be made!
 
 - [Eke Victor](https://github.com/Evavic44)
   <p>Bio: A self-taught Frontend web developer proficient in HTML & CSS. With a passion to build solutions using JavaScript</p>
+    
+- [Enes](https://github.com/devenes)
+  <p>Bio: DevOps and Platform Engineer. </p>
   
 - [Fayas Noushad](https://github.com/FayasNoushad)
   <p>Bio: Indian | Opensource Developer | Tech Enthusiast</p>
@@ -115,5 +118,3 @@ By these data provided, connections can be made!
 - [Uzoma Rita](https://github.com/i-am-rita)
   <p>Bio: Frontend Developer</p>
   
-  
-
