@@ -76,6 +76,9 @@ By these data provided, connections can be made!
 - [Mubeen Ahmad](https://github.com/MubeenAhmad571)
   <p>Bio: I'm a frontend developer</p>
 
+- [Naman Garg](https://github.com/naman-ng)
+  <p>Bio: I'm a full stack developer and web3 enthusiast</p>
+  
 - [Naman Gupta](https://github.com/namangupta1399)
   <p>Bio: Computer Science Undergraduate, Aspiring Web Developer.</p>
 
