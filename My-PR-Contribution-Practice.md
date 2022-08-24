@@ -91,7 +91,7 @@ By these data provided, connections can be made!
 - [Sakhil](https://github.com/Sakhil2014)
   <p>Bio:A free time Web Dev. Trying hard to become a fullstack</p>
 
-  - [Shittu Titilola](https://github.com/lhorla)
+- [Shittu Titilola](https://github.com/lhorla)
   <p>Bio: Frontend developer and writer</p>
 
 - [Shivam Chandra](https://github.com/magicBeans23)
