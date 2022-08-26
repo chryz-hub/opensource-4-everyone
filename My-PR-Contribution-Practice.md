@@ -57,6 +57,9 @@ By these data provided, connections can be made!
 
 - [Franklin Ohaegbulam](https://github.com/frankiefab100)
   <p>Bio: A visual designer and Frontend/UI Developer. </p>
+  
+- [Hemant](https://github.com/hemantwasthere)
+  <p>Bio: Frontend Dev || Open Source Enthusiast </p>
 
 - [Ibrahim Ayodeji](https://github.com/hackEibrahim)
   <p>Bio: aspiring full stack developer | practicing HTML and CSS | learning JavaScript | open source contributor </p>
