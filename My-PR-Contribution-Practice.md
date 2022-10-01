@@ -69,6 +69,9 @@ By these data provided, connections can be made!
   
 - [Jyotsna Doonga](https://github.com/jyotsnad246)
   <p>Bio: Data Analytics, Frontend Development</p>
+
+- [Kesavan](https://github.com/kesavan-hex)
+  <p>Bio: Full Stack Web Development, Android</p>
   
 - [ManuSquall](https://github.com/ManuSquall)
   <p>Bio: Web / Software / SharePoint Junior Developer 🙂 </p>
