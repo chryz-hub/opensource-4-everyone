@@ -39,6 +39,9 @@ By these data provided, connections can be made!
 
 - [Anshul Mehta](https://github.com/Anshul7sp1)
   <p>Bio: CS undergrad. Interested in contributing to opensource</p>
+  
+- [Thanmai Sai](https://github.com/thanmaisai)
+  <p>Bio: Web Developer | App Developer |  Opensource enthusiast</p>
 
 - [Damilare Oyedeji](https://github.com/fuglydami)
   <p>Bio: I'm a frontend developer who's also passionate about backend technologies </p>
