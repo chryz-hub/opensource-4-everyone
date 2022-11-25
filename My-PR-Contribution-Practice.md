@@ -40,6 +40,9 @@ By these data provided, connections can be made!
 
 - [Anshul Mehta](https://github.com/Anshul7sp1)
   <p>Bio: CS undergrad. Interested in contributing to opensource</p>
+  
+- [Challenge Handler](https://github.com/challengehandler)
+  <p>Bio: A full-stack web developer. Always be anonymous as a contributor.</p>
 
 - [Damilare Oyedeji](https://github.com/fuglydami)
   <p>Bio: I'm a frontend developer who's also passionate about backend technologies </p>
