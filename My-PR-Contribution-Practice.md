@@ -128,3 +128,6 @@ By these data provided, connections can be made!
 
 - [Uzoma Rita](https://github.com/i-am-rita)
   <p>Bio: Frontend Developer</p>
+  
+  - [Akash Hasendra ](https://github.com/HMAHD)
+    <p>Bio: AI Enthusiast 👾| Web Developer 👨‍💻| Trader 📈</p>
