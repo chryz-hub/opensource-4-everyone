@@ -31,6 +31,9 @@ By these data provided, connections can be made!
 
 - [Ademosu Adeola](https://github.com/Adecodess)
   <p>Bio: Frontend Developer,proficient in javascript, reactjs, html, css  </p>
+  
+- [Aakash Handa](https://github.com/Aakashdeveloper)
+  <p>Bio: Full Stack Solution Arch.</p>
 
 - [Alaba Olanrewaju](https://github.com/chryzcodez)
   <p>Bio: A developer, technical writer/ blogger, an open-source personnel and an aspiring data scientist. </p>
