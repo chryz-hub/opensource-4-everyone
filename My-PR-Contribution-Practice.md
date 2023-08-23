@@ -128,3 +128,7 @@ By these data provided, connections can be made!
 
 - [Uzoma Rita](https://github.com/i-am-rita)
   <p>Bio: Frontend Developer</p>
+
+- [Venukanthan B S](https://github.com/itsvenu22)
+  <p>Bio: I'm a Web, Cloud, IOT and Cybersecurity enthusiast. Just say 'hi' and the magic will happen, We can collaborate on projects :D </p>
+  
