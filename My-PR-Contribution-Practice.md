@@ -90,7 +90,6 @@ By these data provided, connections can be made!
   Bio: Computer Science Undergrad and Open Source Contributor.
 
 - [Mubeen Ahmad](https://github.com/MubeenAhmad571)
-  Bio: I'm a frontend developer
 
 - [Naman Garg](https://github.com/naman-ng)
   Bio: I'm a full stack developer and web3 enthusiast
