@@ -52,6 +52,10 @@ By these data provided, connections can be made!
   Bio: Self taught Fron-End developer, Aspiring reactjs developer
 
 - [Franklin Ohaegbulam](https://github.com/frankiefab100)
+  <p>Bio: A visual designer and Frontend/UI Developer. </p>
+
+- [FREDVUNI](https://github.com/FREDVUNI)
+  <p>Bio: Software Developer | Open source enthusiast | DevOps newbie | Actively learning and collaborating with fellow developers  </p>
 
 - [Hemant](https://github.com/hemantwasthere)
   Bio: Frontend Dev || Open Source Enthusiast
