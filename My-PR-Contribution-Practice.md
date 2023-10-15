@@ -47,23 +47,11 @@ By these data provided, connections can be made!
 - [Damilare Oyedeji](https://github.com/fuglydami)
   Bio: I'm a frontend developer who's also passionate about backend technologies
 
-  - [Deepanshu Kumar](https://github.com/deepanshu1334)
-  Bio: I'm an  frontend developer and learning about backend
-
-- [Eke Victor](https://github.com/Evavic44)
-  Bio: A self-taught Frontend web developer proficient in HTML & CSS. With a passion to build solutions using JavaScript
-
-- [Enes](https://github.com/devenes)
-  Bio: DevOps and Platform Engineer.
-
-- [Fayas Noushad](https://github.com/FayasNoushad)
-  Bio: Indian | Opensource Developer | Tech Enthusiast
 
 - [Festus Michael](https://github.com/MichaelFestus)
   Bio: Self taught Fron-End developer, Aspiring reactjs developer
 
 - [Franklin Ohaegbulam](https://github.com/frankiefab100)
-  Bio: A visual designer and Frontend/UI Developer.
 
 - [Hemant](https://github.com/hemantwasthere)
   Bio: Frontend Dev || Open Source Enthusiast
@@ -72,19 +60,11 @@ By these data provided, connections can be made!
   Bio: aspiring full stack developer | practicing HTML and CSS | learning JavaScript | open source contributor 
 
 - [JayantGoel001](https://github.com/JayantGoel001)
-  Bio: Android, Data Science and Web Development
 
 - [Jyotsna Doonga](https://github.com/jyotsnad246)
   Bio: Data Analytics, Frontend Development
 
 - [Kesavan](https://github.com/kesavan-hex)
-  Bio: Full Stack Web Development, Android
-
-- [ManuSquall](https://github.com/ManuSquall)
-  Bio: Web / Software / SharePoint Junior Developer 🙂
-
-- [Mohammed Kabir Hussaini](https://github.com/lekandev)
-  Bio: I am a 17 y.o frontend Developer with skills on JavaScript, React and Nextjs. I tend to have major original ideas to create the next big thing
 
 - [Mrinaal Arora](https://github.com/aroramrinaal)
   Bio: Computer Science Undergrad and Open Source Contributor.
@@ -112,16 +92,6 @@ By these data provided, connections can be made!
   Bio: Frontend developer and writer
 
 - [Shivam Chandra](https://github.com/magicBeans23)
-  Bio: I am a backend develepor.
-
-- [Shivam Dubey](https://github.com/WebShivam)
-  Bio: IT undergrad, Aspiring Full Stack Developer and an Open Source Enthusiast
-
-- [Shreyam Sarkar](https://github.com/darkhorse-2000)
-  Bio: I am a Frontend Web developer, Python Programmer and an Open Source Enthusiast.
-
-- [Syed Zawwar Ahmed](https://github.com/SyedZawwarAhmed)
-  Bio: I am a frontend developer.
 
 - [Tanimowo Emmanuel](https://github.com/mannuel25)
   Bio: I'm an aspiring back-end engineer.
