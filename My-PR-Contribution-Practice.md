@@ -61,7 +61,11 @@ By these data provided, connections can be made!
   Bio: Frontend Dev || Open Source Enthusiast
 
 - [Ibrahim Ayodeji](https://github.com/hackEibrahim)
-  Bio: aspiring full stack developer | practicing HTML and CSS | learning JavaScript | open source contributor 
+  Bio: aspiring full stack developer | practicing HTML and CSS | learning JavaScript | open source contributor
+
+- [Innocente Umuhuza Mutabazi](https://github.com/innocentemutabazi)
+  <p>Bio: Aspiring Full Stack Developer | Self-taught Front-end Dev | Currently deepening my knowledge in JavaScript and 
+  exploring its frameworks and libraries</p>
 
 - [JayantGoel001](https://github.com/JayantGoel001)
 
