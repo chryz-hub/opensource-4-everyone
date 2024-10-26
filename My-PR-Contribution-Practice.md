@@ -68,6 +68,9 @@ By these data provided, connections can be made!
 - [Jyotsna Doonga](https://github.com/jyotsnad246)
   Bio: Data Analytics, Frontend Development
 
+- [MutanPlex](https://github.com/MutanPlex)
+  Bio: Full Stack Developer  
+
 - [Kesavan](https://github.com/kesavan-hex)
 
 - [Mrinaal Arora](https://github.com/aroramrinaal)
