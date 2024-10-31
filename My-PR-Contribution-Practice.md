@@ -83,6 +83,9 @@ By these data provided, connections can be made!
 - [Poonam Rajput](https://github.com/Poonam-raj)
   Bio: Frontend Developer-in-training primarily working on Javascript
 
+- [PushoDev](https://github.com/PushoDev)
+  Bio: Graduated in the Computer Science specialty. Passionate about Software Development and Problem Solving.
+
 - [Rohit Tewari](https://github.com/rtewari056)
   Bio: MERN Stack Developer and Competitive Coder
 
