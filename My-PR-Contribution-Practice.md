@@ -100,6 +100,9 @@ By these data provided, connections can be made!
 - [Tanimowo Emmanuel](https://github.com/mannuel25)
   Bio: I'm an aspiring back-end engineer.
 
+- [Tinotenda Mhedziso](https://github.com/Passion-Over-Pain)
+  <p>Bio: Final year Bsc IT student specializing in Desktop app development and Frontend development. </p>
+
 - [Tonatiuh Morales](https://github.com/blackc0mb)
   Bio: Developer in my free time and interested in collaborating in a project.
 
