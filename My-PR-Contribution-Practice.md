@@ -30,7 +30,10 @@ By these data provided, connections can be made!
 ---
 
 - [Ademosu Adeola](https://github.com/Adecodess)
-  Bio: Frontend Developer,proficient in javascript, reactjs, html, css  
+  Bio: Frontend Developer,proficient in javascript, reactjs, html, css
+
+- [Ayokanmi Adejola](https://github.com/Ayokanmi-Adejola)
+  Bio: Software Developer, Building scalable and user-friendly web applications. 
 
 - [Alaba Olanrewaju](https://github.com/chryzcodez)
   Bio: A developer, technical writer/ blogger, an open-source personnel and an aspiring data scientist. 
