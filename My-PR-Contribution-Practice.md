@@ -40,13 +40,15 @@ By these data provided, connections can be made!
 
 - [Anshul Mehta](https://github.com/Anshul7sp1)
   Bio: CS undergrad. Interested in contributing to opensource
-  
+
+- [Bibhushan Karki](https://github.com/BibhushanKarki)
+  Bio: 5+ Years Frontend Development | React | Next.js | Redux | TypeScript | React Native | Node.js | Express
+
 - [Challenge Handler](https://github.com/challengehandler)
   Bio: A full-stack web developer. Always be anonymous as a contributor.
 
 - [Damilare Oyedeji](https://github.com/fuglydami)
   Bio: I'm a frontend developer who's also passionate about backend technologies
-
 
 - [Festus Michael](https://github.com/MichaelFestus)
   Bio: Self taught Fron-End developer, Aspiring reactjs developer
