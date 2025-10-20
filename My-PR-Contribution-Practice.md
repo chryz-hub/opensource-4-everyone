@@ -83,6 +83,9 @@ By these data provided, connections can be made!
 - [Poonam Rajput](https://github.com/Poonam-raj)
   Bio: Frontend Developer-in-training primarily working on Javascript
 
+- [Rohit Mane](https://github.com/engineeringduration)
+  Bio: MERN Stack Developer | Open Source Contributor | Passionate about building startups | Enhancing problem-solving skills through DSA in Java | Open to collaboration
+
 - [Rohit Tewari](https://github.com/rtewari056)
   Bio: MERN Stack Developer and Competitive Coder
 
@@ -108,3 +111,5 @@ By these data provided, connections can be made!
 
 - [Uzoma Rita](https://github.com/i-am-rita)
   Bio: Frontend Developer
+
+
