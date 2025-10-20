@@ -82,7 +82,7 @@ After the commit, then click the Pull Request tab and make new Pull Request
 
 ### 5. Comparing Changes
 
-This is all about the comparism between your own forked version and the real repository to check if there was a change and if the change is mergeable. You can see the word `comparing across forks` and a transitional line with an arrow in the middle. You must set this well to avoid issue, now we are sending from mine to the main/real repository using the direction of the arrow, then you can make your Pull request. If it is not mergeable, you can still make the Pull Request and resolve it `resolve conflicts`, GitHub would point out the issue which makes it easier for you to resolve.
+This is all about the comparison between your own forked version and the real repository to check if there was a change and if the change is mergeable. You can see the word `comparing across forks` and a transitional line with an arrow in the middle. You must set this well to avoid issue, now we are sending from mine to the main/real repository using the direction of the arrow, then you can make your Pull request. If it is not mergeable, you can still make the Pull Request and resolve it `resolve conflicts`, GitHub would point out the issue which makes it easier for you to resolve.
 <img align="center" src="https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/chryz-hub-tut-pics/pr-tut-pics/pr-2-5.jpg" />
 
 ### 6. Create Pull Request Message
